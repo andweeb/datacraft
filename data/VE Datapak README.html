@@ -1,0 +1,569 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Parallel Domains - VE Datapak Intro Page</title>
+<style type="text/css">
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  color: #322;
+  background: #dfdddd;
+  margin: 0;
+}
+.wrapper {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 10px 25px 10px;
+  background: #fcfafa;
+}
+p {
+  font-size: 17px;
+  line-height: 28px;
+  text-indent: 1.2em;
+  margin-left: 1em;
+/*  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif; */
+}
+h1:first-line {
+  font-size: 45px;
+}
+h1 {
+  font-size: 16px;
+  padding-top: 25px;
+  min-height: 90px;
+  margin: 0 ;
+  color: #211;
+  background: url('http://paralleldomains.com/img/paralleldomains.png') right top no-repeat;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 22px;
+  margin-top: 1.4em;
+  font-style: italic;
+}
+ul {
+  margin:0 0 0 1.5em;
+  padding:0;
+  list-style:square;
+}
+
+li {
+  margin:0 0.5em 0.5em 1.5em;
+  padding:0pt;
+  text-align:justify;
+}
+
+a:link {
+  text-decoration: none;
+  COLOR: #F77F00;
+}
+
+a:visited {
+  text-decoration: none;
+  COLOR: #993300;
+}
+
+a:hover {
+  text-decoration: underline;
+  COLOR: #0000FF;
+}
+
+a:active {
+  text-decoration: none;
+  COLOR: #006600;
+}
+
+.code_wrapper {
+  padding: 0;
+  border: 1px solid #aaa;
+  background: #e6e6dd;
+  border-left: 10px solid #aaa;
+  border-radius: 0 10px 0 0;
+  margin-left: 1em;
+}
+
+pre {
+  display: block;
+  overflow: auto;
+  margin: 0;
+  padding: 10px;
+}
+samp, code {
+  font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+}
+pre samp, pre code {
+  background: #e6e6dd;
+  color: #000;
+ font-size: 13px;
+ background: none transparent;
+}
+</style>
+</head>
+
+<body>
+<div class="wrapper">
+
+  <h1>VE Datapak<br/>By Parallel Domains, contact: data@paralleldomains.com</h1>
+  <h2>Introduction</h2>
+
+  <p class="intro">
+    In the era of big data, there are many daunting challenges as well as
+    exciting opportunities for IT research.  While some are classic challenges
+    taken to unprecedented scales, others are completely new.
+    In this era, it is crucial to have a common dataset for validating
+    research ideas, prototypes, as well as to publish and share results
+    without sharing your proprietary information.  The VE Datapak is a data product created
+    just for that purpose.
+  </p>
+
+  <p>
+    The VE Datapak contains data that can uncover insights into 
+    how large numbers of individual players collaborate (i.e. '<em>chat</em>')
+    or compete (i.e. '<em>kill</em>') with each other in thirteen different virtual
+    universes in a massively multiplayer online game ("<em>MMOG</em>").
+    While some users play solely in one universe, others play across
+    multiple universes. The time span for game play is four weeks of
+    wall clock time, on a granularity of minutes. With each update,
+    the timespan grows continually by four more weeks.
+  </p>
+
+  <p>
+    <strong>Please Note</strong>: <em>The latest copy of this document
+    can always be found at <a href="http://paralleldomains.com/readme.html"
+    >paralleldomains.com/readme.html</a>, and the VE Datapak may be
+    found at <a href="http://data.paralleldomains.com/"
+    >data.paralleldomains.com</a></em>.
+  </p>
+
+
+  <h3>Where is the dataset from</h3>
+
+  <p>
+    The VE Datapak has been created by recording activity on thirteen servers
+    hosting a popular networked game called <b>Minecraft</b>. The dataset is
+    heavily anonymized.
+  </p>
+
+  <p>
+    Servers are identified by random strings, such as [<samp>509fb8211dbf9d6b7e000004</samp>]. 
+    Players are identified by random strings, such as [<samp>baba27973f7f497e51d553f0b233ba7df42ac8ae</samp>].
+    For researchers studying <b>game addiction or behaviors</b>, this dataset
+    will provide valuable information on game play. 
+    For confidentiality, we provide the time zone from which the players 
+    logged on but obfuscate their precise location.
+  </p>
+
+  <p>
+    All data records have been consolidated into a single csv file.  Each
+    record documents a different temporal interval, either a total count
+    of an event in that time period, or an average of a system performance
+    metric.  Each comma separated line has 8 fields. For each record, 
+    fields irrelevant to the event are left blank.
+    <ol>
+        <li> <samp>start_t</samp>: start time of a time interval
+        <li> <samp>stop_t</samp>:  stop time of a time interval
+        <li> <samp>server_id</samp>: id of the game server from which the event is collected 
+        <li> <samp>player_a</samp>: the id of the primary player in this event
+        <li> <samp>player_b</samp>: the id of the secondary player in this event
+        <li> <samp>key</samp>: key describing the type of the event
+        <li> <samp>meta</samp>: meta data describing the event
+        <li> <samp>count</samp>: a numeric attribte describing the event (int or float)
+    </ol>
+  </p>
+
+  <p>
+    The first three fields are always populated: 
+    <samp>start_t</samp>, <samp>stop_t</samp> and <samp>server_id</samp>.
+    The time data is reported in minutes in Coordinated Universal Time (UTC). 
+    All time intervals in VE Datapak lasts a minute or more.
+    The start day has been
+    anonymized. A time value of 0 means 00 hour, 00 minute on the first
+    day of data collection.
+  </p>
+
+  <p>
+    There are only two activity types involving two players: Chat and
+    KilledBy, both of which define one-directional relationship.  
+    Those records look like the following example, where the two records
+    come from the same one-minute interval: <samp>24780-24781</samp>
+    on the same server [<samp>509fb8211dbf9d6b7e000004</samp>].
+    The fields of <samp>player_a</samp> and <samp>player_b</samp> are populated.
+    The field "key" describes the action: <samp>KilledBy</samp> for the first example and
+    <samp>Chat</samp> for the other.
+  </p>
+
+  <div class="code_wrapper">
+    <pre><samp>********* Two-Player Events **********
+24780, 24781, 509fb8211dbf9d6b7e000004, 1bbe90a19292f745edd527085838d6b0b77d67a5, baba27973f7f497e51d553f0b233ba7df42ac8ae, KilledBy, , 1
+24780, 24781, 509fb8211dbf9d6b7e000004, 56dfed03423fb02bdabd40367bf5310f5f00cc34, baba27973f7f497e51d553f0b233ba7df42ac8ae, Chat, , 1 </samp></pre> 
+   </div>
+
+  <p>
+    In the first record, <samp>player_a</samp> was KilledBy <samp>player_b</samp>, i.e. 
+    [<samp>1bbe90a1...</samp>] was killed by [<samp>baba2797...</samp>].
+    The <samp>meta</samp> field follows, but for KilledBy events there is no meta data.
+    The last <samp>count</samp> field shows that this KilledBy event took place once.
+    Using this convention, it's easy to parse out that the 2nd record record
+    says: on the same server during the same one-minute interval,
+    <samp>player_a</samp> [<samp>56dfed03...</samp>] Chatted with 
+    <samp>player_b</samp> [<samp>baba2797...</samp>] once.
+    Please note - Chat is a one-way event, where player_a spoke to player_b.
+    If player_b spoke back, it will be counted as another one-way event.
+  </p>
+
+  <p>
+    Game playing events about a single player look like the following:
+  </p>
+
+  <div class="code_wrapper">
+    <pre><samp>********* Single-Player Events **********
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockBreak, DIRT, 5
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockPlace, SAND, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, FURNACE, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, IRON_HELMET, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, IRON_SWORD, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, STONE_PICKAXE, 1
+24780, 24782, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , Death, , 2</samp></pre>
+  </div>
+
+  <p>
+    In this case, the <samp>player_b</samp> field is empty because the event involves
+    only one player - <samp>player_a</samp>.  
+    In the first record the <samp>key</samp> field says
+    "BlockBreak", and the <samp>meta</samp> field tells which type of block is broken -
+    in this case "DIRT". The final <samp>count</samp> field indicates 5 dirt blocks have
+    been broken. The next record is a "BlockPlace" event, in which the player
+    placed one block of "SAND" type.  The following records are "CraftedItems"
+    events, showing that the player [<samp>baba2797</samp>]
+    crafted a "FURNACE" (a key in-game crafting tool), 
+    an "IRON_HELMET" (armor), an "IRON_SWORD" (weapon) and a "STONE_PICKAXE" (mining tool).
+    The last record says that the player died twice (<strong>please note</strong>:
+    <em>these death events are single-player deaths, which exclude deaths caused by being 
+    killed by another player.</em>). For "Death" events no types are recorded,
+    although many possible causes exist, such as creeper explosion, etc.
+  </p>
+
+  <p>
+    Another type of event are "LOGIN" events. A record looks like:
+  </p>
+
+  <div class="code_wrapper">
+    <pre><samp>********* Player Login Events **********
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , Logins, America/Los_Angeles, 1 </samp></pre>
+  </div>
+
+  <p>
+    Login events are not reliable for telling when a player starts to play,
+    because a player can stay logged in while being away from the computer.
+    We use login events to tell from which time zone the player is from.
+    In this case, the player is located in the US west coast time zone
+    (America/Los_Angeles). <strong>Please note</strong>:
+    <em>the player's geoIP resolved location is hidden and will
+    never be provided for confidentiality</em>.
+  </p>
+
+  <p>
+    Finally, there are events relating to server operating state.
+    These fall into two types: TickRate and Used Memory in Megabytes.
+  </p>
+
+  <div class="code_wrapper">
+    <pre><samp>********* System Operations Events **********
+25320, 25380, 509fb8211dbf9d6b7e000004, , , SysOps, TickRate, 15.96
+25320, 25380, 509fb8211dbf9d6b7e000004, , , SysOps, UsedMemMB, 5836.89 </samp></pre>
+  </div>
+
+  <p>
+    Since these events are server specific, <samp>player_a</samp> and <samp>player_b</samp>
+    fields are always empty.  The <samp>key</samp> field is always "SysOps", and
+    the <samp>meta</samp> field tells which system operating state is collected.
+    These system operation states do not vary too much, we average those
+    to hourly granularity.  TickRate is a Minecraft specific way to report
+    server lag. The optimal number is above or around 20. When a system is underload and
+    system lag increases, the TickRate will drop. A TickRate of 16 or above is considered
+    to be very playable. When under severe load,
+    the TickRate can be as low as 3 to 5.  System memory usage is very
+    straight forward, it in some ways correlate with server load, the more
+    game playing activity there is, the more memory is typically in use.
+  </p>
+
+  <h3> Looking At Multiple Events Together </h3>
+
+  <div class="code_wrapper">
+    <pre><samp>24780, 24781, 509fb8211dbf9d6b7e000004, 1bbe90a19292f745edd527085838d6b0b77d67a5, baba27973f7f497e51d553f0b233ba7df42ac8ae, KilledBy, , 1
+24780, 24781, 509fb8211dbf9d6b7e000004, 56dfed03423fb02bdabd40367bf5310f5f00cc34, baba27973f7f497e51d553f0b233ba7df42ac8ae, Chat, , 1
+24780, 24781, 509fb8211dbf9d6b7e000004, 66a71bd3be9dcd739fe188b2d927b519be6c52f9, baba27973f7f497e51d553f0b233ba7df42ac8ae, Chat, , 1
+24780, 24782, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , Death, , 2
+24780, 24782, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, b520e0573c0ae9c3995c7cf46015e1040533439c, KilledBy, , 2
+24840, 24841, 509fb8211dbf9d6b7e000004, cd3fcbe9ef2f6685426136166c58e1dd913c3f39, baba27973f7f497e51d553f0b233ba7df42ac8ae, Chat, , 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockBreak, DIRT, 5
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockBreak, GRAVEL, 5
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockBreak, OTHER, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockBreak, SAND, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , BlockPlace, SAND, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, FURNACE, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, IRON_HELMET, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, IRON_SWORD, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, STONE_PICKAXE, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, TORCH, 2
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, WOOD, 3
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , CraftedItems, WOOD_BUTTON, 1
+25320, 25321, 509fb8211dbf9d6b7e000004, baba27973f7f497e51d553f0b233ba7df42ac8ae, , Logins, America/Los_Angeles, 1 </samp></pre>
+  </div>
+
+  <p>
+    Examples are easier to tell with a hero in the picture.  In the
+    above case, it's [<samp>baba2797...</samp>].
+    During the minute of <samp>24780-24781</samp>, two players talked to our
+    hero (they are: [<samp>56dfed03...</samp>] and [<samp>66a71bd3...</samp>]).  
+    During that same minute, our hero killed [<samp>1bbe90a1...</samp>] once.
+    During the two minute span of 24780-24782, our hero was killed by
+    [<samp>b520e057...</samp>] twice, and also died twice due
+    to other causes (possible reasons include creeper explosion, rode a pig 
+    off a cliff, etc).  Nine hours later (540 minutes later), our hero came back
+    to the same server to play.  In a minute (<samp>25320-25321</samp>), our hero mined
+    for blocks (dirt, gravel, sand and other types) and crafted a furnace, and very
+    efficiently built weapon, armor etc.
+    It seems that our hero had an active Player v. Player (PvP) game play first, 
+    and an active survival mode of game play next.
+  </p>
+
+  <p>
+    From the login events, we can tell that our hero is on US west coast
+    (the time zone designation is America/Los_Angeles).  Because 24780 is per
+    minute in UTC time, we can convert that to the player's local time as:
+    (24780 / 60) % 24 = 5AM UTC, which is about 9PM US west coast time.
+    Similarly, 25320 converts to 2PM UTC and 6AM in US west coast time.
+  </p>
+
+  <p>
+    By following some relationships had by our hero <samp>[baba2797...]</samp>
+    we can find out:
+
+    <ul>
+      <li>
+        Both [<samp>56dfed03...</samp>] and [<samp>66a71bd3...</samp>] are from
+        US central time zone, but one is very active and another is a passer-by
+      </li>
+      <li>
+        [<samp>1bbe90a1...</samp>] is a passer-by who played on
+        the server once (got killed by our hero once) and never came back.
+        We don't know where this player is from, because some IP addresses are
+        transient.
+      </li>
+      <li>
+        [<samp>b520e057...</samp>] is another passer-by from time
+        zone (Asia/Manila) that killed our hero twice and never came back
+      </li>
+    </ul>
+
+  <p>
+    Similar relationships can be built by following how players chat with
+    each other, or according to which players typically play during the same
+    time on the same server(s).
+  </p>
+
+  <h3>How Large is the VE Datapak?</h3>
+
+  <p>
+    The VE Datapak already provides data on 70,000 unique players from
+    201 <a href="http://en.wikipedia.org/wiki/IANA_time_zone_database">IANA Time Zones</a>.
+    In the
+    <a href="http://en.wikipedia.org/wiki/List_of_tz_database_time_zones">IANA standard database
+    on time zones</a>, the whole world consists of 408 time zones.
+  </p>
+
+  <p>
+    The servers included in the VE Datapak are very different from each other. 
+    Solely from audience perspective, some are geographic region specific, 
+    some are language specific (e.g. English speaking vs. Spanish speaking countries), 
+    while others are specific to a narrow set of game-playing styles.
+    It should be
+    extremely interesting for both researchers and game developers
+    to pose hypotheses about why some players chose to play on certain servers.
+    More interestingly, we note about 2 to 3 thousand players
+    (among the 70,000 cohort) played on more than one servers included
+    in the VE Datapak, more than 1,000 players changed time zone at
+    least once during the 4-week recording period.
+  </p>
+
+  <p>
+    For researchers that prefer to work with a smaller dataset,
+    we have prepared the VE Datapak in two versions: a full version
+    and a small version.  Compared to the "full" version, the "small"
+    version contains half of the servers and half of the recording period.
+    The "small" version is less expensive and does not come with the option 
+    to receive monthly update.
+  </p>
+
+  <p>
+    The VE Datapak will continue to grow as we expand our capacity. The
+    "small" version will always remain an up-to-date subset
+    of the growing "full" version. For users that have purchased
+    the monthly update option, updates to the full version will be
+    downloadable from a link automatically emailed to you through our
+    monthly news letter.
+  </p>
+
+  <p>
+    <strong>Please note</strong>: <em>you are more than welcome to first purchase the smallest
+    version to play with. If you decide to purchase a larger version, you only
+    pay the difference in the price</em>.
+  </p>
+
+
+  <h3>Sample Research and Educational Use</h3>
+
+  <p>
+    The VE Datapak already provides data on 70,000 players working alone,
+    collaborating, and competing.  
+    Using the VE Datapak, almost all graph related solutions can take a firm 
+    footing in a practical scenario.
+    On the theoretical side, you can test the scalability of your code that
+    finds cliques and strongly connected components.  You can also work on
+    new algorithms that find cliques of players staying together for more
+    than a period of 10 days, for instance.  You can look for friend circles
+    with obvious leaders or friend circles with more or less equal peers.
+    You can work on methods to efficiently and quickly identify players that
+    as a clan compete with players from other clans, while the clans form
+    and dissolve over time autonomously.
+  </p>
+
+  <p>
+    For game developers or psychologists interested in studying in-game
+    behaviors, Minecraft is an interesting subject because there are
+    so many different game-playing styles on typical Minecraft servers.
+    Minecraft also seems to have <em>better gender parity than many
+    other games</em>.  It would be very
+    interesting to study how playing styles together with player interactions
+    affect long-term game playing.  In addition, how would one characterize
+    player experiences? 
+    Whether a player will return to play more on the same server?
+  </p>
+
+  <p>
+    In support of these big data research efforts, we created the VE Datapak
+    with a license that provides unrestricted rights to publish your
+    research results.  We would also encourage that the VE Datapak be used in
+    educational settings, where students of all majors can learn the trade
+    of computational thinking.
+  </p>
+
+  <p>
+    Referencing the challenges identified in
+    <a href="http://scholar.google.com/scholar?hl=en&q=Top+Interaction+and+UI+Challenges+in+Extreme-Scale+Visual+Analytics&btnG=&as_sdt=1%2C43&as_sdtp=">
+    "The Top 10 Challenges in Extreme-Scale Visual Analytics"
+    </a>
+    by Wong et. al, the VE Datapak is helpful for the following research topics:
+  </p>
+
+  <ul>
+    <li>User Driven Data Reduction</li>
+    <li>Representing Evidence and Uncertainty</li>
+    <li>Analytics for Temporally Evolved Features</li>
+  </ul>
+
+  <p>In the framework of
+    <a href="http://www.cs.uvm.edu/~icdm/10Problems/index.shtml">
+    Ten Challenging Problems in Data Mining Research
+    </a>
+    by Yang and Wu, the VE Datapak is applicable to the following areas:
+  </p>
+
+  <ul>
+    <li>Scaling Up for High Dimensional Data and High Speed Data Streams</li>
+    <li>Mining Sequence Data and Time Series Data</li>
+    <li>Data Mining in a Network Setting</li>
+    <li>Distributed Data Mining and Mining Multi-agent Data</li>
+  </ul>
+
+  <p>
+    Specifically referencing the
+    <a href="http://mypage.iu.edu/~cjbonk/GameReport_Bonk_final.pdf">
+    "Massive Multiplayer Online Gaming: A Research Framework for Military
+    Training and Education"
+    </a>
+    by Bonk and Dennen, the VE Datapak is useful for the following primary
+    experiments identified in the report:
+  </p>
+
+  <ul>
+    <li>Impact of Addiction to MMOG</li>
+    <li>Sense of Community and Group Longevity or Persistence</li>
+    <li>Describe the Apprenticeship Process in MMOG</li>
+    <li>Role Assignment: Achievers, Socializers, Explorers, Killers</li>
+    <li>Decision-making, Leadership, and Interpersonal Conflict</li>
+    <li>Game-based Motivation</li>
+    <li>Social Skills and Friendship Development</li>
+  </ul>
+
+  <h3>Sample Code</h3>
+  <p>
+    We have developed and will continue to develop a suite of sample Python 
+    scripts for working with the dataset.
+    These sample code has been made open source through BSD license on
+    <a href="https://github.com/ParallelDomains/VEDatapakExamples">github</a>.
+    Those scripts provide many fine grained data processing needs that
+    range from simply counting number of unique players in the dataset, 
+    to reporting number of unique players that each server sees from different
+    IANA timezones. 
+    If you would like to participate in our effort to improve the sample codes,
+    please join us!
+  </p>
+
+  <h3> What About Player Names? </h3>
+
+  <p>
+    The player names, location and server names will never be provided
+    with the VE Datapak.  If you really just want to refer to things with names,
+    we suggest that you try some scripts to auto generate names.
+  </p>
+
+  <p>
+    One useful name generation tool is
+    <a href="http://generators.christopherpound.com">Chris Pound's
+    Language Generation Machine</a>, which generates names centered
+    around a given theme. It's very fascinating!
+  </p>
+
+  <h3>Hacked Game Clients</h3>
+  <p>
+  In the world of large scale networked games, cheating or pirating 
+  using a hacked game clients is an everyday thing.
+  We cannot avoid it, nor should we. In a way, isn't a lot of today's
+  cyber security R&D dedicated to detecting such behavior. 
+  </p>
+
+  <p> Jokes aside, there is a key event that has to do with how Minecraft
+  handles abnormal behavior from a game client.
+  Those scenarios include: when a client logs on but cannot provide the
+  certificates to authenticate, or a client is causing severe server lag. 
+  The first case is more likely someone using a pirated game client,
+  while the second case is often related to a player using a hacked client
+  to cheat in the game by "flying" and causing server lag for all players
+  on the server.
+
+  <p> Regardless of which reason, when abnormal behavior happens, or simply 
+  when the server is not allowing new players to join the game, the Minecraft
+  server will "kick" the player off the server. These kick events are captured,
+  and reported in VE Datapak. The following is a sample record of that.
+  In this example, on the same server our hero [<samp>baba2797...</samp>] plays,
+  player [<samp>bac6018a...</samp>] got kicked 7 times during a seven-minute
+  period. It's normal for a player to get kicked once in a while, but
+  this level of kick activity definite incidates potential issues.
+  We don't know what's going on in this case, 
+  but if you can figure out please let us know.
+  </p>
+
+  <p>
+  The <samp>player_b</samp> and <samp>meta</samp> fields are always left blank.
+  </p>
+
+  <div class="code_wrapper">
+    <pre><samp>********* Sample Kick Events **********
+39000, 39007, 509fb8211dbf9d6b7e000004, bac6018ac2951c436437dc3fd4bbc99f72f7379b, , Kicks, , 7 </samp></pre>
+  </div>
+
+</div>
+</body>
+</html>
