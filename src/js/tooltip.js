@@ -1,8 +1,12 @@
 var tooltip = d3.select('div.tooltip');
 
-function tooltipMouseover(data, bubble, i) {
+function tooltipMouseover(html, x, y) {
     // Load tooltip data here?
-    tooltip.style('visibility', 'visible').html(d => `<div class="tooltip-title"> Server </div>`);
+    var mouseCoords = d3.mouse(tooltip.node().parentElement);
+
+    tooltip.style('visibility', 'visible').html(html)
+        .style('top', x)
+        .style('left', y);
 }
 
 function tooltipMousemove() {
@@ -13,3 +17,4 @@ function tooltipMousemove() {
 function tooltipMouseout() {
     tooltip.style('visibility', 'hidden');
 }
+
