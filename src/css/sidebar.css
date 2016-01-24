@@ -61,7 +61,10 @@
 }
 
 .preview {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: Open Sans;
+    font-weight: normal;
+    font-size: 1vw;
+    color: #222222;
 
     height: 13vh;
     width: 16vw;
