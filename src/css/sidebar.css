@@ -105,3 +105,10 @@
     margin-top: 2rem;
     text-align: center;
 }
+
+ul.player-list {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    list-style-type: none;
+}
