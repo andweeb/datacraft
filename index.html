@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Datacraft </title>
+        <script src="lib/d3.min.js"></script>
+	    <link rel="stylesheet" href="src/css/main.css">
+	    <link rel="stylesheet" href="src/css/sidebar.css">
+	    <link rel="stylesheet" href="src/css/tooltip.css">
+	    <link rel="stylesheet" href="src/css/rule.css">
+        <!-- <link href='https://fonts.googleapis.com/css?family=Alegreya+SC' rel='stylesheet' type='text/css'> -->
+	</head>
+	<body>
+        <div class="sidebar">
+            <div class="title-section">
+                <hr class="fancyfancy">
+                <div class="title"> Server Overview </div>
+                <hr class="fancyfancy">
+            </div>
+            <div class="info"></div>
+            <div class="preview" contentEditable=true data-ph="Hover over a circle!"></div>
+            <div class="spectrum"></div>
+        </div>
+        <div class="container">
+            <div class="canvas"></div>
+            <div class="main-title">
+                Datacraft
+            </div>
+        </div>
+        <div class="tooltip">
+            <div class="tooltip-title"></div>
+            <div class="tooltip-info"></div>
+        </div>
+
+        <script src="src/js/sidebar.js"></script>
+        <script src="src/js/force.js"></script>
+        <script src="src/js/tooltip.js"></script>
+        <script src="src/js/pie.js"></script>
+        <script src="src/js/viz.js"></script>
+        <script src="src/js/index.js"></script>
+	</body>
+</html>
