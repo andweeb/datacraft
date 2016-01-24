@@ -7,7 +7,7 @@ function startForceLayout(data) {
         .on('tick', tick)
         .start();
 
-    circle = canvas.selectAll('circle')
+    servers = canvas.selectAll('circle')
         .data(nodes)
         .enter()
         .append('circle')
@@ -40,7 +40,7 @@ function onServerClick(data, bubble, i) {
 }
 
 function tick(event) {
-    circle.each(gravitate(0.1 * event.alpha))
+    servers.each(gravitate(0.1 * event.alpha))
         .each(collision(0.5))
         .attr("cx", d => d.x)
         .attr("cy", d => d.y);
@@ -89,7 +89,7 @@ function collision(alpha) {
 function orderForceByColor() {
     force.alpha(0);
 
-    circle.transition()
+    servers.transition()
         .duration(1000)
         .attr("cx", d => d.colorx)
         .attr("cy", d => d.horizy)
@@ -98,7 +98,7 @@ function orderForceByColor() {
 function orderForceBySize() {
     force.alpha(0);
 
-    circle.transition()
+    servers.transition()
         .duration(1000)
         .attr("cx", d => d.sizex)
         .attr("cy", d => d.horizy)
