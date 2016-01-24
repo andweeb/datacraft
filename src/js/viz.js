@@ -23,14 +23,14 @@ d3.csv('data/servers/overview.csv', (error, data) => {
     // Find the constant to map the population data to the radius range [20px, 80px]
     var minPopulation = Math.min.apply(Math, data.map(o => Number(o.player_population)));
     var maxPopulation = Math.max.apply(Math, data.map(o => Number(o.player_population)));
-    var slope = (80 - 20) / (maxPopulation - minPopulation);
+    var slope = (90 - 30) / (maxPopulation - minPopulation);
 
     var horizx = d3.scale.ordinal()
         .domain(d3.range(14))
-        .rangePoints([0, width/1.5], 1);
+        .rangePoints([0, width/1.2], 1);
 
     data.map((e, i) => {
-        var r = 20 + slope * (Number(e.player_population) - minPopulation);
+        var r = 30 + slope * (Number(e.player_population) - minPopulation);
         var ratio = (Number(e.chat_interactions) / 
             (Number(e.chat_interactions) + Number(e.players_killed))).toFixed(2);
 
@@ -52,13 +52,13 @@ d3.csv('data/servers/overview.csv', (error, data) => {
     nodes.sort((a, b) => a.radius - b.radius);
     nodes.map((e, i) => { 
         // e.sizex = 50 + horizx(i) - width/4; 
-        e.sizex = 2*e.radius + horizx(i) - width/3.2; 
+        e.sizex = 2*e.radius + horizx(i) - width/2.3; 
         e.sizez = i;
         return e; 
     });
     nodes.sort((a, b) => a.ratio - b.ratio);
     nodes.map((e, i) => { 
-        e.colorx = 2*e.radius + horizx(i) - width/3.2; 
+        e.colorx = 2*e.radius + horizx(i) - width/2.3; 
         e.colorz = i;
         return e; 
     });
