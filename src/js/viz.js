@@ -1,5 +1,5 @@
 var force;
-var circle;
+var servers;
 var spectrum;
 var nodes = [];
 var height = viewport().height;
@@ -17,53 +17,56 @@ canvas.style('opacity', 1e-6)
     .duration(1000)
     .style('opacity', 1);
 
-d3.csv('data/servers/overview.csv', (error, data) => {
-    if(error) throw error;
+function datacraft() {
+    nodes = [];
+    d3.csv('data/servers/overview.csv', (error, data) => {
+        if(error) throw error;
 
-    // Find the constant to map the population data to the radius range [20px, 80px]
-    var minPopulation = Math.min.apply(Math, data.map(o => Number(o.player_population)));
-    var maxPopulation = Math.max.apply(Math, data.map(o => Number(o.player_population)));
-    var slope = (90 - 30) / (maxPopulation - minPopulation);
+        // Find the constant to map the population data to the radius range [20px, 80px]
+        var minPopulation = Math.min.apply(Math, data.map(o => Number(o.player_population)));
+        var maxPopulation = Math.max.apply(Math, data.map(o => Number(o.player_population)));
+        var slope = (90 - 30) / (maxPopulation - minPopulation);
 
-    var horizx = d3.scale.ordinal()
-        .domain(d3.range(14))
-        .rangePoints([0, width/1.2], 1);
+        var horizx = d3.scale.ordinal()
+            .domain(d3.range(14))
+            .rangePoints([0, width/1.2], 1);
 
-    data.map((e, i) => {
-        var r = 30 + slope * (Number(e.player_population) - minPopulation);
-        var ratio = (Number(e.chat_interactions) / 
-            (Number(e.chat_interactions) + Number(e.players_killed))).toFixed(2);
+        data.map((e, i) => {
+            var r = 30 + slope * (Number(e.player_population) - minPopulation);
+            var ratio = (Number(e.chat_interactions) / 
+                (Number(e.chat_interactions) + Number(e.players_killed))).toFixed(2);
 
-        nodes.push({
-            cx: 100,
-            cy: 100,
-            radius: r,
-            ratio: ratio,
-            horizy: height/5,
-            id: data[i].server_num,
-            color: interpolateColor(ratio)
+            nodes.push({
+                cx: 100,
+                cy: 100,
+                radius: r,
+                ratio: ratio,
+                horizy: height/5,
+                id: data[i].server_num,
+                color: interpolateColor(ratio)
+            });
+
+            data[i].ratio = ratio;
+            data[i].focused = false;
+            data[i].color = interpolateColor(ratio);
         });
 
-        data[i].ratio = ratio;
-        data[i].focused = false;
-        data[i].color = interpolateColor(ratio);
-    });
+        nodes.sort((a, b) => a.radius - b.radius);
+        nodes.map((e, i) => { 
+            e.sizex = e.radius + horizx(i) - width/2.5; 
+            e.sizez = i;
+            return e; 
+        });
+        nodes.sort((a, b) => a.ratio - b.ratio);
+        nodes.map((e, i) => { 
+            e.colorx = e.radius + horizx(i) - width/2.5; 
+            e.colorz = i;
+            return e; 
+        });
 
-    nodes.sort((a, b) => a.radius - b.radius);
-    nodes.map((e, i) => { 
-        e.sizex = e.radius + horizx(i) - width/2.5; 
-        e.sizez = i;
-        return e; 
+        startForceLayout(data);
     });
-    nodes.sort((a, b) => a.ratio - b.ratio);
-    nodes.map((e, i) => { 
-        e.colorx = e.radius + horizx(i) - width/2.5; 
-        e.colorz = i;
-        return e; 
-    });
-
-    startForceLayout(data);
-});
+}
 
 function viewport() {
     var e = window;
@@ -92,25 +95,33 @@ function interpolateColor(ratio) {
     return color(ratio);
 }
 
-function showSpectrum() {
-    var colorbar = [];
-    for(var i = 0; i < 100; i++) {
-        colorbar.push({
-            x: i,
-            color: interpolateColor(i/100)
+function endAll(transition, callback) {
+    var n;
+    if (transition.empty()) {
+        callback();
+    } else {
+        n = transition.size();
+        transition.each("end", function () {
+            n--;
+            if (n === 0) {
+                callback();
+            }
         });
     }
-
-    spectrum = canvas.selectAll('rect')
-        .data(colorbar)
-        .enter()
-        .append('rect')
-        .attr('x', d => d.x)
-        .attr('y', 0)
-        .attr('width', '100px')
-        .attr('height', '15px')
-        .style('fill', d => d.color)
 }
 
-// showSpectrum();
+function segueFromOverviewInto(callback) {
+    servers.transition() 
+        .duration(1000)
+        .style('opacity', 0)
+        .remove()
+        .call(endAll, callback);
+}
 
+function restartAll() {
+    servers.transition() 
+        .duration(1000)
+        .style('opacity', 0)
+        .remove()
+        .call(endAll, datacraft);
+}
