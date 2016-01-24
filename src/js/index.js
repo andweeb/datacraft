@@ -15,3 +15,11 @@ sizeSortButton.innerHTML = "Order By Player Population";
 sizeSortButton.className = "sidebar-button";
 sizeSortButton.addEventListener('click', orderForceBySize);
 document.getElementsByClassName('info')[0].appendChild(sizeSortButton);
+
+var restartButton = document.createElement('button');
+restartButton.innerHTML = "Restart Visualization";
+restartButton.className = "sidebar-button";
+restartButton.addEventListener('click', restartAll);
+document.getElementsByClassName('info')[0].appendChild(restartButton);
+
+datacraft();
