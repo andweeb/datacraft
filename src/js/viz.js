@@ -51,14 +51,13 @@ d3.csv('data/servers/overview.csv', (error, data) => {
 
     nodes.sort((a, b) => a.radius - b.radius);
     nodes.map((e, i) => { 
-        // e.sizex = 50 + horizx(i) - width/4; 
-        e.sizex = 2*e.radius + horizx(i) - width/2.3; 
+        e.sizex = e.radius + horizx(i) - width/2.5; 
         e.sizez = i;
         return e; 
     });
     nodes.sort((a, b) => a.ratio - b.ratio);
     nodes.map((e, i) => { 
-        e.colorx = 2*e.radius + horizx(i) - width/2.3; 
+        e.colorx = e.radius + horizx(i) - width/2.5; 
         e.colorz = i;
         return e; 
     });
