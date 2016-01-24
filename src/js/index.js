@@ -4,6 +4,14 @@ function previewClick(e) {
     e.preventDefault();
 }
 
+// Helper function to remove an element from the DOM
+// Element.prototype.remove = function() { this.parentElement.removeChild(this); }
+NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
+    for(var i = this.length - 1; i >= 0; i--) {
+        if(this[i] && this[i].parentElement) this[i].parentElement.removeChild(this[i]);
+    }
+}
+
 var colorSortButton = document.createElement('button');
 colorSortButton.innerHTML = "Order By Player Interaction";
 colorSortButton.className = "sidebar-button";
@@ -19,7 +27,7 @@ document.getElementsByClassName('info')[0].appendChild(sizeSortButton);
 var restartButton = document.createElement('button');
 restartButton.innerHTML = "Restart Visualization";
 restartButton.className = "sidebar-button";
-restartButton.addEventListener('click', restartAll);
+restartButton.addEventListener('click', restartEverything);
 document.getElementsByClassName('info')[0].appendChild(restartButton);
 
 datacraft();
