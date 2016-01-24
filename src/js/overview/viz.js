@@ -1,6 +1,5 @@
 var force;
 var servers;
-var spectrum;
 var nodes = [];
 var height = viewport().height;
 var radius = d3.scale.sqrt().range([0, 12]);
@@ -118,7 +117,7 @@ function segueFromOverviewInto(callback) {
         .call(endAll, callback);
 }
 
-function restartAll() {
+function restartEverything() {
     servers.transition() 
         .duration(1000)
         .style('opacity', 0)
