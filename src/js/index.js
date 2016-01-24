@@ -5,13 +5,13 @@ function previewClick(e) {
 }
 
 var colorSortButton = document.createElement('button');
-colorSortButton.innerHTML = "Order By Color";
+colorSortButton.innerHTML = "Order By Player Interaction";
 colorSortButton.className = "sidebar-button";
 colorSortButton.addEventListener('click', orderForceByColor);
 document.getElementsByClassName('info')[0].appendChild(colorSortButton);
 
 var sizeSortButton = document.createElement('button');
-sizeSortButton.innerHTML = "Order By Size";
+sizeSortButton.innerHTML = "Order By Player Population";
 sizeSortButton.className = "sidebar-button";
 sizeSortButton.addEventListener('click', orderForceBySize);
 document.getElementsByClassName('info')[0].appendChild(sizeSortButton);
