@@ -1,2 +1,2 @@
-data/servers/*.csv
+data/servers/server*.csv
 data/*.csv
