@@ -64,7 +64,7 @@
 .preview {
     font-family: Open Sans;
     font-weight: normal;
-    font-size: 0.9vw;
+    font-size: 0.8vw;
     color: #222222;
 
     height: 13vh;
@@ -85,6 +85,7 @@
 .preview-title {
     margin: 0;
     text-align: center;
+    font-size: 1.3vw;
     font-family: Alegreya SC, serif;
 }
 
