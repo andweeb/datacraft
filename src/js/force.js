@@ -21,14 +21,14 @@ function startForceLayout(data) {
         .on('mouseout', onServerMouseOut.bind(this, data))
         .on('mouseover', onServerMouseOver.bind(this, data))
         // .on('mousemove', tooltipMousemove)
-        // .on('mouseover', tooltipMouseover.bind(this, data))
+        // .on('mouseover', showServerTooltip.bind(this, data))
         // .on('mouseout', tooltipMouseout)
         .call(force.drag);
 }
 
 function onServerMouseOver(data, bubble, i) {
+    // bubble.id -> starts with 1
     appendSidebarPreview(data, bubble.id - 1);
-    showPieChart(data, bubble.id - 1);
 }
 
 function onServerMouseOut(data, bubble, i) {
@@ -36,7 +36,14 @@ function onServerMouseOut(data, bubble, i) {
 }
 
 function onServerClick(data, bubble, i) {
-    console.log(`clicked server ${bubble.id-1}`);
+    console.log(`clicked server ${bubble.id}`);
+    // segueFromOverviewInto();
+}
+
+function showServerTooltip(bubble) {
+    var html = `<div class="tooltip-title"> Server ${bubble.id - 1} </div>`
+    console.log(bubble);
+    tooltipMouseover(html, `${bubble.x}px`, `${bubble.y}px`);
 }
 
 function tick(event) {
