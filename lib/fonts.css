@@ -134,3 +134,12 @@
     font-style: italic;
 
 }
+
+/* Regular AlegreyaSC */
+@font-face {
+    font-family: 'Alegreya SC';
+    src: url('fonts/AlegreyaSC-Regular.otf');
+    font-weight: normal;
+    font-weight: 400;
+    font-style: normal;
+}
