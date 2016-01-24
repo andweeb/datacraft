@@ -17,8 +17,9 @@ function startForceLayout(data) {
         .attr('stroke-width', 2)
         .style('fill', d => d.color)
         // .on('click', toggleSidebarDetails.bind(this, data))
-        .on('mouseover', onServerMouseOver.bind(this, data))
+        .on('click', onServerClick.bind(this, data))
         .on('mouseout', onServerMouseOut.bind(this, data))
+        .on('mouseover', onServerMouseOver.bind(this, data))
         // .on('mousemove', tooltipMousemove)
         // .on('mouseover', tooltipMouseover.bind(this, data))
         // .on('mouseout', tooltipMouseout)
@@ -32,6 +33,10 @@ function onServerMouseOver(data, bubble, i) {
 
 function onServerMouseOut(data, bubble, i) {
     removeSidebarPreview(data, bubble.id - 1);
+}
+
+function onServerClick(data, bubble, i) {
+    console.log(`clicked server ${bubble.id-1}`);
 }
 
 function tick(event) {
