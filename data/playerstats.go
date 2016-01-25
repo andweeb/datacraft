@@ -3,10 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"os"
 
 	"github.com/jinzhu/gorm"
-	"github.com/kr/pretty"
 	_ "github.com/lib/pq"
 )
 
@@ -25,26 +23,18 @@ type distinct_players1 struct {
 	Player_a string
 }
 
-type PlayerAction struct {
-	Key   string
-	Meta  string
-	Count int
+type Action struct {
+	Count   int
+	Details map[string]int
 }
 
-type PlayerActionCount struct {
-	KicksCount        int
-	BlockBreakCount   int
-	CraftedItemsCount int
-	BlockPlaceCount   int
-	LoginsCount       int
-	DeathCount        int
-	ChatCount         int
-	KilledByCount     int
+type PlayerActions struct {
+	action map[string]Action
 }
 
 type PlayerStats struct {
 	PlayTime int
-	Actions  []PlayerAction
+	Actions  []PlayerActions
 }
 
 func check(msg string, err error) {
@@ -99,29 +89,40 @@ func main() {
 		db.Order("start_t").Where("player_a = ?", name.Player_a).Find(&playerData)
 
 		if len(playerData) == 0 {
-			panic("????")
 			continue
 		} else if len(playerData) == 1 {
 			// Only one entry in player data, so calculate playtime with what's given
 
+			// Gather playtime information
 			playTime := playerData[0].Stop_t - playerData[0].Start_t
-			actions := make([]PlayerAction, 1)
-			actions[0] = PlayerAction{playerData[0].Key, playerData[0].Meta, playerData[0].Count}
+
+			// Gather user action information
+			// Instantiate the nested actions and details structs
+			actions := make([]PlayerActions, 1)
+			actions[0].action = make(map[string]Action)
+			details := make(map[string]int)
+
+			// Assign information to the actions struct
+			details[playerData[0].Meta] = playerData[0].Count
+			actions[0].action[playerData[0].Key] = Action{playerData[0].Count, details}
+
+			// Finally add to the player list
 			players[name.Player_a] = PlayerStats{playTime, actions}
 
 		} else {
 			// Player Data
 			playTime := 0
-			actionCount := 0
-			actions := make([]PlayerAction, len(playerData))
+			// actionCount := 0
+			actions := make([]PlayerActions, len(playerData))
 			intervals := make([]int, len(playerData))
 			initialStart_t := playerData[0].Start_t
 
 			for i, info := range playerData {
 
+				// TODO:
 				// Gather user action information
-				actionCount += info.Count
-				actions[i] = PlayerAction{info.Key, info.Meta, info.Count}
+				// actionCount += info.Count
+				// actions[i] = PlayerAction{info.Key, info.Meta, info.Count}
 
 				// Gather playtime information
 				if initialStart_t != info.Start_t {
@@ -138,15 +139,17 @@ func main() {
 			// Finally add to the player list
 			players[name.Player_a] = PlayerStats{playTime, actions}
 
-			fmt.Printf("%# v\n", pretty.Formatter(playerData))
-			fmt.Println("- - - - - -")
-			fmt.Printf("%# v\n", pretty.Formatter(players[name.Player_a]))
-			fmt.Println(playTime)
+			// fmt.Printf("%# v\n", pretty.Formatter(playerData))
+			// fmt.Println("- - - - - -")
+			// fmt.Printf("%# v\n", pretty.Formatter(players[name.Player_a]))
+			// fmt.Println(playTime)
+
 		}
 
-		if x == 5 {
-			os.Exit(0)
-		}
+		// if x == 5 {
+		// 	os.Exit(0)
+		// }
+
 	}
 
 	// fmt.Println(server)
