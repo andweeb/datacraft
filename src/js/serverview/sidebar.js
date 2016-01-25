@@ -1,11 +1,18 @@
 // Server id starts from 1 (not 0)
 function initServerviewSidebar(id) {
+    servers.transition() 
+        .duration(1000)
+        .style('opacity', 0)
+        .remove();
+
     document.getElementsByClassName('title')[0].innerHTML = `Server ${id} Overview`;
     document.getElementsByClassName('info')[0].remove();
+    document.getElementsByClassName('preview')[0].remove();
 
     var info = document.createElement('div');
     info.className = 'info';
     info.style.overflowY = 'scroll';
+    info.style.height = '85vh';
 
     document.getElementsByClassName('sidebar')[0].appendChild(info);
     initPlayerList(id);
@@ -38,6 +45,23 @@ function initPlayerList(id) {
         'golem.png',
         'chicken.png',
         'magma.jpg',
+        'pig.jpg',
+        'cow.png',
+        'blaze.png',
+        'slime.png',
+        'elderguardian.png',
+        'squid.png',
+        'witch.png',
+        'spider.png',
+        'guardian.png',
+        'ghast.png',
+        'enderdragon.png',
+        'endermite.png',
+        'bajan.png',
+        'kakashi.jpg',
+        'walrus.jpg',
+        'deadpool.png',
+        'bionicle.png',
     ];
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
@@ -45,7 +69,7 @@ function initPlayerList(id) {
     var playerList = document.createElement('ul');
     playerList.className = 'player-list';
     document.getElementsByClassName('sidebar')[0].appendChild(playerList);
-    for(var i = 0; i < 20000; i++) {
+    for(var i = 0; i < 1000; i++) {
         var player = document.createElement('li');
 
         var icon = document.createElement('img');
