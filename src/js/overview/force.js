@@ -17,13 +17,17 @@ function startForceLayout(data) {
         .attr('stroke-width', 2)
         .style('fill', d => d.color)
         // .on('click', toggleSidebarDetails.bind(this, data))
-        .on('click', onServerClick.bind(this, data))
+        .on('dblclick', onServerDblclick.bind(this, data))
         .on('mouseout', onServerMouseOut.bind(this, data))
         .on('mouseover', onServerMouseOver.bind(this, data))
         // .on('mousemove', tooltipMousemove)
         // .on('mouseover', showServerTooltip.bind(this, data))
         // .on('mouseout', tooltipMouseout)
         .call(force.drag);
+}
+
+function onServerDblclick(data, bubble, i) {
+    initServerviewSidebar(bubble.id);
 }
 
 function onServerMouseOver(data, bubble, i) {
