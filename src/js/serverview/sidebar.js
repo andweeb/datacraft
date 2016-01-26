@@ -27,6 +27,7 @@ function initServerviewSidebar(id) {
     info.className = 'info';
     info.style.overflowY = 'scroll';
     info.style.height = '85vh';
+    info.style.marginBottom = '2vh';
 
     document.getElementsByClassName('sidebar')[0].appendChild(info);
 
@@ -96,8 +97,21 @@ function initPlayerList(id) {
         }
     });
 
+    document.getElementsByClassName('info')[0].style.height = '80vh';
     document.getElementsByClassName('info')[0].innerHTML = '';
     document.getElementsByClassName('info')[0].appendChild(playerTable);
-
+    
+    initRestartButton();
     servercraft(id);
+}
+
+function initRestartButton() {
+    var restartButton = document.createElement('button');
+    restartButton.innerHTML = "Restart Visualization";
+    restartButton.className = "sidebar-button";
+    restartButton.addEventListener('click', function() {
+        location.reload(false); 
+    })
+
+    document.getElementsByClassName('sidebar')[0].appendChild(restartButton);
 }
