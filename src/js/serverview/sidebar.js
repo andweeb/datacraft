@@ -51,7 +51,7 @@ function initPlayerList(id) {
     headerName.innerHTML = 'Player Name';
     var headerTime = document.createElement('th');
     headerTime.innerHTML = 'Logged Playtime';
-    headerTime.style.paddingLeft = '2.1rem';
+    headerTime.style.paddingLeft = '2vw';
 
     headerRow.appendChild(headerName);
     headerRow.appendChild(headerTime);
@@ -67,6 +67,7 @@ function initPlayerList(id) {
             player.className = 'player';
             var nameBox = document.createElement('td');
             nameBox.className = 'player-name';
+            nameBox.onclick = () => console.log('clicky');
             var timeBox = document.createElement('td');
             timeBox.className = 'playtime';
             var icon = document.createElement('img');
