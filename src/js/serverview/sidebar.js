@@ -1,10 +1,5 @@
 // Server id starts from 1 (not 0)
 function initServerviewSidebar(id) {
-    servers.transition() 
-        .duration(1000)
-        .style('opacity', 0)
-        .remove();
-
     document.getElementsByClassName('title')[0].innerHTML = `Server ${id} Overview`;
     document.getElementsByClassName('info')[0].remove();
     document.getElementsByClassName('preview')[0].remove();
@@ -15,7 +10,12 @@ function initServerviewSidebar(id) {
     info.style.height = '85vh';
 
     document.getElementsByClassName('sidebar')[0].appendChild(info);
-    initPlayerList(id);
+
+    servers.transition() 
+        .duration(1000)
+        .style('opacity', 0)
+        .remove()
+        .call(endAll, initPlayerList, id);
 }
 
 function initPlayerList(id) {
@@ -69,7 +69,7 @@ function initPlayerList(id) {
     var playerList = document.createElement('ul');
     playerList.className = 'player-list';
     document.getElementsByClassName('sidebar')[0].appendChild(playerList);
-    for(var i = 0; i < 1000; i++) {
+    for(var i = 0; i < 100; i++) {
         var player = document.createElement('li');
 
         var icon = document.createElement('img');
@@ -89,4 +89,6 @@ function initPlayerList(id) {
 
     document.getElementsByClassName('info')[0].innerHTML = '';
     document.getElementsByClassName('info')[0].appendChild(playerList);
+
+    servercraft();
 }
