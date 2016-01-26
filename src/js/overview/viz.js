@@ -94,16 +94,16 @@ function interpolateColor(ratio) {
     return color(ratio);
 }
 
-function endAll(transition, callback) {
+function endAll(transition, callback, arg1) {
     var n;
     if (transition.empty()) {
-        callback();
+        callback(arg1);
     } else {
         n = transition.size();
         transition.each("end", function () {
             n--;
             if (n === 0) {
-                callback();
+                callback(arg1);
             }
         });
     }
@@ -114,7 +114,7 @@ function segueFromOverviewInto(callback) {
         .duration(1000)
         .style('opacity', 0)
         .remove()
-        .call(endAll, callback);
+        .call(endAll, callback, arg);
 }
 
 function restartEverything() {
