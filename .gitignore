@@ -1,3 +1,4 @@
 data/servers/server*.csv
+data/servers/server*.json
 data/*.csv
 data/*.html
