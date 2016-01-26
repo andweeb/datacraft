@@ -1,5 +1,5 @@
 function servercraft(id) {
-    d3.csv(`data/servers/server${id}players.csv`, (error, data) => {
+    d3.json(`data/servers/server${id}players.json`, (error, data) => {
         if(error) throw error;
         console.log(JSON.stringify(data,null,2));
     });
