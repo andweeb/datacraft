@@ -3,7 +3,7 @@ const fs = require('fs');
 
 function getStats(i) {
     let stats = {};
-    let players = require(`./data/server${i}.json`);
+    let players = require(`../servers/server${i}.json`);
 
     // For all players in the server
     for(let i = 0, l = players.length - 1; i < l; i++) {
@@ -13,13 +13,16 @@ function getStats(i) {
 
         let name = players[i].key;
 
-        stats[name] = {
-            playtime : 0,
-            actions : {}
-        };
+        if(stats[name] === undefined) {
+            stats[name] = {
+                playtime : 0,
+                actions : {},
+                killed: {}
+            };
+        }
 
         // For all statistics for a single player
-        let statCount = players[i].values.length - 1;
+        let statCount = players[i].values.length;
         for(let j = 0; j < statCount; j++) {
             let action = players[i].values[j].key;
             let meta = players[i].values[j].meta;
@@ -32,6 +35,28 @@ function getStats(i) {
                 };
             } 
 
+            // If the actions was killedby, store in the killer's stats
+            if(action === 'KilledBy') {
+                let killer = players[i].values[j].player_b;
+                // Check if the killer's stats is uninitialized
+                if(stats[killer] === undefined) {
+                    stats[killer] = {
+                        playtime : 0,
+                        actions : {},
+                        killed: {
+                            [name]: count
+                        }
+                    };
+                } else {
+                    // Killer's stats were already initialized, so check for player's name
+                    if(stats[killer].killed[name]) {
+                        stats[killer].killed[name] += count;
+                    } else {
+                        stats[killer].killed[name] = count;
+                    }
+                }
+            }
+
             // Action has already been inserted, now check the meta
             else {
                 // The meta already exists so increment the existing count
@@ -43,30 +68,34 @@ function getStats(i) {
                 }
             }
 
+            // Gather the player's play time intervals
             let start_t = players[i].values[j].start_t;
             let stop_t = players[i].values[j].stop_t;
-
             if(intervals[start_t] === undefined || intervals[start_t] < stop_t) {
                 intervals[start_t] = stop_t;
             }
         }
 
+        // Accumulate the total player's play time
         for(let time in intervals) {
             playtime += intervals[time] - time;
         }
         stats[name].playtime = playtime;
     }
 
+    // Sort by the play time
     let roster = Object.keys(stats).sort((a, b) => -(stats[a].playtime - stats[b].playtime)); 
     let newstats = {};
     for(let i = 0; i < roster.length-1; i++) {
         newstats[roster[i]] = stats[roster[i]];
     }
-    fs.writeFile(`./data/server${i}players.json`, JSON.stringify(newstats, null, 2));
+
+    // Write the result to a file
+    fs.writeFile(`../servers/server${i}players.json`, JSON.stringify(newstats, null, 2));
 }
 
 for(let server = 1; server <= 14; server++) {
-    console.log(`Getting server ${server} stats`);
+    console.log(`Getting server ${server} stats...`);
     getStats(server);
 }
 console.log("Done :^)");
