@@ -105,9 +105,41 @@
     text-align: center;
 }
 
-ul.player-list {
-    margin: 0;
-    padding: 0;
-    text-align: left;
-    list-style-type: none;
+table.player-table {
+    width: 90%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-left: 1rem;
+}
+
+tr.player-header-row {
+    color: rgb(85, 85, 85);
+    text-align: center;
+    font-size: 0.7vw;
+    font-weight: 100;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-bottom: 0.5rem;
+
+    position: fixed;
+    top: 10vh; 
+}
+
+tr.player {
+    border-radius: 2px;
+}
+
+tr.player:hover {
+    cursor: pointer;
+    background-color: white;
+}
+
+td.player-name {
+
+}
+
+td.playtime {
+    text-align: center;
+    font-size: 11px;
 }
