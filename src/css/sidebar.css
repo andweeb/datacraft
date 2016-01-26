@@ -54,7 +54,7 @@
 
 .info {
     height: 70vh;
-    font-size: 15px;
+    font-size: 0.8vw;
     font-family: sans-serif;
     font-weight: 100;
     word-wrap: break-word;
@@ -141,5 +141,5 @@ td.player-name {
 
 td.playtime {
     text-align: center;
-    font-size: 11px;
+    font-size: 0.65vw;
 }
