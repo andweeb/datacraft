@@ -90,5 +90,5 @@ function initPlayerList(id) {
     document.getElementsByClassName('info')[0].innerHTML = '';
     document.getElementsByClassName('info')[0].appendChild(playerList);
 
-    servercraft();
+    servercraft(id);
 }
