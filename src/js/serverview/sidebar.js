@@ -39,6 +39,7 @@ function initServerviewSidebar(id) {
 }
 
 function initPlayerList(id) {
+    tooltipMouseout();
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
 
@@ -96,6 +97,8 @@ function initPlayerList(id) {
             if(count === 100) 
                 break;
         }
+
+        console.log(JSON.stringify(data,null,2));
     });
 
     document.getElementsByClassName('info')[0].style.height = '80vh';
