@@ -1,26 +1,21 @@
-/* base CSS element */
 .tooltip {
     visibility: hidden;
-    opacity: 0.97;
-    background: #fcfcfc;
+    opacity: 0.77;
+    background: #fafafa;
     border: 1px #f7f7f7 solid;
 	padding: 10px;
 	border-radius: 3.5px;
 	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 	position: relative;
-	width: 250px;
-    height: 200px;
+    width: 5rem;
 }
 
 .tooltip-title {
     position: relative;
     font-size: 25px;
     color: black;
-    width: 100;
+    width: 100px;
+    height: 100px;
+    z-index: 1000;
 }
 
-.tooltip-info {
-    position: relative;
-    background-color: green;
-    width: 100%;
-}
