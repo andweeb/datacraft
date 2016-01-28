@@ -1,3 +1,5 @@
+var dblclick_timer = false
+
 function convertPlaytime(seconds) {
 	var value = seconds;
 	var units = {
@@ -40,6 +42,7 @@ function initServerviewSidebar(id) {
 
 function initPlayerList(id) {
     tooltipMouseout();
+    initRadarChart();
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
 
@@ -58,7 +61,7 @@ function initPlayerList(id) {
     headerRow.appendChild(headerTime);
     playerTable.appendChild(headerRow);
 
-    d3.json(`data/servers/server${id}players.json`, (error, data) => {
+    d3.json(`data/players/players${id}.json`, (error, data) => {
         if(error) throw error;
 
         var count = 0;
@@ -67,7 +70,19 @@ function initPlayerList(id) {
             var randomName = getName(4, 8);
             var player = document.createElement('tr');
             player.className = 'player';
-            player.ondblclick = onPlayerClick.bind(this, data[name], randomName);
+            player.addEventListener("click", function(name, i, event) {
+                if(dblclick_timer) {
+                    console.log('dblclick');
+                    clearTimeout(dblclick_timer);
+                    dblclick_timer = false;
+                } else { 
+                    dblclick_timer = setTimeout(function() {
+                        console.log('single click');
+                        dblclick_timer = false;
+                        onPlayerClick(name, i, event);
+                    }, 250)
+                } 
+            }.bind(data[name], randomName, id));
 
             var nameBox = document.createElement('td');
             nameBox.className = 'player-name';
@@ -90,6 +105,7 @@ function initPlayerList(id) {
             player.appendChild(nameBox);
             player.appendChild(timeBox);
             player.data = data[name];
+            player.selected = false;
 
             playerTable.appendChild(player);
 

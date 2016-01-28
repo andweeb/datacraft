@@ -1,6 +1,37 @@
 'use strict';
 const fs = require('fs');
 
+function getStarData(players, i) {
+    let stats = {};
+
+    for(let name in players) {
+        let timesKilled = 0;
+        let killedList = players[name].killed;
+        let actions = players[name].actions;
+
+        stats[name] = {};
+        players[name].summary = {};
+
+        for(let killed in killedList) {
+            timesKilled += killedList[killed];
+        }
+        players[name].summary["Killed"] = timesKilled;
+        
+        for(let action in actions) {
+            stats[name][action] = 0;
+            players[name].summary[action] = 0;
+
+            for(let type in actions[action]) {
+                stats[name][action] += actions[action][type];
+                players[name].summary[action] += actions[action][type];
+            }
+        }
+    }
+
+    // Write the result to a file
+    fs.writeFile(`../players/players${i}.json`, JSON.stringify(players, null, 2));
+}
+
 function getStats(i) {
     let stats = {};
     let players = require(`../servers/server${i}.json`);
@@ -94,8 +125,7 @@ function getStats(i) {
         newstats[roster[i]] = stats[roster[i]];
     }
 
-    // Write the result to a file
-    fs.writeFile(`../servers/server${i}players.json`, JSON.stringify(newstats, null, 2));
+    getStarData(newstats, i);
 }
 
 for(let server = 1; server <= 14; server++) {
