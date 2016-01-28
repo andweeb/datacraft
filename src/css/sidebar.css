@@ -127,7 +127,8 @@ tr.player-header-row {
 }
 
 tr.player {
-    border-radius: 2px;
+    border-radius: 4px;
+    display: block;
 }
 
 tr.player:hover {
@@ -142,6 +143,9 @@ td.player-name {
 td.playtime {
     text-align: center;
     font-size: 0.65vw;
+    margin-top: -0.9rem;
+    margin-right: 0.5rem;
+    float: right;
 }
 
 tr {
@@ -151,4 +155,11 @@ tr {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+}
+
+img.player-face {
+    width: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.4rem;
+    vertical-align: bottom;
 }
