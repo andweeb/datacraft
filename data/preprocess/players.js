@@ -28,6 +28,10 @@ function getStats(i) {
             let meta = players[i].values[j].meta;
             let count = +players[i].values[j].count;
 
+            if(!meta) {
+                meta = 'count'
+            }
+
             // Action has not been initialized, so simply insert new action
             if (!stats[name].actions[action]) {
                 stats[name].actions[action] = {
