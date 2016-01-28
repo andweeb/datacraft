@@ -7,6 +7,7 @@ var width = Number((viewport().width * 0.8).toFixed(1));
 
 var canvas = d3.select('.canvas')
     .append('svg')
+    .attr('class', 'svg')
     .attr('width', width)
     .attr('height', height)
     .attr('transform', `translate(${width/2.5}, ${height/2.8})`);

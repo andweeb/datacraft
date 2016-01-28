@@ -41,9 +41,21 @@ function initServerviewSidebar(id) {
         .call(endAll, initPlayerList, id);
 }
 
+function initCanvas() {
+    var newcanvas = document.getElementsByClassName('canvas')[0];
+    newcanvas.style.width = '41vw';
+    newcanvas.style.float = 'left';
+    newcanvas.childNodes[0].transform = '';
+
+    d3.select('.svg')
+        .attr('width', width/2)
+        .attr('transform', '');
+}
+
 function initPlayerList(id) {
     tooltipMouseout();
     initRadarChart();
+    initSlider();
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
 
@@ -123,6 +135,8 @@ function initPlayerList(id) {
     
     initRestartButton();
     servercraft(id);
+
+    initCanvas();
 }
 
 function initRestartButton() {

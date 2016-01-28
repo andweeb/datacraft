@@ -1,4 +1,5 @@
 var chart;
+var spider;
 var playerData;
 var playerStats = {};
 var global_ref = [];
@@ -14,19 +15,16 @@ function servercraft(id) {
 }
 
 function initRadarChart() {
-    var translate = `translate(-${width/2.7}px, -${height/3}px)`;
     chart = RadarChart.chart();
-    var lol = [
-        {
-            axes: [
-                {axis: "Crafter", value: 0}, 
-                {axis: "PvPer", value: 0}, 
-                {axis: "Builder", value: 0},  
-                {axis: "Miner", value: 0},
-                {axis: "Socializer", value: 0},  
-            ]
-        }
-    ];
+    var lol = [{
+        axes: [
+            {axis: "Crafter", value: 0}, 
+            {axis: "PvPer", value: 0}, 
+            {axis: "Builder", value: 0},  
+            {axis: "Miner", value: 0},
+            {axis: "Socializer", value: 0},  
+        ]
+    }];
 
     chart.config({ 
         levels: 3,
@@ -39,7 +37,7 @@ function initRadarChart() {
         .classed('spider', 1)
         .datum(lol)
         .transition()
-        .style('transform', translate)
+        .style('transform', 'translate(3vw, 20vh)')
         .call(chart);
 }
 
@@ -139,11 +137,6 @@ function onPlayerClick(name, i, element, dblclick) {
         document.getElementById(id).style.backgroundColor = hsl.selection;
     }
 
-    // ref.selected = !selected;
-
-    // hsl(0.10, 78%, 91%)
-    var translate = `translate(-${width/3}px, -${height/3}px)`;
-
     var chartdata = {
         color: hsl.chart,
         axes: constructAxes(data, i)
@@ -159,7 +152,7 @@ function onPlayerClick(name, i, element, dblclick) {
         levels: 3,
     });
 
-    var spider = canvas.selectAll('g.spider')
+    spider = canvas.selectAll('g.spider')
         .data([global_starchart]);
 
     spider.enter().append('g')
