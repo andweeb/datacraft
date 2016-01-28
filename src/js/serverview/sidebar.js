@@ -21,6 +21,7 @@ function convertPlaytime(seconds) {
 
 // Server id starts from 1 (not 0)
 function initServerviewSidebar(id) {
+    document.getElementsByClassName('main-title')[0].innerHTML = ``;
     document.getElementsByClassName('title')[0].innerHTML = `Server ${id} Overview`;
     document.getElementsByClassName('info')[0].remove();
     document.getElementsByClassName('preview')[0].remove();
@@ -75,11 +76,12 @@ function initPlayerList(id) {
                     console.log('dblclick');
                     clearTimeout(dblclick_timer);
                     dblclick_timer = false;
+                    onPlayerClick(name, i, event, true);
                 } else { 
                     dblclick_timer = setTimeout(function() {
                         console.log('single click');
                         dblclick_timer = false;
-                        onPlayerClick(name, i, event);
+                        onPlayerClick(name, i, event, false);
                     }, 250)
                 } 
             }.bind(data[name], randomName, id));

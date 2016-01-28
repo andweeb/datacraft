@@ -1,7 +1,7 @@
 var chart;
 var playerData;
 var playerStats = {};
-var global_ref = null;
+var global_ref = [];
 var global_starchart = [];
 
 function servercraft(id) {
@@ -14,7 +14,7 @@ function servercraft(id) {
 }
 
 function initRadarChart() {
-    var translate = `translate(-${width/3}px, -${height/3}px)`;
+    var translate = `translate(-${width/2.7}px, -${height/3}px)`;
     chart = RadarChart.chart();
     var lol = [
         {
@@ -22,8 +22,8 @@ function initRadarChart() {
                 {axis: "Crafter", value: 0}, 
                 {axis: "PvPer", value: 0}, 
                 {axis: "Builder", value: 0},  
+                {axis: "Miner", value: 0},
                 {axis: "Socializer", value: 0},  
-                {axis: "Miner", value: 0}
             ]
         }
     ];
@@ -73,6 +73,14 @@ function constructAxes(data, i) {
         });
     }
 
+    var minerRecord = maxes[i-1].BlockBreak;
+    if(minerRecord) {
+        axes.push({
+            axis: 'Miner',
+            value: (data.summary.BlockBreak || 0) / minerRecord
+        });
+    }
+
     var pvpRecord = maxes[i-1].Killed;
     if(pvpRecord) {
         axes.push({
@@ -89,18 +97,10 @@ function constructAxes(data, i) {
         });
     }
 
-    var minerRecord = maxes[i-1].BlockBreak;
-    if(minerRecord) {
-        axes.push({
-            axis: 'Miner',
-            value: (data.summary.BlockBreak || 0) / minerRecord
-        });
-    }
-
     return axes;
 }
 
-function onPlayerClick(name, i, element) {
+function onPlayerClick(name, i, element, dblclick) {
     console.log('--> in onPlayerClick()');
     console.log(name);
     console.log(i);
@@ -112,8 +112,10 @@ function onPlayerClick(name, i, element) {
     var selected = false;
     var ref = null;
 
-    if(global_ref) {
-        document.getElementById(global_ref.id).style.backgroundColor = 'transparent';
+    if(global_ref.length && !dblclick) {
+        for(let i = 0; i < global_ref.length; i++) {
+            document.getElementById(global_ref[i].id).style.backgroundColor = 'transparent';
+        }
     }
 
     if(element.target.nodeName === "TD") {
@@ -128,9 +130,9 @@ function onPlayerClick(name, i, element) {
         selected = element.target.selected;
     }
 
-    global_ref = ref;
+    global_ref.push(ref);
 
-    if(selected) {
+    if(selected && !dbclick) {
         document.getElementById(id).style.backgroundColor = 'transparent';
     } else {
         hsl = randomHSL();
@@ -142,19 +144,23 @@ function onPlayerClick(name, i, element) {
     // hsl(0.10, 78%, 91%)
     var translate = `translate(-${width/3}px, -${height/3}px)`;
 
-    var chartdata = [{
+    var chartdata = {
         color: hsl.chart,
         axes: constructAxes(data, i)
-    }];
+    };
 
-    global_starchart = chartdata;
+    if(dblclick) {
+        global_starchart.push(chartdata);
+    } else {
+        global_starchart = [chartdata];
+    }
 
     chart.config({ 
         levels: 3,
     });
 
     var spider = canvas.selectAll('g.spider')
-        .data([chartdata]);
+        .data([global_starchart]);
 
     spider.enter().append('g')
         .classed('spider', 1);
