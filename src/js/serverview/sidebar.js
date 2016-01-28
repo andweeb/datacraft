@@ -64,11 +64,13 @@ function initPlayerList(id) {
         var count = 0;
         for(var name in data) {
 
+            var randomName = getName(4, 8);
             var player = document.createElement('tr');
             player.className = 'player';
+            player.ondblclick = onPlayerClick.bind(this, data[name], randomName);
+
             var nameBox = document.createElement('td');
             nameBox.className = 'player-name';
-            nameBox.onclick = () => console.log('clicky');
             var timeBox = document.createElement('td');
             timeBox.className = 'playtime';
             var icon = document.createElement('img');
@@ -76,11 +78,10 @@ function initPlayerList(id) {
             // Create face icon and append to the table element 
             var imgSrc = faces[Math.round(Math.random() * (faces.length - 1) + 0)];
             icon.src = `data/faces/${imgSrc}`;
-            icon.style.width = '1rem';
-            icon.style.paddingLeft = '.5rem';
-            icon.style.paddingRight = '.4rem';
+            icon.className = 'player-face';
+
             nameBox.appendChild(icon);
-            nameBox.innerHTML += getName(4, 8);
+            nameBox.innerHTML += randomName;
 
             timeBox.innerHTML = convertPlaytime(data[name].playtime*60);
 
@@ -88,8 +89,7 @@ function initPlayerList(id) {
             player.className = 'player';
             player.appendChild(nameBox);
             player.appendChild(timeBox);
-            player.playtime = data[name].playtime;
-            player.actions = data[name].actions;
+            player.data = data[name];
 
             playerTable.appendChild(player);
 
@@ -97,8 +97,6 @@ function initPlayerList(id) {
             if(count === 100) 
                 break;
         }
-
-        console.log(JSON.stringify(data,null,2));
     });
 
     document.getElementsByClassName('info')[0].style.height = '80vh';
