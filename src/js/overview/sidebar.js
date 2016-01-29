@@ -17,8 +17,6 @@ function appendSidebarPreview(data, i) {
                 others and ${((killers/playerCount)*100).toFixed(1)}% of 
                 which engaged in PvP.
                 </p> `);
-        // .text(JSON.stringify(data[i],null,2));
-    // var complement = '#'+(parseInt(data[i].color.substr(1, data[i].color.length), 16) ^ 0xffffff).toString(16)
 }
 
 function removeSidebarPreview(data, i) {
