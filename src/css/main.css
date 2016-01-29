@@ -26,3 +26,21 @@ html, body{
     text-align: center;
     margin-top: -1rem;
 }
+
+.starplot-title {
+    left: 30vw;
+    top: 5vh;
+    font-size: 45px;
+    position: absolute;
+    cursor: default;
+    font-family: Alegreya SC, serif;
+}
+
+.force-title {
+    right: 8vw;
+    bottom: 4vh;
+    font-size: 45px;
+    position: absolute;
+    cursor: default;
+    font-family: Alegreya SC, serif;
+}
