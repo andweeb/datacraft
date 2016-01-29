@@ -22,7 +22,7 @@ function convertPlaytime(seconds) {
 // Server id starts from 1 (not 0)
 function initServerviewSidebar(id) {
     document.getElementsByClassName('main-title')[0].innerHTML = ``;
-    document.getElementsByClassName('title')[0].innerHTML = `Server ${id} Overview`;
+    document.getElementsByClassName('title')[0].innerHTML = `Server ${id}`;
     document.getElementsByClassName('info')[0].remove();
     document.getElementsByClassName('preview')[0].remove();
 
@@ -44,7 +44,7 @@ function initServerviewSidebar(id) {
 function initCanvas() {
     var newcanvas = document.getElementsByClassName('canvas')[0];
     newcanvas.childNodes[0].transform = '';
-    newcanvas.childNodes[0].childNodes[0].style.transform = 'translate(2vw, 20vh)';
+    newcanvas.childNodes[0].childNodes[0].style.transform = 'translate(2vw, 15vh)';
 
     d3.select('.svg')
         .attr('width', width/2)
