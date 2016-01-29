@@ -37,7 +37,6 @@ function initRadarChart() {
         .classed('spider', 1)
         .datum(lol)
         .transition()
-        .style('transform', 'translate(3vw, 20vh)')
         .call(chart);
 }
 
@@ -98,8 +97,7 @@ function constructAxes(data, i) {
     return axes;
 }
 
-function onPlayerClick(name, i, element, dblclick) {
-    console.log('--> in onPlayerClick()');
+function drawStarPlot(name, i, element, dblclick) {
     console.log(name);
     console.log(i);
     console.log(element);
@@ -159,4 +157,6 @@ function onPlayerClick(name, i, element, dblclick) {
         .classed('spider', 1);
 
     spider.call(chart);
+
+    return hsl;
 }

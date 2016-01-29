@@ -1,5 +1,3 @@
-var playerForce = null;
-var playerCanvas = null;
 var dblclick_timer = false
 
 function convertPlaytime(seconds) {
@@ -53,85 +51,17 @@ function initCanvas() {
         .attr('transform', '');
 }
 
-function initForceLinkLayout() {
-    console.log('in initForceLinkLayout()');
-    playerCanvas = d3.select('.canvas')
-        .append('svg')
-        .attr('class', 'player-interactions')
-        .attr('width', width/2)
-        .attr('height', height)
-        .style('transform', 'translate(0vw, 2vh)')
-        .style('position', 'absolute');
-
-    playerCanvas.style('opacity', 1e-6)
-        .transition()
-        .duration(1000)
-        .style('opacity', 1);
-
-        // index - the zero-based index of the node within the nodes array.
-        // x - the x-coordinate of the current node position.
-        // y - the y-coordinate of the current node position.
-        // px - the x-coordinate of the previous node position.
-        // py - the y-coordinate of the previous node position.
-        // fixed - a boolean indicating whether node position is locked.
-        // weight - the node weight; the number of associated links.
-
-    playerForce = d3.layout.force()
-        .nodes([{
-            x: 100,
-            y: 100,
-            name: 'Andrew',
-            index: 0,
-        }])
-        .size([ width/2, height/1.5 ])
-        .on("tick", playerTick)
-        .start()
-}
-
-function playerTick() {
-    var nodes = playerCanvas.selectAll(".node")
-        .data(playerForce.nodes(), function(d) {
-            return d.index;
-        });
-
-    nodes
-        .attr("cx", function(d) {
-            return d.x
-        })
-        .attr("cy", function(d) {
-            return d.y
-        });
-
-    nodes
-        .enter()
-        .append("circle")
-        .attr("r", 10)
-        .attr("fill", "Red")
-        .call(playerForce.drag)
-        .attr("class", "node")
-        .attr("cx", function(d) {
-            return d.x
-        })
-        .attr("cy", function(d) {
-            return d.y
-        });
-
-    // // add the text 
-    // nodes.append("text")
-    //     .attr("x", 12)
-    //     .attr("dy", ".35em")
-    //     .text(function(d) { return d.name; });
-
-    nodes
-        .exit()
-        .remove()
+function getPlayerId(event) {
+    if(event.target.nodeName === "TD") {
+        return event.target.parentElement.id;
+    } else if(event.target.nodeName === "TR") {
+        return event.target.id;
+    }
 }
 
 function initPlayerList(id) {
     tooltipMouseout();
     initRadarChart();
-    initSlider();
-    initForceLinkLayout();
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
 
@@ -152,57 +82,60 @@ function initPlayerList(id) {
 
     d3.json(`data/players/players${id}.json`, (error, data) => {
         if(error) throw error;
+        d3.json(`data/stories/stories${id}.json`, (error, story) => {
+            if(error) throw error;
 
-        var count = 0;
-        for(var name in data) {
+            var count = 0;
+            for(var name in data) {
 
-            var randomName = getName(4, 8);
-            var player = document.createElement('tr');
-            player.className = 'player';
-            player.addEventListener("click", function(name, i, event) {
-                if(dblclick_timer) {
-                    console.log('dblclick');
-                    clearTimeout(dblclick_timer);
-                    dblclick_timer = false;
-                    onPlayerClick(name, i, event, true);
-                } else { 
-                    dblclick_timer = setTimeout(function() {
-                        console.log('single click');
+                var randomName = getName(4, 8);
+                var player = document.createElement('tr');
+                player.className = 'player';
+
+                var nameBox = document.createElement('td');
+                nameBox.className = 'player-name';
+                var timeBox = document.createElement('td');
+                timeBox.className = 'playtime';
+                var icon = document.createElement('img');
+
+                // Create face icon and append to the table element 
+                var imgSrc = `data/faces/${faces[Math.round(Math.random() * (faces.length - 1) + 0)]}`;
+                icon.src = imgSrc; 
+                icon.className = 'player-face';
+
+                nameBox.appendChild(icon);
+                nameBox.innerHTML += randomName;
+
+                timeBox.innerHTML = convertPlaytime(data[name].playtime*60);
+
+                player.id = name;
+                player.className = 'player';
+                player.appendChild(nameBox);
+                player.appendChild(timeBox);
+                player.data = data[name];
+                player.selected = false;
+                player.addEventListener("click", function(name, i, event) {
+                    if(dblclick_timer) {
+                        clearTimeout(dblclick_timer);
                         dblclick_timer = false;
-                        onPlayerClick(name, i, event, false);
-                    }, 250)
-                } 
-            }.bind(data[name], randomName, id));
+                        var color = drawStarPlot(name, i, event, true);
+                        drawForceLayout(name, story[getPlayerId(event)], color.chart || 'black');
+                    } else { 
+                        dblclick_timer = setTimeout(function() {
+                            dblclick_timer = false;
+                            var color = drawStarPlot(name, i, event, false);
+                            drawForceLayout(name, story[getPlayerId(event)], color.chart || 'black');
+                        }, 200)
+                    } 
+                }.bind(data[name], randomName, id));
 
-            var nameBox = document.createElement('td');
-            nameBox.className = 'player-name';
-            var timeBox = document.createElement('td');
-            timeBox.className = 'playtime';
-            var icon = document.createElement('img');
+                playerTable.appendChild(player);
 
-            // Create face icon and append to the table element 
-            var imgSrc = faces[Math.round(Math.random() * (faces.length - 1) + 0)];
-            icon.src = `data/faces/${imgSrc}`;
-            icon.className = 'player-face';
-
-            nameBox.appendChild(icon);
-            nameBox.innerHTML += randomName;
-
-            timeBox.innerHTML = convertPlaytime(data[name].playtime*60);
-
-            player.id = name;
-            player.className = 'player';
-            player.appendChild(nameBox);
-            player.appendChild(timeBox);
-            player.data = data[name];
-            player.selected = false;
-
-            playerTable.appendChild(player);
-
-            count++;
-            if(count === 100) 
-                break;
-        }
+                count++;
+                if(count === 100) 
+                    break;
+            }
+        });
     });
 
     document.getElementsByClassName('info')[0].style.height = '80vh';
@@ -210,8 +143,6 @@ function initPlayerList(id) {
     document.getElementsByClassName('info')[0].appendChild(playerTable);
     
     initRestartButton();
-    servercraft(id);
-
     initCanvas();
 }
 
@@ -221,7 +152,7 @@ function initRestartButton() {
     restartButton.className = "sidebar-button";
     restartButton.addEventListener('click', function() {
         location.reload(false); 
-    })
+    });
 
     document.getElementsByClassName('sidebar')[0].appendChild(restartButton);
 }
