@@ -1,7 +1,7 @@
 'use strict';
 const fs = require('fs');
 
-function getStarData(players, i) {
+function getStarData(players, i, stories) {
     let stats = {};
 
     for(let name in players) {
@@ -30,10 +30,29 @@ function getStarData(players, i) {
 
     // Write the result to a file
     fs.writeFile(`../players/players${i}.json`, JSON.stringify(players, null, 2));
+    fs.writeFile(`../stories/stories${i}.json`, JSON.stringify(stories, null, 2));
+}
+
+function addToStories(stories, name, start_t, stop_t, player_b, interaction) {
+    // Add to stories
+    if(stories[name][start_t]) {
+        stories[name][start_t].push({
+            stop_t: stop_t,
+            action: interaction,
+            player_b: player_b
+        });
+    } else {
+        stories[name][start_t] = [{
+            stop_t: stop_t,
+            action: interaction,
+            player_b: player_b
+        }];
+    }
 }
 
 function getStats(i) {
     let stats = {};
+    let stories = {};
     let players = require(`../servers/server${i}.json`);
 
     // For all players in the server
@@ -43,6 +62,8 @@ function getStats(i) {
         let intervals = {};
 
         let name = players[i].key;
+
+        stories[name] = {};
 
         if(stats[name] === undefined) {
             stats[name] = {
@@ -55,6 +76,8 @@ function getStats(i) {
         // For all statistics for a single player
         let statCount = players[i].values.length;
         for(let j = 0; j < statCount; j++) {
+            let start_t = players[i].values[j].start_t;
+            let stop_t = players[i].values[j].stop_t;
             let action = players[i].values[j].key;
             let meta = players[i].values[j].meta;
             let count = +players[i].values[j].count;
@@ -90,6 +113,12 @@ function getStats(i) {
                         stats[killer].killed[name] = count;
                     }
                 }
+
+                addToStories(stories, name, start_t, stop_t, killer, action);
+            }
+
+            if(action === 'Chat') {
+                addToStories(stories, name, start_t, stop_t, players[i].values[j].player_b, action);
             }
 
             // Action has already been inserted, now check the meta
@@ -104,10 +133,10 @@ function getStats(i) {
             }
 
             // Gather the player's play time intervals
-            let start_t = players[i].values[j].start_t;
-            let stop_t = players[i].values[j].stop_t;
-            if(intervals[start_t] === undefined || intervals[start_t] < stop_t) {
-                intervals[start_t] = stop_t;
+            let startTime = players[i].values[j].start_t;
+            let stopTime = players[i].values[j].stop_t;
+            if(intervals[startTime] === undefined || intervals[startTime] < stopTime) {
+                intervals[startTime] = stopTime;
             }
         }
 
@@ -125,7 +154,7 @@ function getStats(i) {
         newstats[roster[i]] = stats[roster[i]];
     }
 
-    getStarData(newstats, i);
+    getStarData(newstats, i, stories);
 }
 
 for(let server = 1; server <= 14; server++) {
