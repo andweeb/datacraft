@@ -1,5 +1,10 @@
 function initSlider() {
 
+    var forceTitle = document.createElement('div');
+    forceTitle.className = 'force-title';
+    forceTitle.innerHTML = 'Player Interactions';
+    document.getElementsByClassName('container')[0].appendChild(forceTitle);
+
     var oldWrapper = document.getElementById('wrapper');
     if(oldWrapper) {
         oldWrapper.remove();
