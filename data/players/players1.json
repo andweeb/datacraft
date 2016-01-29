@@ -85,7 +85,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 12
+        "count": 4
       }
     },
     "killed": {},
@@ -95,7 +95,7 @@
       "BlockPlace": 10797,
       "Logins": 38,
       "Kicks": 2,
-      "Chat": 12
+      "Chat": 4
     }
   },
   "89c3913abe8cd14e847516a5bb6213e7978e1dee": {
@@ -141,7 +141,7 @@
         "LEATHER_HELMET": 9
       },
       "Chat": {
-        "count": 100
+        "count": 1
       }
     },
     "killed": {},
@@ -151,7 +151,7 @@
       "Logins": 34,
       "BlockBreak": 8144,
       "CraftedItems": 9,
-      "Chat": 100
+      "Chat": 1
     }
   },
   "8b7c97f7b44e7929b80e0638d6df8f6e6692fb4a": {
@@ -241,7 +241,7 @@
         "America/New_York": 13
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -250,7 +250,7 @@
       "BlockBreak": 3313,
       "BlockPlace": 13324,
       "Logins": 13,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "2804bb2f4e5a5274a158164ad3e4f1d57da153b6": {
@@ -334,7 +334,7 @@
         "Australia/Queensland": 19
       },
       "Chat": {
-        "count": 6
+        "count": 2
       }
     },
     "killed": {},
@@ -343,7 +343,7 @@
       "BlockBreak": 3727,
       "BlockPlace": 10000,
       "Logins": 31,
-      "Chat": 6
+      "Chat": 2
     }
   },
   "805e44b3543284b18d0b8fecec781cb76d3b9922": {
@@ -371,7 +371,7 @@
         "Australia/Queensland": 28
       },
       "Chat": {
-        "count": 57
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 816,
@@ -404,7 +404,7 @@
       "Killed": 0,
       "BlockPlace": 6600,
       "Logins": 28,
-      "Chat": 57,
+      "Chat": 1,
       "BlockBreak": 3877,
       "Kicks": 3,
       "CraftedItems": 38
@@ -498,7 +498,7 @@
         "Australia/Queensland": 43
       },
       "Chat": {
-        "count": 13
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 31
@@ -510,7 +510,7 @@
       "BlockBreak": 4371,
       "BlockPlace": 6912,
       "Logins": 43,
-      "Chat": 13,
+      "Chat": 1,
       "CraftedItems": 31
     }
   },
@@ -560,7 +560,7 @@
         "LEATHER_HELMET": 8
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -571,7 +571,7 @@
       "Kicks": 3,
       "Logins": 22,
       "CraftedItems": 8,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "abfadc41bf54e2f7c69dc687eceafe306e37f5a1": {
@@ -779,7 +779,7 @@
         "IRON_BLOCK": 14
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -792,7 +792,7 @@
       "CraftedItems": 54,
       "BlockBreak": 3695,
       "BlockPlace": 4439,
-      "Chat": 4,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -882,7 +882,7 @@
         "count": 3
       },
       "Chat": {
-        "count": 16
+        "count": 1
       }
     },
     "killed": {},
@@ -892,7 +892,7 @@
       "BlockBreak": 7989,
       "Logins": 16,
       "Kicks": 3,
-      "Chat": 16
+      "Chat": 1
     }
   },
   "3ad62ca5559fc3377ec75468592a1f26c8888a07": {
@@ -935,7 +935,7 @@
         "count": 4
       },
       "Chat": {
-        "count": 6
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 30
@@ -948,7 +948,7 @@
       "BlockPlace": 5680,
       "Logins": 18,
       "Kicks": 4,
-      "Chat": 6,
+      "Chat": 1,
       "CraftedItems": 30
     }
   },
@@ -996,7 +996,7 @@
         "LEATHER_HELMET": 8
       },
       "Chat": {
-        "count": 11
+        "count": 1
       }
     },
     "killed": {},
@@ -1006,7 +1006,7 @@
       "BlockPlace": 9956,
       "Logins": 16,
       "CraftedItems": 8,
-      "Chat": 11
+      "Chat": 1
     }
   },
   "09e6280886d43eb47754d67d737279b18aa5d296": {
@@ -1082,7 +1082,7 @@
         "DIRT": 555
       },
       "Chat": {
-        "count": 42
+        "count": 1
       },
       "Logins": {
         "America/New_York": 28
@@ -1093,7 +1093,7 @@
       "Killed": 0,
       "BlockBreak": 2281,
       "BlockPlace": 7405,
-      "Chat": 42,
+      "Chat": 1,
       "Logins": 28
     }
   },
@@ -1135,7 +1135,7 @@
         "Europe/London": 38
       },
       "Chat": {
-        "count": 13
+        "count": 1
       }
     },
     "killed": {},
@@ -1144,7 +1144,7 @@
       "BlockPlace": 9169,
       "BlockBreak": 3041,
       "Logins": 38,
-      "Chat": 13
+      "Chat": 1
     }
   },
   "5a0d29d6b83dda88330754a7efc0f466c0684ea5": {
@@ -1215,7 +1215,7 @@
         "Europe/London": 16
       },
       "Chat": {
-        "count": 5
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -1227,7 +1227,7 @@
       "BlockBreak": 5764,
       "BlockPlace": 5734,
       "Logins": 16,
-      "Chat": 5,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -1272,7 +1272,7 @@
         "DIAMOND_ORE": 175
       },
       "Chat": {
-        "count": 7
+        "count": 1
       }
     },
     "killed": {},
@@ -1283,7 +1283,7 @@
       "Kicks": 5,
       "Logins": 37,
       "BlockBreak": 2733,
-      "Chat": 7
+      "Chat": 1
     }
   },
   "4faa28fce8c054f9e991fd6e92cd1c8186b346c4": {
@@ -1316,7 +1316,7 @@
         "LEATHER_HELMET": 89
       },
       "Chat": {
-        "count": 14
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -1329,7 +1329,7 @@
       "BlockPlace": 8313,
       "Logins": 13,
       "CraftedItems": 89,
-      "Chat": 14,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -1509,7 +1509,7 @@
         "Asia/Dubai": 14
       },
       "Chat": {
-        "count": 18
+        "count": 1
       }
     },
     "killed": {},
@@ -1518,7 +1518,7 @@
       "BlockPlace": 3926,
       "BlockBreak": 1972,
       "Logins": 14,
-      "Chat": 18
+      "Chat": 1
     }
   },
   "da03bf2080bbcb688404fd169d0e23554532c93b": {
@@ -1558,7 +1558,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -1568,7 +1568,7 @@
       "BlockPlace": 5165,
       "Logins": 18,
       "Kicks": 2,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "60901b5e23b70fbe6224e2048d03a46241b95e95": {
@@ -1648,7 +1648,7 @@
         "SMOOTH_BRICK": 307
       },
       "Chat": {
-        "count": 9
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 2
@@ -1660,7 +1660,7 @@
       "Logins": 9,
       "BlockBreak": 2619,
       "BlockPlace": 4794,
-      "Chat": 9,
+      "Chat": 1,
       "CraftedItems": 2
     }
   },
@@ -1694,7 +1694,7 @@
         "SMOOTH_BRICK": 430
       },
       "Chat": {
-        "count": 96
+        "count": 2
       },
       "Logins": {
         "Asia/Singapore": 28
@@ -1708,7 +1708,7 @@
       "Killed": 0,
       "BlockBreak": 1509,
       "BlockPlace": 3767,
-      "Chat": 96,
+      "Chat": 2,
       "Logins": 28,
       "CraftedItems": 8
     }
@@ -1790,7 +1790,7 @@
         "Europe/Copenhagen": 21
       },
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "CraftedItems": {
         "POWERED_MINECART": 2,
@@ -1803,7 +1803,7 @@
       "BlockBreak": 3334,
       "BlockPlace": 5444,
       "Logins": 21,
-      "Chat": 4,
+      "Chat": 2,
       "CraftedItems": 9
     }
   },
@@ -1811,7 +1811,7 @@
     "playtime": 241,
     "actions": {
       "Chat": {
-        "count": 27
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 403,
@@ -1850,7 +1850,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 27,
+      "Chat": 1,
       "BlockBreak": 2060,
       "BlockPlace": 5250,
       "Logins": 13,
@@ -1897,7 +1897,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -1908,7 +1908,7 @@
       "Logins": 23,
       "CraftedItems": 9,
       "Kicks": 2,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "08109137b7bdd8238033db7c7acbfdc2b79b9dcf": {
@@ -1947,7 +1947,7 @@
         "IRON_BLOCK": 22
       },
       "Chat": {
-        "count": 41
+        "count": 1
       },
       "Logins": {
         "America/Denver": 15
@@ -1958,7 +1958,7 @@
       "Killed": 0,
       "BlockBreak": 1284,
       "BlockPlace": 3046,
-      "Chat": 41,
+      "Chat": 1,
       "Logins": 15
     }
   },
@@ -2004,7 +2004,7 @@
         "COBBLESTONE": 10
       },
       "Chat": {
-        "count": 38
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -2019,7 +2019,7 @@
       "BlockPlace": 3471,
       "Logins": 26,
       "BlockBreak": 1639,
-      "Chat": 38,
+      "Chat": 2,
       "Kicks": 2,
       "CraftedItems": 16
     }
@@ -2052,7 +2052,7 @@
         "count": 4
       },
       "Chat": {
-        "count": 7
+        "count": 1
       }
     },
     "killed": {},
@@ -2062,7 +2062,7 @@
       "Logins": 19,
       "BlockPlace": 4714,
       "Kicks": 4,
-      "Chat": 7
+      "Chat": 1
     }
   },
   "016b41f62b4d315d065a3864b6b6c90f34584d90": {
@@ -2139,7 +2139,7 @@
         "America/New_York": 7
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -2151,7 +2151,7 @@
       "BlockBreak": 2093,
       "BlockPlace": 5085,
       "Logins": 7,
-      "Chat": 4,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -2228,7 +2228,7 @@
         "COAL_ORE": 23
       },
       "Chat": {
-        "count": 9
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -2240,7 +2240,7 @@
       "Logins": 17,
       "BlockBreak": 1389,
       "BlockPlace": 6746,
-      "Chat": 9,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -2279,7 +2279,7 @@
         "Africa/Casablanca": 24
       },
       "Chat": {
-        "count": 32
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -2294,7 +2294,7 @@
       "BlockBreak": 1313,
       "BlockPlace": 2650,
       "Logins": 24,
-      "Chat": 32,
+      "Chat": 1,
       "Kicks": 3,
       "CraftedItems": 18
     }
@@ -2335,7 +2335,7 @@
         "Australia/NSW": 17
       },
       "Chat": {
-        "count": 39
+        "count": 1
       }
     },
     "killed": {},
@@ -2344,7 +2344,7 @@
       "BlockBreak": 3291,
       "BlockPlace": 5800,
       "Logins": 17,
-      "Chat": 39
+      "Chat": 1
     }
   },
   "828d6a0c1baff62b1ca3afb2938eda4109b13a8d": {
@@ -2471,7 +2471,7 @@
         "NoInfo": 15
       },
       "Chat": {
-        "count": 16
+        "count": 1
       }
     },
     "killed": {},
@@ -2480,7 +2480,7 @@
       "BlockPlace": 5058,
       "BlockBreak": 3189,
       "Logins": 15,
-      "Chat": 16
+      "Chat": 1
     }
   },
   "9452d6cd72f856b28e29d2ca6e071251c52227f4": {
@@ -2573,7 +2573,7 @@
         "NoInfo": 21
       },
       "Chat": {
-        "count": 126
+        "count": 2
       },
       "CraftedItems": {
         "LEATHER_HELMET": 20
@@ -2585,7 +2585,7 @@
       "BlockBreak": 1792,
       "BlockPlace": 3496,
       "Logins": 21,
-      "Chat": 126,
+      "Chat": 2,
       "CraftedItems": 20
     }
   },
@@ -2720,7 +2720,7 @@
         "SAND": 1
       },
       "Chat": {
-        "count": 17
+        "count": 1
       },
       "Logins": {
         "America/Rainy_River": 12
@@ -2731,7 +2731,7 @@
       "Killed": 0,
       "BlockPlace": 5537,
       "BlockBreak": 1446,
-      "Chat": 17,
+      "Chat": 1,
       "Logins": 12
     }
   },
@@ -2858,7 +2858,7 @@
         "America/Edmonton": 19
       },
       "Chat": {
-        "count": 15
+        "count": 1
       }
     },
     "killed": {},
@@ -2867,7 +2867,7 @@
       "BlockPlace": 3050,
       "BlockBreak": 1851,
       "Logins": 19,
-      "Chat": 15
+      "Chat": 1
     }
   },
   "85b79bbb0820f797290ede044d9f43bcacb4a613": {
@@ -2903,7 +2903,7 @@
         "count": 5
       },
       "Chat": {
-        "count": 5
+        "count": 1
       }
     },
     "killed": {},
@@ -2913,7 +2913,7 @@
       "BlockPlace": 2598,
       "Logins": 21,
       "Kicks": 5,
-      "Chat": 5
+      "Chat": 1
     }
   },
   "bd0064166bf9cadcd9284fcc4bce78a750a29139": {
@@ -2953,7 +2953,7 @@
         "count": 5
       },
       "Chat": {
-        "count": 7
+        "count": 1
       }
     },
     "killed": {},
@@ -2963,14 +2963,14 @@
       "BlockPlace": 3691,
       "Logins": 15,
       "Kicks": 5,
-      "Chat": 7
+      "Chat": 1
     }
   },
   "2140e8e9946452d08b5b62f3dc6db12332b0aca2": {
     "playtime": 191,
     "actions": {
       "Chat": {
-        "count": 62
+        "count": 3
       },
       "Logins": {
         "America/Los_Angeles": 8
@@ -3011,7 +3011,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 62,
+      "Chat": 3,
       "Logins": 8,
       "BlockBreak": 1876,
       "BlockPlace": 3976,
@@ -3054,7 +3054,7 @@
         "America/New_York": 7
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -3063,7 +3063,7 @@
       "BlockPlace": 5130,
       "BlockBreak": 3107,
       "Logins": 7,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "a43fdd79c9eb7f922e200046f783e01e228807f9": {
@@ -3199,7 +3199,7 @@
     "playtime": 188,
     "actions": {
       "Chat": {
-        "count": 17
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 657,
@@ -3235,7 +3235,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 17,
+      "Chat": 1,
       "BlockBreak": 1842,
       "BlockPlace": 4858,
       "Logins": 21,
@@ -3278,7 +3278,7 @@
         "SMOOTH_BRICK": 538
       },
       "Chat": {
-        "count": 4
+        "count": 1
       }
     },
     "killed": {},
@@ -3287,7 +3287,7 @@
       "Logins": 9,
       "BlockBreak": 4297,
       "BlockPlace": 8392,
-      "Chat": 4
+      "Chat": 1
     }
   },
   "31a62b279854b9efdeba737eece768d1faa1ed50": {
@@ -3314,7 +3314,7 @@
         "DIRT": 13
       },
       "Chat": {
-        "count": 35
+        "count": 6
       },
       "Logins": {
         "America/New_York": 15
@@ -3325,7 +3325,7 @@
       "Killed": 0,
       "BlockBreak": 1764,
       "BlockPlace": 3257,
-      "Chat": 35,
+      "Chat": 6,
       "Logins": 15
     }
   },
@@ -3438,7 +3438,7 @@
         "America/Edmonton": 18
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 40
@@ -3450,7 +3450,7 @@
       "BlockBreak": 1729,
       "BlockPlace": 4373,
       "Logins": 18,
-      "Chat": 7,
+      "Chat": 1,
       "CraftedItems": 40
     }
   },
@@ -3615,7 +3615,7 @@
         "SMOOTH_BRICK": 52
       },
       "Chat": {
-        "count": 24
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 4
@@ -3630,7 +3630,7 @@
       "Logins": 13,
       "BlockBreak": 1131,
       "BlockPlace": 2772,
-      "Chat": 24,
+      "Chat": 1,
       "CraftedItems": 4,
       "Kicks": 2
     }
@@ -3703,7 +3703,7 @@
         "LEATHER_HELMET": 6
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -3713,7 +3713,7 @@
       "BlockBreak": 2337,
       "BlockPlace": 5145,
       "CraftedItems": 6,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "e94b897f4c2b5a90f47af2142ab538bd50ea7e8d": {
@@ -3756,7 +3756,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -3766,7 +3766,7 @@
       "Logins": 17,
       "BlockBreak": 2833,
       "Kicks": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "ee901693a1883e9243b8b45c0b0f0cf8833e3818": {
@@ -3780,7 +3780,7 @@
         "SAND": 4
       },
       "Chat": {
-        "count": 36
+        "count": 2
       },
       "Logins": {
         "America/New_York": 22
@@ -3802,7 +3802,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 2715,
-      "Chat": 36,
+      "Chat": 2,
       "Logins": 22,
       "BlockBreak": 720
     }
@@ -3828,7 +3828,7 @@
         "DIRT": 2
       },
       "Chat": {
-        "count": 101
+        "count": 17
       },
       "BlockBreak": {
         "THIN_GLASS": 21,
@@ -3854,7 +3854,7 @@
       "Killed": 0,
       "Logins": 11,
       "BlockPlace": 5285,
-      "Chat": 101,
+      "Chat": 17,
       "BlockBreak": 1845,
       "CraftedItems": 2
     }
@@ -3897,7 +3897,7 @@
         "DIRT": 30
       },
       "Chat": {
-        "count": 13
+        "count": 6
       }
     },
     "killed": {},
@@ -3907,7 +3907,7 @@
       "Logins": 20,
       "BlockBreak": 2589,
       "BlockPlace": 3971,
-      "Chat": 13
+      "Chat": 6
     }
   },
   "28de5162ab405fcca3db62ddf553b84f40386692": {
@@ -3988,7 +3988,7 @@
         "STONE": 114
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -3997,7 +3997,7 @@
       "BlockPlace": 3911,
       "Logins": 6,
       "BlockBreak": 1633,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "4b05f0244ce9167c28f3bcc137231d6768e58d21": {
@@ -4150,7 +4150,7 @@
         "COAL_ORE": 7
       },
       "Chat": {
-        "count": 10
+        "count": 5
       },
       "Kicks": {
         "count": 2
@@ -4162,7 +4162,7 @@
       "BlockBreak": 3007,
       "Logins": 12,
       "BlockPlace": 2995,
-      "Chat": 10,
+      "Chat": 5,
       "Kicks": 2
     }
   },
@@ -4201,7 +4201,7 @@
         "SMOOTH_BRICK": 216
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -4211,7 +4211,7 @@
       "Kicks": 3,
       "Logins": 14,
       "BlockPlace": 2277,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "f1daa83bcca9d57f2caa12018152ec5158d51a1f": {
@@ -4300,7 +4300,7 @@
         "count": 12
       },
       "Chat": {
-        "count": 12
+        "count": 1
       }
     },
     "killed": {},
@@ -4310,7 +4310,7 @@
       "BlockBreak": 1265,
       "Logins": 33,
       "Kicks": 12,
-      "Chat": 12
+      "Chat": 1
     }
   },
   "da052ecb2f38f5465820b129ad4daec377bfaec6": {
@@ -4412,7 +4412,7 @@
         "America/Chicago": 8
       },
       "Chat": {
-        "count": 9
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -4424,7 +4424,7 @@
       "BlockPlace": 4225,
       "BlockBreak": 1457,
       "Logins": 8,
-      "Chat": 9,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -4453,7 +4453,7 @@
         "America/New_York": 10
       },
       "Chat": {
-        "count": 32
+        "count": 2
       }
     },
     "killed": {},
@@ -4462,7 +4462,7 @@
       "BlockPlace": 4880,
       "BlockBreak": 2678,
       "Logins": 10,
-      "Chat": 32
+      "Chat": 2
     }
   },
   "c56e597da8b8d426c1f83b34cb82d726fb9b62fd": {
@@ -4641,7 +4641,7 @@
         "IRON_BLOCK": 1
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -4650,7 +4650,7 @@
       "Logins": 9,
       "BlockPlace": 4777,
       "BlockBreak": 3148,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "e76deef698db39b06b86bb5a203acbb933393822": {
@@ -4960,7 +4960,7 @@
         "Europe/London": 29
       },
       "Chat": {
-        "count": 29
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -4972,7 +4972,7 @@
       "BlockPlace": 2300,
       "BlockBreak": 1177,
       "Logins": 29,
-      "Chat": 29,
+      "Chat": 1,
       "Kicks": 3
     }
   },
@@ -5167,7 +5167,7 @@
         "Europe/London": 14
       },
       "Chat": {
-        "count": 22
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -5182,7 +5182,7 @@
       "BlockPlace": 2133,
       "BlockBreak": 1644,
       "Logins": 14,
-      "Chat": 22,
+      "Chat": 1,
       "Kicks": 2,
       "CraftedItems": 4
     }
@@ -5371,7 +5371,7 @@
         "LEATHER_HELMET": 2
       },
       "Chat": {
-        "count": 7
+        "count": 1
       }
     },
     "killed": {},
@@ -5382,7 +5382,7 @@
       "Logins": 36,
       "Kicks": 7,
       "CraftedItems": 2,
-      "Chat": 7
+      "Chat": 1
     }
   },
   "16a30081afd7f7acb73e4e4af9a5ea28efed191a": {
@@ -5404,7 +5404,7 @@
         "GLOWSTONE": 2
       },
       "Chat": {
-        "count": 22
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 1625,
@@ -5419,7 +5419,7 @@
       "Killed": 0,
       "Logins": 16,
       "BlockBreak": 511,
-      "Chat": 22,
+      "Chat": 1,
       "BlockPlace": 1686
     }
   },
@@ -5504,7 +5504,7 @@
         "GLASS": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -5513,7 +5513,7 @@
       "BlockBreak": 848,
       "Logins": 13,
       "BlockPlace": 3979,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "d7947f9730048b4035121bdb8650951cc3a9d978": {
@@ -5581,7 +5581,7 @@
         "LOG": 15
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "Logins": {
         "Europe/London": 9
@@ -5592,7 +5592,7 @@
       "Killed": 0,
       "BlockBreak": 1892,
       "BlockPlace": 2478,
-      "Chat": 3,
+      "Chat": 1,
       "Logins": 9
     }
   },
@@ -5773,7 +5773,7 @@
         "LOG": 49
       },
       "Chat": {
-        "count": 6
+        "count": 1
       }
     },
     "killed": {},
@@ -5782,7 +5782,7 @@
       "BlockBreak": 1344,
       "Logins": 8,
       "BlockPlace": 1862,
-      "Chat": 6
+      "Chat": 1
     }
   },
   "a0fd0ffc6c8076bd6b5103a96378cecf3aeb5e52": {
@@ -5814,7 +5814,7 @@
         "count": 4
       },
       "Chat": {
-        "count": 10
+        "count": 2
       }
     },
     "killed": {},
@@ -5824,7 +5824,7 @@
       "BlockBreak": 590,
       "BlockPlace": 1780,
       "Kicks": 4,
-      "Chat": 10
+      "Chat": 2
     }
   },
   "e57cf2827f26c91f5b538cc02aeb67957c737591": {
@@ -5990,7 +5990,7 @@
         "America/Los_Angeles": 9
       },
       "Chat": {
-        "count": 19
+        "count": 3
       },
       "Kicks": {
         "count": 2
@@ -6002,7 +6002,7 @@
       "BlockBreak": 1345,
       "BlockPlace": 5430,
       "Logins": 9,
-      "Chat": 19,
+      "Chat": 3,
       "Kicks": 2
     }
   },
@@ -6030,7 +6030,7 @@
         "Europe/London": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -6039,7 +6039,7 @@
       "BlockPlace": 3320,
       "BlockBreak": 2054,
       "Logins": 3,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "9f7e8cd6f542c22816168e825c49ec232839208f": {
@@ -6069,7 +6069,7 @@
         "SMOOTH_BRICK": 5
       },
       "Chat": {
-        "count": 20
+        "count": 1
       },
       "Logins": {
         "NoInfo": 8
@@ -6083,7 +6083,7 @@
       "Killed": 0,
       "BlockPlace": 1935,
       "BlockBreak": 1564,
-      "Chat": 20,
+      "Chat": 1,
       "Logins": 8,
       "CraftedItems": 2
     }
@@ -6143,7 +6143,7 @@
         "LOG": 20
       },
       "Chat": {
-        "count": 4
+        "count": 1
       }
     },
     "killed": {},
@@ -6152,7 +6152,7 @@
       "BlockPlace": 2896,
       "Logins": 12,
       "BlockBreak": 1995,
-      "Chat": 4
+      "Chat": 1
     }
   },
   "9265d77c2a047020b8f231e33caeb016b9571eb1": {
@@ -6213,7 +6213,7 @@
         "America/Rainy_River": 19
       },
       "Chat": {
-        "count": 16
+        "count": 5
       },
       "Kicks": {
         "count": 2
@@ -6225,7 +6225,7 @@
       "BlockPlace": 1516,
       "BlockBreak": 536,
       "Logins": 19,
-      "Chat": 16,
+      "Chat": 5,
       "Kicks": 2
     }
   },
@@ -6250,7 +6250,7 @@
         "America/Chicago": 21
       },
       "Chat": {
-        "count": 48
+        "count": 1
       }
     },
     "killed": {},
@@ -6259,7 +6259,7 @@
       "BlockBreak": 455,
       "BlockPlace": 1255,
       "Logins": 21,
-      "Chat": 48
+      "Chat": 1
     }
   },
   "1af5691d43d749917e04246982eea3f9ff9f42f2": {
@@ -6293,7 +6293,7 @@
         "GLASS": 2
       },
       "Chat": {
-        "count": 21
+        "count": 1
       }
     },
     "killed": {},
@@ -6302,7 +6302,7 @@
       "Logins": 39,
       "BlockBreak": 652,
       "BlockPlace": 1095,
-      "Chat": 21
+      "Chat": 1
     }
   },
   "1713d55d31473384eccc5fd96901516a11c1bcae": {
@@ -6330,7 +6330,7 @@
         "IRON_BLOCK": 13
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -6339,7 +6339,7 @@
       "BlockBreak": 1019,
       "Logins": 9,
       "BlockPlace": 1543,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "523a315e8f12eae0fc609058a6ae178a0985097d": {
@@ -6489,7 +6489,7 @@
         "Europe/London": 10
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -6498,7 +6498,7 @@
       "BlockBreak": 1102,
       "BlockPlace": 2079,
       "Logins": 10,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "3bf3a5e0ebf28cdeeff9e524e0f0a72b29a3b439": {
@@ -6605,7 +6605,7 @@
         "America/Chicago": 20
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "GLASS": 43,
@@ -6635,7 +6635,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 20,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 810,
       "BlockPlace": 2517,
       "Kicks": 2,
@@ -6694,7 +6694,7 @@
         "America/New_York": 15
       },
       "Chat": {
-        "count": 9
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -6706,7 +6706,7 @@
       "BlockPlace": 2178,
       "BlockBreak": 493,
       "Logins": 15,
-      "Chat": 9,
+      "Chat": 1,
       "Kicks": 3
     }
   },
@@ -6767,7 +6767,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 7
+        "count": 3
       }
     },
     "killed": {},
@@ -6777,7 +6777,7 @@
       "BlockBreak": 705,
       "BlockPlace": 1987,
       "Kicks": 2,
-      "Chat": 7
+      "Chat": 3
     }
   },
   "6429d75ad2ca6a8d5866a449338266ccd7d6fd76": {
@@ -6850,7 +6850,7 @@
         "Europe/London": 11
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -6862,7 +6862,7 @@
       "BlockPlace": 2910,
       "BlockBreak": 856,
       "Logins": 11,
-      "Chat": 7,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -7049,7 +7049,7 @@
         "STONE": 2
       },
       "Chat": {
-        "count": 7
+        "count": 2
       }
     },
     "killed": {},
@@ -7058,7 +7058,7 @@
       "BlockPlace": 1141,
       "Logins": 13,
       "BlockBreak": 943,
-      "Chat": 7
+      "Chat": 2
     }
   },
   "77d0c5af223aa03f7a81170022681a87618b95a6": {
@@ -7188,7 +7188,7 @@
         "GLOWSTONE": 5
       },
       "Chat": {
-        "count": 6
+        "count": 1
       },
       "Logins": {
         "Europe/Dublin": 19
@@ -7199,7 +7199,7 @@
       "Killed": 0,
       "BlockBreak": 1237,
       "BlockPlace": 1794,
-      "Chat": 6,
+      "Chat": 1,
       "Logins": 19
     }
   },
@@ -7258,7 +7258,7 @@
         "STONE": 134
       },
       "Chat": {
-        "count": 18
+        "count": 1
       },
       "Logins": {
         "America/New_York": 19
@@ -7282,7 +7282,7 @@
       "Killed": 0,
       "BlockBreak": 766,
       "BlockPlace": 1157,
-      "Chat": 18,
+      "Chat": 1,
       "Logins": 19,
       "Death": 2,
       "CraftedItems": 9,
@@ -7345,7 +7345,7 @@
         "America/Chicago": 6
       },
       "Chat": {
-        "count": 22
+        "count": 3
       }
     },
     "killed": {},
@@ -7354,7 +7354,7 @@
       "BlockBreak": 701,
       "BlockPlace": 1878,
       "Logins": 6,
-      "Chat": 22
+      "Chat": 3
     }
   },
   "27cc23955a853cde4701b8b8acc086fb2625a4a3": {
@@ -7589,7 +7589,7 @@
         "America/Los_Angeles": 9
       },
       "Chat": {
-        "count": 6
+        "count": 2
       }
     },
     "killed": {},
@@ -7598,7 +7598,7 @@
       "BlockBreak": 1090,
       "BlockPlace": 2785,
       "Logins": 9,
-      "Chat": 6
+      "Chat": 2
     }
   },
   "3034708f3e407a813a20038683a845c5f906087b": {
@@ -7811,7 +7811,7 @@
         "Asia/Jerusalem": 8
       },
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "BlockBreak": {
         "LOG": 50,
@@ -7837,7 +7837,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 8,
-      "Chat": 5,
+      "Chat": 1,
       "BlockBreak": 1401,
       "BlockPlace": 1443
     }
@@ -8011,7 +8011,7 @@
         "GLASS": 1
       },
       "Chat": {
-        "count": 35
+        "count": 4
       },
       "CraftedItems": {
         "DIAMOND": 2,
@@ -8024,7 +8024,7 @@
       "Logins": 4,
       "BlockBreak": 365,
       "BlockPlace": 1758,
-      "Chat": 35,
+      "Chat": 4,
       "CraftedItems": 3
     }
   },
@@ -8057,7 +8057,7 @@
         "America/Rainy_River": 7
       },
       "Chat": {
-        "count": 20
+        "count": 6
       }
     },
     "killed": {},
@@ -8066,7 +8066,7 @@
       "BlockBreak": 794,
       "BlockPlace": 1631,
       "Logins": 7,
-      "Chat": 20
+      "Chat": 6
     }
   },
   "07df218820872f12e10728f8fd21c038b2ff39c1": {
@@ -8099,7 +8099,7 @@
         "Australia/Queensland": 10
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -8108,7 +8108,7 @@
       "BlockBreak": 489,
       "BlockPlace": 1695,
       "Logins": 10,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "77f872f86678f997343fe747b6c6fdfb9ea83812": {
@@ -8142,7 +8142,7 @@
         "Europe/London": 11
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 10
@@ -8154,7 +8154,7 @@
       "BlockBreak": 1152,
       "BlockPlace": 1966,
       "Logins": 11,
-      "Chat": 3,
+      "Chat": 1,
       "CraftedItems": 10
     }
   },
@@ -8221,7 +8221,7 @@
         "count": 3
       },
       "Chat": {
-        "count": 5
+        "count": 2
       }
     },
     "killed": {},
@@ -8231,7 +8231,7 @@
       "BlockPlace": 1953,
       "Logins": 11,
       "Kicks": 3,
-      "Chat": 5
+      "Chat": 2
     }
   },
   "d6e3cc4314cb78da79cd7b29f35d9e8d90d6d614": {
@@ -8354,7 +8354,7 @@
         "Europe/London": 19
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -8363,7 +8363,7 @@
       "BlockBreak": 723,
       "BlockPlace": 756,
       "Logins": 19,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "5ddbfbc18cfd374f1b6dde903c22319972b0ed9f": {
@@ -8420,7 +8420,7 @@
         "America/Los_Angeles": 4
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -8429,7 +8429,7 @@
       "BlockPlace": 1062,
       "BlockBreak": 2599,
       "Logins": 4,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "a2450373e989126fabe53b836fafde9e459cd863": {
@@ -8462,7 +8462,7 @@
         "COBBLESTONE": 18
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -8471,7 +8471,7 @@
       "Logins": 7,
       "BlockBreak": 1467,
       "BlockPlace": 2954,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "926a54e4048da51028d7589f97d0a4e67e852425": {
@@ -8496,7 +8496,7 @@
         "NoInfo": 7
       },
       "Chat": {
-        "count": 7
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -8508,7 +8508,7 @@
       "BlockBreak": 628,
       "BlockPlace": 1029,
       "Logins": 7,
-      "Chat": 7,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -8585,7 +8585,7 @@
         "America/Los_Angeles": 5
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 5,
@@ -8608,7 +8608,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 5,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 619,
       "BlockPlace": 1032
     }
@@ -8876,7 +8876,7 @@
         "Australia/Queensland": 18
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 8,
@@ -8914,7 +8914,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 18,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 527,
       "BlockPlace": 680,
       "Kicks": 2
@@ -8936,7 +8936,7 @@
         "COBBLESTONE": 3
       },
       "Chat": {
-        "count": 41
+        "count": 5
       },
       "BlockPlace": {
         "GLOWSTONE": 174,
@@ -8959,7 +8959,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 558,
-      "Chat": 41,
+      "Chat": 5,
       "BlockPlace": 1570,
       "CraftedItems": 10,
       "Logins": 8
@@ -9097,7 +9097,7 @@
         "COBBLESTONE": 32
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -9109,7 +9109,7 @@
       "Logins": 10,
       "BlockBreak": 493,
       "BlockPlace": 1285,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -9167,7 +9167,7 @@
         "GOLD_BLOCK": 34
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -9176,7 +9176,7 @@
       "Logins": 8,
       "BlockBreak": 883,
       "BlockPlace": 1315,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "037ffc6bfb05d0bdd54affb7a70f4a8267de0c72": {
@@ -9306,7 +9306,7 @@
         "America/New_York": 8
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -9315,7 +9315,7 @@
       "BlockBreak": 627,
       "BlockPlace": 1255,
       "Logins": 8,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "fbca48f5d29fe175606e5ce99b5967f722faa0a9": {
@@ -9350,7 +9350,7 @@
     "playtime": 76,
     "actions": {
       "Chat": {
-        "count": 7
+        "count": 3
       },
       "BlockBreak": {
         "SMOOTH_BRICK": 67,
@@ -9380,7 +9380,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 7,
+      "Chat": 3,
       "BlockBreak": 1717,
       "BlockPlace": 2335,
       "Logins": 4
@@ -9470,7 +9470,7 @@
         "GLOWSTONE": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -9479,7 +9479,7 @@
       "Logins": 6,
       "BlockBreak": 542,
       "BlockPlace": 2879,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "c3996e4be03f523d4b7cae29605d05d6a851754d": {
@@ -9684,7 +9684,7 @@
         "EMERALD_BLOCK": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -9696,7 +9696,7 @@
       "Logins": 19,
       "BlockPlace": 1327,
       "BlockBreak": 375,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 3
     }
   },
@@ -9760,7 +9760,7 @@
         "America/New_York": 7
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 6
@@ -9772,7 +9772,7 @@
       "BlockBreak": 839,
       "BlockPlace": 2935,
       "Logins": 7,
-      "Chat": 2,
+      "Chat": 1,
       "CraftedItems": 6
     }
   },
@@ -9814,7 +9814,7 @@
         "America/Los_Angeles": 7
       },
       "Chat": {
-        "count": 13
+        "count": 1
       },
       "BlockPlace": {
         "GRASS": 2,
@@ -9840,7 +9840,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 7,
-      "Chat": 13,
+      "Chat": 1,
       "BlockPlace": 1256,
       "BlockBreak": 1942
     }
@@ -9964,7 +9964,7 @@
         "America/New_York": 23
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 156,
@@ -9989,7 +9989,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 23,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 311,
       "BlockPlace": 902
     }
@@ -10229,7 +10229,7 @@
         "OTHER": 489
       },
       "Chat": {
-        "count": 11
+        "count": 5
       }
     },
     "killed": {},
@@ -10238,14 +10238,14 @@
       "Logins": 10,
       "BlockBreak": 401,
       "BlockPlace": 590,
-      "Chat": 11
+      "Chat": 5
     }
   },
   "1972abd37401e8c72afcc331b851ece2b40761c1": {
     "playtime": 69,
     "actions": {
       "Chat": {
-        "count": 23
+        "count": 8
       },
       "BlockBreak": {
         "LOG": 17,
@@ -10277,7 +10277,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 23,
+      "Chat": 8,
       "BlockBreak": 387,
       "BlockPlace": 1579,
       "Logins": 6
@@ -10480,7 +10480,7 @@
         "Australia/Victoria": 6
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "BlockPlace": {
         "LOG": 128,
@@ -10505,7 +10505,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "Chat": 7,
+      "Chat": 1,
       "BlockPlace": 1493,
       "BlockBreak": 236
     }
@@ -10571,7 +10571,7 @@
         "America/New_York": 8
       },
       "Chat": {
-        "count": 9
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -10583,7 +10583,7 @@
       "BlockBreak": 525,
       "BlockPlace": 548,
       "Logins": 8,
-      "Chat": 9,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -10614,7 +10614,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -10624,7 +10624,7 @@
       "BlockPlace": 912,
       "Logins": 16,
       "Kicks": 2,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "1d2781bd3c96551c920ca719d25623bdcd41d6f6": {
@@ -10701,7 +10701,7 @@
         "America/New_York": 4
       },
       "Chat": {
-        "count": 10
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 369,
@@ -10727,7 +10727,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "Chat": 10,
+      "Chat": 1,
       "BlockBreak": 972,
       "BlockPlace": 1491
     }
@@ -10926,7 +10926,7 @@
         "America/New_York": 3
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -10938,7 +10938,7 @@
       "BlockPlace": 2531,
       "BlockBreak": 1452,
       "Logins": 3,
-      "Chat": 4,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -10971,7 +10971,7 @@
         "GLOWSTONE": 26
       },
       "Chat": {
-        "count": 8
+        "count": 3
       }
     },
     "killed": {},
@@ -10980,7 +10980,7 @@
       "Logins": 18,
       "BlockBreak": 612,
       "BlockPlace": 778,
-      "Chat": 8
+      "Chat": 3
     }
   },
   "82db60ae13cb4f82c8f14b0920443db7dd8b55ef": {
@@ -11112,7 +11112,7 @@
         "America/New_York": 9
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -11124,7 +11124,7 @@
       "BlockBreak": 625,
       "BlockPlace": 1104,
       "Logins": 9,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -11190,7 +11190,7 @@
         "America/Rainy_River": 5
       },
       "Chat": {
-        "count": 13
+        "count": 1
       }
     },
     "killed": {},
@@ -11199,7 +11199,7 @@
       "BlockBreak": 264,
       "BlockPlace": 972,
       "Logins": 5,
-      "Chat": 13
+      "Chat": 1
     }
   },
   "118f66fecfc7997b38b76915bde8a3ecf01d9d10": {
@@ -11231,7 +11231,7 @@
         "America/New_York": 9
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -11240,7 +11240,7 @@
       "BlockBreak": 470,
       "BlockPlace": 697,
       "Logins": 9,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "90a1fb0aa5a519fa5060800612d8b0d37425c17c": {
@@ -11386,7 +11386,7 @@
         "LEATHER_HELMET": 10
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "Logins": {
         "America/Los_Angeles": 2
@@ -11398,7 +11398,7 @@
       "BlockPlace": 743,
       "BlockBreak": 664,
       "CraftedItems": 10,
-      "Chat": 7,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -11429,7 +11429,7 @@
         "America/Rainy_River": 5
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -11441,7 +11441,7 @@
       "BlockBreak": 859,
       "BlockPlace": 2158,
       "Logins": 5,
-      "Chat": 7,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -11625,7 +11625,7 @@
         "STONE": 9
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -11634,7 +11634,7 @@
       "Logins": 13,
       "BlockPlace": 2842,
       "BlockBreak": 367,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "1b95ae7790828b09e598fc470604f2588d6b997c": {
@@ -11664,7 +11664,7 @@
         "GRASS": 13
       },
       "Chat": {
-        "count": 9
+        "count": 1
       }
     },
     "killed": {},
@@ -11673,7 +11673,7 @@
       "Logins": 7,
       "BlockBreak": 249,
       "BlockPlace": 501,
-      "Chat": 9
+      "Chat": 1
     }
   },
   "64bad0f7d7046e29cc841a49edb4c45390724eae": {
@@ -11780,7 +11780,7 @@
         "America/New_York": 18
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -11790,7 +11790,7 @@
       "BlockPlace": 880,
       "Kicks": 5,
       "Logins": 18,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "a6e9d468f81db3465350e6760998a8f91f7c43f5": {
@@ -11932,7 +11932,7 @@
         "SMOOTH_BRICK": 4
       },
       "Chat": {
-        "count": 8
+        "count": 1
       }
     },
     "killed": {},
@@ -11941,7 +11941,7 @@
       "Logins": 5,
       "BlockBreak": 549,
       "BlockPlace": 1115,
-      "Chat": 8
+      "Chat": 1
     }
   },
   "6a6fc10b797b08feac7048a784419cc76630746c": {
@@ -11979,7 +11979,7 @@
     "playtime": 56,
     "actions": {
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "Logins": {
         "Australia/West": 5
@@ -12001,7 +12001,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 5,
+      "Chat": 1,
       "Logins": 5,
       "BlockBreak": 1217,
       "BlockPlace": 2405
@@ -12023,7 +12023,7 @@
         "LEATHER_HELMET": 8
       },
       "Chat": {
-        "count": 6
+        "count": 1
       }
     },
     "killed": {},
@@ -12033,7 +12033,7 @@
       "BlockBreak": 314,
       "BlockPlace": 1479,
       "CraftedItems": 8,
-      "Chat": 6
+      "Chat": 1
     }
   },
   "2a69077707be0f913a433e38a2455562cebb0a1d": {
@@ -12068,7 +12068,7 @@
         "GOLD_ORE": 12
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -12077,7 +12077,7 @@
       "BlockBreak": 318,
       "Logins": 12,
       "BlockPlace": 577,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "298b022fe75ee547197a31098ebead1cf8837bed": {
@@ -12261,7 +12261,7 @@
         "GRAVEL": 9
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -12273,7 +12273,7 @@
       "Logins": 10,
       "BlockPlace": 1544,
       "BlockBreak": 651,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -12281,7 +12281,7 @@
     "playtime": 54,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "Europe/Berlin": 3
@@ -12311,7 +12311,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 3,
       "BlockPlace": 1495,
       "BlockBreak": 1995
@@ -12509,7 +12509,7 @@
         "DIRT": 1
       },
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 6
@@ -12521,7 +12521,7 @@
       "BlockBreak": 1019,
       "Logins": 9,
       "BlockPlace": 2282,
-      "Chat": 5,
+      "Chat": 1,
       "CraftedItems": 6
     }
   },
@@ -12583,7 +12583,7 @@
         "DIRT": 102
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/New_York": 11
@@ -12594,7 +12594,7 @@
       "Killed": 0,
       "BlockBreak": 568,
       "BlockPlace": 890,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 11
     }
   },
@@ -12619,7 +12619,7 @@
         "OTHER": 225
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -12628,7 +12628,7 @@
       "Logins": 5,
       "BlockPlace": 477,
       "BlockBreak": 282,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "251351887711942c428f308429af0b2264b5e1bd": {
@@ -12653,7 +12653,7 @@
         "America/Los_Angeles": 12
       },
       "Chat": {
-        "count": 4
+        "count": 1
       }
     },
     "killed": {},
@@ -12662,7 +12662,7 @@
       "BlockBreak": 913,
       "BlockPlace": 1759,
       "Logins": 12,
-      "Chat": 4
+      "Chat": 1
     }
   },
   "21aa3290bc795290f3a129dce60814ae149eb020": {
@@ -12980,7 +12980,7 @@
         "GOLD_ORE": 28
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "IRON_BLOCK": 34,
@@ -13002,7 +13002,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 1376,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 1957,
       "Logins": 6
     }
@@ -13302,7 +13302,7 @@
         "America/New_York": 9
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -13314,7 +13314,7 @@
       "BlockBreak": 478,
       "BlockPlace": 787,
       "Logins": 9,
-      "Chat": 4,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -13341,7 +13341,7 @@
         "America/New_York": 4
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -13350,7 +13350,7 @@
       "BlockPlace": 909,
       "BlockBreak": 456,
       "Logins": 4,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "932a548b7763f47d5e999030f75b2a7d4ff8008d": {
@@ -13377,7 +13377,7 @@
         "Australia/NSW": 9
       },
       "Chat": {
-        "count": 31
+        "count": 4
       }
     },
     "killed": {},
@@ -13386,7 +13386,7 @@
       "BlockBreak": 200,
       "BlockPlace": 909,
       "Logins": 9,
-      "Chat": 31
+      "Chat": 4
     }
   },
   "7b36800597122d7ccfe96a88d7132c5506f29491": {
@@ -13666,7 +13666,7 @@
         "THIN_GLASS": 3
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -13675,7 +13675,7 @@
       "Logins": 7,
       "BlockPlace": 1195,
       "BlockBreak": 355,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "7015d618e07dbe8f2de5dadf7b27ca68665704a2": {
@@ -13754,7 +13754,7 @@
         "IRON_BLOCK": 13
       },
       "Chat": {
-        "count": 10
+        "count": 1
       }
     },
     "killed": {},
@@ -13763,7 +13763,7 @@
       "Logins": 5,
       "BlockBreak": 316,
       "BlockPlace": 1263,
-      "Chat": 10
+      "Chat": 1
     }
   },
   "a24fe0dec036745ccc439d521d1674faf6a3e03e": {
@@ -14082,7 +14082,7 @@
         "GLOWSTONE": 21
       },
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "Logins": {
         "America/Indianapolis": 11
@@ -14096,7 +14096,7 @@
       "Killed": 0,
       "BlockBreak": 476,
       "BlockPlace": 824,
-      "Chat": 4,
+      "Chat": 2,
       "Logins": 11,
       "Kicks": 2
     }
@@ -14402,7 +14402,7 @@
         "IRON_BLOCK": 27
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -14410,7 +14410,7 @@
       "Killed": 0,
       "BlockPlace": 1535,
       "BlockBreak": 276,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "a5eb7e6d5c06bd71e16952c20faa1458550a39e2": {
@@ -14959,7 +14959,7 @@
         "America/New_York": 3
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 6,
@@ -14974,7 +14974,7 @@
       "BlockPlace": 475,
       "Kicks": 2,
       "Logins": 3,
-      "Chat": 7,
+      "Chat": 1,
       "BlockBreak": 95
     }
   },
@@ -15003,7 +15003,7 @@
         "SAND": 5
       },
       "Chat": {
-        "count": 14
+        "count": 2
       },
       "CraftedItems": {
         "LEATHER_HELMET": 8
@@ -15018,7 +15018,7 @@
       "BlockPlace": 399,
       "Logins": 10,
       "BlockBreak": 483,
-      "Chat": 14,
+      "Chat": 2,
       "CraftedItems": 8,
       "Kicks": 2
     }
@@ -15063,7 +15063,7 @@
         "STONE": 7
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 125,
@@ -15082,7 +15082,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 669,
-      "Chat": 3,
+      "Chat": 1,
       "BlockBreak": 354,
       "Logins": 16
     }
@@ -15391,7 +15391,7 @@
         "America/Los_Angeles": 3
       },
       "Chat": {
-        "count": 6
+        "count": 1
       }
     },
     "killed": {},
@@ -15400,7 +15400,7 @@
       "BlockPlace": 837,
       "BlockBreak": 603,
       "Logins": 3,
-      "Chat": 6
+      "Chat": 1
     }
   },
   "dd262a4a895746bd406d60edb4d8960b1237a17d": {
@@ -15635,6 +15635,38 @@
       "BlockBreak": 691,
       "BlockPlace": 4198,
       "Logins": 7
+    }
+  },
+  "cc2a30f5ec40ddd066437a67bbe4ec5fe6536ecd": {
+    "playtime": 37,
+    "actions": {
+      "Kicks": {
+        "count": 10
+      },
+      "BlockBreak": {
+        "OTHER": 891263,
+        "GRASS": 3450,
+        "DIRT": 151939,
+        "SMOOTH_BRICK": 3
+      },
+      "BlockPlace": {
+        "OTHER": 7186,
+        "GRASS": 1,
+        "SMOOTH_BRICK": 523,
+        "GOLD_ORE": 561,
+        "GOLD_BLOCK": 402
+      },
+      "Logins": {
+        "America/New_York": 12
+      }
+    },
+    "killed": {},
+    "summary": {
+      "Killed": 0,
+      "Kicks": 10,
+      "BlockBreak": 1046655,
+      "BlockPlace": 8673,
+      "Logins": 12
     }
   },
   "49fe33709630f7e3ecdc7afc6103ade62dbbddce": {
@@ -16183,7 +16215,7 @@
         "DIRT": 48
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 6
@@ -16194,7 +16226,7 @@
       "Killed": 0,
       "BlockPlace": 918,
       "BlockBreak": 349,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 6
     }
   },
@@ -16771,7 +16803,7 @@
         "GLASS": 3
       },
       "Chat": {
-        "count": 12
+        "count": 4
       },
       "Kicks": {
         "count": 2
@@ -16783,7 +16815,7 @@
       "BlockBreak": 330,
       "Logins": 8,
       "BlockPlace": 177,
-      "Chat": 12,
+      "Chat": 4,
       "Kicks": 2
     }
   },
@@ -16951,7 +16983,7 @@
         "America/New_York": 6
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -16960,7 +16992,7 @@
       "BlockBreak": 517,
       "BlockPlace": 464,
       "Logins": 6,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "92ad2389cbbd5e8690ba9b26d1f9a110b228e173": {
@@ -16970,7 +17002,7 @@
         "Australia/West": 10
       },
       "Chat": {
-        "count": 22
+        "count": 1
       },
       "BlockBreak": {
         "COBBLESTONE": 2,
@@ -16995,7 +17027,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 10,
-      "Chat": 22,
+      "Chat": 1,
       "BlockBreak": 357,
       "BlockPlace": 501
     }
@@ -17378,7 +17410,7 @@
         "America/Chicago": 2
       },
       "Chat": {
-        "count": 22
+        "count": 11
       }
     },
     "killed": {},
@@ -17387,7 +17419,7 @@
       "BlockBreak": 50,
       "BlockPlace": 1039,
       "Logins": 2,
-      "Chat": 22
+      "Chat": 11
     }
   },
   "25d71bb39d3dd62af1fe4dbeaa906cc81ff58c9f": {
@@ -17578,7 +17610,7 @@
         "America/Chicago": 10
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -17587,7 +17619,7 @@
       "BlockBreak": 357,
       "BlockPlace": 91,
       "Logins": 10,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "94551f80bfbe034765bc95a7602716ff229c9332": {
@@ -17955,7 +17987,7 @@
         "Europe/Amsterdam": 6
       },
       "Chat": {
-        "count": 5
+        "count": 1
       }
     },
     "killed": {},
@@ -17964,7 +17996,7 @@
       "BlockBreak": 257,
       "BlockPlace": 1003,
       "Logins": 6,
-      "Chat": 5
+      "Chat": 1
     }
   },
   "545118e65300afef54e967f600208d9b8d8102d8": {
@@ -18041,7 +18073,7 @@
         "STONE": 8
       },
       "Chat": {
-        "count": 19
+        "count": 2
       }
     },
     "killed": {},
@@ -18050,7 +18082,7 @@
       "BlockPlace": 130,
       "Logins": 5,
       "BlockBreak": 70,
-      "Chat": 19
+      "Chat": 2
     }
   },
   "a2a8a32080a935ab23c549c66055a86a95bed7e7": {
@@ -18300,7 +18332,7 @@
         "STONE": 161
       },
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "Logins": {
         "Europe/Oslo": 6
@@ -18314,7 +18346,7 @@
       "Killed": 0,
       "BlockBreak": 366,
       "BlockPlace": 1356,
-      "Chat": 4,
+      "Chat": 2,
       "Logins": 6,
       "Kicks": 2
     }
@@ -18547,7 +18579,7 @@
         "OTHER": 131
       },
       "Chat": {
-        "count": 9
+        "count": 1
       }
     },
     "killed": {},
@@ -18556,7 +18588,7 @@
       "Logins": 6,
       "BlockBreak": 98,
       "BlockPlace": 161,
-      "Chat": 9
+      "Chat": 1
     }
   },
   "af1dbb13f4fb835cead57b24781b54f2c401bb3d": {
@@ -18573,7 +18605,7 @@
         "OTHER": 6
       },
       "Chat": {
-        "count": 8
+        "count": 1
       },
       "Logins": {
         "America/Rainy_River": 9
@@ -18584,7 +18616,7 @@
       "Killed": 0,
       "BlockBreak": 66,
       "BlockPlace": 582,
-      "Chat": 8,
+      "Chat": 1,
       "Logins": 9
     }
   },
@@ -18602,7 +18634,7 @@
         "LOG": 116
       },
       "Chat": {
-        "count": 16
+        "count": 3
       },
       "BlockBreak": {
         "STONE": 62,
@@ -18622,7 +18654,7 @@
       "Killed": 0,
       "Logins": 6,
       "BlockPlace": 517,
-      "Chat": 16,
+      "Chat": 3,
       "BlockBreak": 402,
       "Kicks": 2
     }
@@ -18788,7 +18820,7 @@
         "OTHER": 64
       },
       "Chat": {
-        "count": 4
+        "count": 1
       }
     },
     "killed": {},
@@ -18796,7 +18828,7 @@
       "Killed": 0,
       "BlockPlace": 643,
       "BlockBreak": 366,
-      "Chat": 4
+      "Chat": 1
     }
   },
   "aabe09ff7ce31274233f341d32086d3a560a70ad": {
@@ -18850,7 +18882,7 @@
         "LOG": 18
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -18859,7 +18891,7 @@
       "BlockBreak": 106,
       "Logins": 6,
       "BlockPlace": 270,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "1add5687b5f79a33182910b89e090d2daef94116": {
@@ -19121,7 +19153,7 @@
         "OTHER": 160
       },
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "CraftedItems": {
         "LEATHER_HELMET": 8
@@ -19133,7 +19165,7 @@
       "BlockPlace": 283,
       "Logins": 4,
       "BlockBreak": 1009,
-      "Chat": 4,
+      "Chat": 2,
       "CraftedItems": 8
     }
   },
@@ -19245,7 +19277,7 @@
         "America/New_York": 3
       },
       "Chat": {
-        "count": 7
+        "count": 3
       }
     },
     "killed": {},
@@ -19254,7 +19286,7 @@
       "BlockPlace": 324,
       "BlockBreak": 310,
       "Logins": 3,
-      "Chat": 7
+      "Chat": 3
     }
   },
   "becec570b9038dab83db204da57f2ff6ca04c79c": {
@@ -19564,7 +19596,7 @@
         "America/Chicago": 6
       },
       "Chat": {
-        "count": 8
+        "count": 1
       },
       "BlockBreak": {
         "GLASS": 8,
@@ -19585,7 +19617,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "Chat": 8,
+      "Chat": 1,
       "BlockBreak": 226,
       "BlockPlace": 675
     }
@@ -19607,7 +19639,7 @@
         "GLOWSTONE": 41
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -19619,7 +19651,7 @@
       "BlockBreak": 89,
       "Logins": 3,
       "BlockPlace": 594,
-      "Chat": 3,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -19713,7 +19745,7 @@
         "America/Los_Angeles": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -19722,7 +19754,7 @@
       "BlockBreak": 248,
       "BlockPlace": 520,
       "Logins": 3,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "af5d0e0d549c496cf633474fae18b686d45e5975": {
@@ -20295,7 +20327,7 @@
         "OTHER": 374
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -20304,7 +20336,7 @@
       "Logins": 6,
       "BlockBreak": 184,
       "BlockPlace": 374,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "6b56c08f4bb7351c7668adf492153bb7b0a2db78": {
@@ -20327,7 +20359,7 @@
         "America/Edmonton": 7
       },
       "Chat": {
-        "count": 11
+        "count": 1
       }
     },
     "killed": {},
@@ -20336,7 +20368,7 @@
       "BlockBreak": 277,
       "BlockPlace": 208,
       "Logins": 7,
-      "Chat": 11
+      "Chat": 1
     }
   },
   "bf2c07159d2524e5d10804a342cb93fbb2a93ac0": {
@@ -20450,7 +20482,7 @@
         "Europe/London": 5
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -20459,7 +20491,7 @@
       "BlockPlace": 852,
       "BlockBreak": 451,
       "Logins": 5,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "f3c5611ab9680f6d75295d99fab3acf2b15379b3": {
@@ -20641,7 +20673,7 @@
         "America/New_York": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 270,
@@ -20663,7 +20695,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 3,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 303,
       "CraftedItems": 6,
       "BlockBreak": 77
@@ -21244,7 +21276,7 @@
         "America/Chicago": 4
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "BlockBreak": {
         "COBBLESTONE": 44,
@@ -21264,7 +21296,7 @@
       "Killed": 0,
       "Kicks": 2,
       "Logins": 4,
-      "Chat": 7,
+      "Chat": 1,
       "BlockBreak": 142,
       "BlockPlace": 538
     }
@@ -21724,7 +21756,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 7
+        "count": 3
       }
     },
     "killed": {},
@@ -21734,7 +21766,7 @@
       "BlockPlace": 101,
       "Logins": 8,
       "Kicks": 2,
-      "Chat": 7
+      "Chat": 3
     }
   },
   "6e0e748b6b8a5fcdea0ec425ddba9967ec3ecb4b": {
@@ -21874,7 +21906,7 @@
         "OTHER": 19
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 755
@@ -21885,7 +21917,7 @@
       "Killed": 0,
       "Logins": 6,
       "BlockBreak": 58,
-      "Chat": 3,
+      "Chat": 1,
       "BlockPlace": 755
     }
   },
@@ -22038,7 +22070,7 @@
         "America/New_York": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -22047,7 +22079,7 @@
       "BlockBreak": 196,
       "BlockPlace": 367,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "3381700e37493057f855e4cbe38d92661b0f7882": {
@@ -22152,7 +22184,7 @@
         "America/Chicago": 9
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -22161,7 +22193,7 @@
       "BlockPlace": 98,
       "BlockBreak": 71,
       "Logins": 9,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "33ed8a3fcd31534e8a75e24b94b70829fed849e2": {
@@ -22268,7 +22300,7 @@
     "playtime": 15,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 55,
@@ -22285,7 +22317,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 63,
       "BlockPlace": 64,
       "Logins": 7
@@ -22498,7 +22530,7 @@
     "playtime": 15,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 45,
@@ -22516,7 +22548,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 144,
       "Logins": 2,
       "BlockPlace": 128
@@ -22639,7 +22671,7 @@
     "playtime": 15,
     "actions": {
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 92,
@@ -22661,7 +22693,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 5,
+      "Chat": 1,
       "BlockBreak": 96,
       "BlockPlace": 114,
       "Logins": 6,
@@ -22813,7 +22845,7 @@
         "OTHER": 328
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -22822,7 +22854,7 @@
       "Logins": 5,
       "BlockBreak": 19,
       "BlockPlace": 328,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "7e96abe53c2e06bb51c67437636ba3e749b1a1ca": {
@@ -22989,7 +23021,7 @@
         "OTHER": 125
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -22998,7 +23030,7 @@
       "Logins": 6,
       "BlockBreak": 861,
       "BlockPlace": 157,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "a36622b48a7032692161819013bdb326ab5319c0": {
@@ -23568,7 +23600,7 @@
         "GLASS": 9
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockPlace": {
         "DIAMOND_BLOCK": 11,
@@ -23583,7 +23615,7 @@
       "Killed": 0,
       "Logins": 4,
       "BlockBreak": 165,
-      "Chat": 3,
+      "Chat": 1,
       "BlockPlace": 114
     }
   },
@@ -23870,7 +23902,7 @@
         "GRASS": 45
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_HELMET": 6
@@ -23881,7 +23913,7 @@
       "Killed": 0,
       "BlockPlace": 128,
       "BlockBreak": 88,
-      "Chat": 2,
+      "Chat": 1,
       "CraftedItems": 6
     }
   },
@@ -23959,7 +23991,7 @@
         "LOG": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "Europe/London": 6
@@ -23970,7 +24002,7 @@
       "Killed": 0,
       "BlockBreak": 73,
       "BlockPlace": 241,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 6
     }
   },
@@ -24181,7 +24213,7 @@
         "OTHER": 4616
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 32,
@@ -24198,7 +24230,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 4655,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 250,
       "Logins": 4
     }
@@ -24349,7 +24381,7 @@
         "GRASS": 5
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -24358,7 +24390,7 @@
       "Logins": 2,
       "BlockBreak": 159,
       "BlockPlace": 202,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "306c408189079a3c1ed76f1bf9aa60745a1164ca": {
@@ -24557,7 +24589,7 @@
         "OTHER": 18
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Los_Angeles": 2
@@ -24568,7 +24600,7 @@
       "Killed": 0,
       "BlockPlace": 148,
       "BlockBreak": 64,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -24651,7 +24683,7 @@
         "OTHER": 117
       },
       "Chat": {
-        "count": 16
+        "count": 1
       }
     },
     "killed": {},
@@ -24660,7 +24692,7 @@
       "Logins": 6,
       "BlockBreak": 113,
       "BlockPlace": 157,
-      "Chat": 16
+      "Chat": 1
     }
   },
   "3ad2baef4c881c2978c6532575acc00081eb4542": {
@@ -24873,7 +24905,7 @@
         "Europe/London": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -24882,7 +24914,7 @@
       "BlockBreak": 215,
       "BlockPlace": 338,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "1f6a8761bd5afdc68c0b4f8d2190b42f1339030d": {
@@ -25123,7 +25155,7 @@
     "playtime": 10,
     "actions": {
       "Chat": {
-        "count": 8
+        "count": 1
       },
       "CraftedItems": {
         "LEATHER_BOOTS": 2,
@@ -25148,7 +25180,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 8,
+      "Chat": 1,
       "CraftedItems": 4,
       "BlockBreak": 61,
       "BlockPlace": 63,
@@ -25191,7 +25223,7 @@
         "Europe/London": 3
       },
       "Chat": {
-        "count": 11
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 24,
@@ -25204,7 +25236,7 @@
       "Killed": 0,
       "BlockPlace": 15,
       "Logins": 3,
-      "Chat": 11,
+      "Chat": 1,
       "BlockBreak": 73
     }
   },
@@ -25274,7 +25306,7 @@
         "SMOOTH_BRICK": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -25283,7 +25315,7 @@
       "BlockPlace": 250,
       "Logins": 3,
       "BlockBreak": 7,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "9b967c03e05eebe705f5b5307df87961fdfcd141": {
@@ -25751,7 +25783,7 @@
         "GLASS": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "GLASS": 36,
@@ -25765,7 +25797,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 65,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 70,
       "CraftedItems": 8
     }
@@ -26271,7 +26303,7 @@
         "America/New_York": 2
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 8,
@@ -26286,7 +26318,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 3,
+      "Chat": 1,
       "BlockBreak": 63,
       "BlockPlace": 130
     }
@@ -26545,7 +26577,7 @@
         "America/Indianapolis": 4
       },
       "Chat": {
-        "count": 8
+        "count": 1
       }
     },
     "killed": {},
@@ -26554,7 +26586,7 @@
       "BlockBreak": 12,
       "BlockPlace": 24,
       "Logins": 4,
-      "Chat": 8
+      "Chat": 1
     }
   },
   "8ddc9fe0e636bc0519cb2137a3965786e0624f5e": {
@@ -26779,7 +26811,7 @@
         "America/New_York": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 149
@@ -26789,7 +26821,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 149
     }
   },
@@ -26908,14 +26940,14 @@
         "Europe/London": 5
       },
       "Chat": {
-        "count": 6
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 5,
-      "Chat": 6
+      "Chat": 1
     }
   },
   "f14d1443a9f4cd6039603f34675f7fcf294cd11e": {
@@ -26953,7 +26985,7 @@
         "Europe/Oslo": 4
       },
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "BlockBreak": {
         "GRASS": 17,
@@ -26968,7 +27000,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "Chat": 4,
+      "Chat": 2,
       "BlockBreak": 20,
       "BlockPlace": 35
     }
@@ -27014,7 +27046,7 @@
         "OTHER": 18
       },
       "Chat": {
-        "count": 19
+        "count": 1
       },
       "Logins": {
         "America/New_York": 2
@@ -27025,7 +27057,7 @@
       "Killed": 0,
       "BlockBreak": 16,
       "BlockPlace": 29,
-      "Chat": 19,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -27109,7 +27141,7 @@
         "America/Rainy_River": 2
       },
       "Chat": {
-        "count": 14
+        "count": 1
       },
       "BlockBreak": {
         "GLASS": 6,
@@ -27127,7 +27159,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 14,
+      "Chat": 1,
       "BlockBreak": 51,
       "BlockPlace": 134
     }
@@ -27445,7 +27477,7 @@
         "OTHER": 49
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -27454,7 +27486,7 @@
       "Logins": 5,
       "BlockBreak": 36,
       "BlockPlace": 51,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "867735523caf2b65e7ee16ca1dac43f88aea53d4": {
@@ -27482,7 +27514,7 @@
         "OTHER": 322
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 14,
@@ -27497,7 +27529,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 324,
-      "Chat": 3,
+      "Chat": 1,
       "BlockBreak": 41,
       "Logins": 6
     }
@@ -27535,14 +27567,14 @@
         "America/New_York": 3
       },
       "Chat": {
-        "count": 14
+        "count": 7
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 3,
-      "Chat": 14
+      "Chat": 7
     }
   },
   "1697ba72cf116ffe633162e391720f707d6a24ab": {
@@ -27678,7 +27710,7 @@
         "Europe/London": 7
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -27687,7 +27719,7 @@
       "BlockBreak": 2,
       "BlockPlace": 2,
       "Logins": 7,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "61e931e4ec5a385d9e1bb967e7938f66bfcd6c45": {
@@ -27876,7 +27908,7 @@
         "America/New_York": 6
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -27886,7 +27918,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 2
     }
   },
@@ -28124,7 +28156,7 @@
         "Europe/London": 6
       },
       "Chat": {
-        "count": 6
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 8
@@ -28134,7 +28166,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "Chat": 6,
+      "Chat": 1,
       "BlockPlace": 8
     }
   },
@@ -28441,7 +28473,7 @@
         "GRASS": 9
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -28450,7 +28482,7 @@
       "BlockPlace": 62,
       "Logins": 2,
       "BlockBreak": 98,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "9a0df842843ce246b2c8ab6f58e6a856d8122d82": {
@@ -28760,7 +28792,7 @@
         "America/Chicago": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "DIRT": 10,
@@ -28774,7 +28806,7 @@
       "Killed": 0,
       "BlockBreak": 70,
       "Logins": 2,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 117
     }
   },
@@ -29044,7 +29076,7 @@
     "playtime": 5,
     "actions": {
       "Chat": {
-        "count": 8
+        "count": 3
       },
       "Logins": {
         "America/New_York": 2
@@ -29053,7 +29085,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 8,
+      "Chat": 3,
       "Logins": 2
     }
   },
@@ -29228,7 +29260,7 @@
         "America/Montreal": 6
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -29241,7 +29273,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 3,
       "BlockBreak": 2
     }
@@ -29354,7 +29386,7 @@
     "playtime": 5,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Phoenix": 2
@@ -29369,7 +29401,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 2,
       "BlockPlace": 646,
       "BlockBreak": 8
@@ -29887,7 +29919,7 @@
         "America/Chicago": 5
       },
       "Chat": {
-        "count": 5
+        "count": 2
       },
       "BlockBreak": {
         "OTHER": 2
@@ -29900,7 +29932,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 5,
-      "Chat": 5,
+      "Chat": 2,
       "BlockBreak": 2,
       "BlockPlace": 2
     }
@@ -31510,14 +31542,14 @@
         "America/New_York": 4
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "00b223f1340901dbc28fb3aeeb785cca13f21172": {
@@ -31537,7 +31569,7 @@
     "playtime": 3,
     "actions": {
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Logins": {
         "America/Los_Angeles": 3
@@ -31549,7 +31581,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 4,
+      "Chat": 1,
       "Logins": 3,
       "Kicks": 2
     }
@@ -31667,14 +31699,14 @@
         "America/New_York": 4
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "3b5b1670578d912982eb9ea43bddc7399f2cd3b5": {
@@ -32606,7 +32638,7 @@
         "Europe/London": 2
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockPlace": {
         "LOG": 14,
@@ -32618,7 +32650,7 @@
       "Killed": 0,
       "BlockBreak": 23,
       "Logins": 2,
-      "Chat": 3,
+      "Chat": 1,
       "BlockPlace": 35
     }
   },
@@ -32819,7 +32851,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 2
@@ -32828,7 +32860,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -33120,7 +33152,7 @@
         "GRASS": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "Europe/London": 4
@@ -33130,7 +33162,7 @@
     "summary": {
       "Killed": 0,
       "BlockPlace": 2,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 4
     }
   },
@@ -33208,14 +33240,14 @@
         "Europe/Vienna": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 3,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "143ca9665198af611b8c04ce3a9ebb893f997392": {
@@ -33337,7 +33369,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/New_York": 2
@@ -33353,7 +33385,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 2,
       "BlockPlace": 183,
       "BlockBreak": 4
@@ -33694,7 +33726,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 2
@@ -33703,7 +33735,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 3,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -33768,7 +33800,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "IRON_BLOCK": 4,
@@ -33784,7 +33816,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 13,
       "BlockBreak": 2,
       "Logins": 2
@@ -34019,7 +34051,7 @@
         "America/Chicago": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 2
@@ -34032,7 +34064,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 2,
       "BlockPlace": 6
     }
@@ -34129,7 +34161,7 @@
         "America/Los_Angeles": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -34138,7 +34170,7 @@
       "BlockBreak": 13,
       "BlockPlace": 10,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "e080c99f234eafcfdf1fc648a89dfafa3fb2cc5e": {
@@ -36665,14 +36697,14 @@
         "America/Denver": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "34681b005ab31a8abd8e3313b2264dfa619f30f6": {
@@ -36683,7 +36715,7 @@
         "OTHER": 1
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 2
@@ -36693,7 +36725,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 5,
-      "Chat": 3,
+      "Chat": 1,
       "BlockPlace": 2
     }
   },
@@ -37885,7 +37917,7 @@
         "OTHER": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -37894,7 +37926,7 @@
       "BlockPlace": 4,
       "Logins": 2,
       "BlockBreak": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "fd68ccd274f52a62a27ae8101f6f7a291889a21d": {
@@ -39068,13 +39100,13 @@
     "playtime": 1,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "391851cc0b0a404a316e75629612b9b407e10aeb": {

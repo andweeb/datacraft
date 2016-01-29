@@ -117,7 +117,7 @@
         "NoInfo": 297
       },
       "KilledBy": {
-        "count": 1
+        "count": 36
       },
       "Kicks": {
         "count": 14
@@ -162,7 +162,7 @@
       "CraftedItems": 1188,
       "Death": 94,
       "Logins": 504,
-      "KilledBy": 1,
+      "KilledBy": 36,
       "Kicks": 14
     }
   },
@@ -267,7 +267,7 @@
         "THIN_GLASS": 3
       },
       "KilledBy": {
-        "count": 4
+        "count": 39
       },
       "Death": {
         "count": 44
@@ -300,7 +300,7 @@
       "CraftedItems": 597,
       "Logins": 257,
       "BlockPlace": 43353,
-      "KilledBy": 4,
+      "KilledBy": 39,
       "Death": 44,
       "Kicks": 2
     }
@@ -553,7 +553,7 @@
         "NoInfo": 152
       },
       "Chat": {
-        "count": 444
+        "count": 9
       },
       "Death": {
         "count": 32
@@ -562,7 +562,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 20
       }
     },
     "killed": {
@@ -590,10 +590,10 @@
       "CraftedItems": 966,
       "BlockPlace": 22091,
       "Logins": 201,
-      "Chat": 444,
+      "Chat": 9,
       "Death": 32,
       "Kicks": 2,
-      "KilledBy": 1
+      "KilledBy": 20
     }
   },
   "383f560eeb166785764edcc9dd872eb01e7db811": {
@@ -619,7 +619,7 @@
         "GOLD_BLOCK": 1
       },
       "Chat": {
-        "count": 915
+        "count": 3
       },
       "BlockBreak": {
         "GRASS": 140,
@@ -713,7 +713,7 @@
         "BEACON": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 15
       },
       "Death": {
         "count": 56
@@ -781,12 +781,12 @@
     "summary": {
       "Killed": 176,
       "BlockPlace": 13159,
-      "Chat": 915,
+      "Chat": 3,
       "BlockBreak": 27055,
       "Logins": 937,
       "Kicks": 9,
       "CraftedItems": 376,
-      "KilledBy": 1,
+      "KilledBy": 15,
       "Death": 56
     }
   },
@@ -930,7 +930,7 @@
         "count": 36
       },
       "KilledBy": {
-        "count": 2
+        "count": 21
       }
     },
     "killed": {
@@ -980,7 +980,7 @@
       "Logins": 179,
       "CraftedItems": 567,
       "Death": 36,
-      "KilledBy": 2
+      "KilledBy": 21
     }
   },
   "405294e8c6a327995909f306af9880fa29bf03e9": {
@@ -1008,10 +1008,10 @@
         "GLOWSTONE": 48
       },
       "Chat": {
-        "count": 795
+        "count": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 224
       },
       "Death": {
         "count": 259
@@ -1194,8 +1194,8 @@
     "summary": {
       "Killed": 314,
       "BlockBreak": 26623,
-      "Chat": 795,
-      "KilledBy": 1,
+      "Chat": 1,
+      "KilledBy": 224,
       "Death": 259,
       "BlockPlace": 25103,
       "Logins": 240,
@@ -1324,7 +1324,7 @@
         "GRASS": 301
       },
       "Chat": {
-        "count": 110
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -1333,7 +1333,7 @@
         "count": 36
       },
       "KilledBy": {
-        "count": 1
+        "count": 16
       }
     },
     "killed": {
@@ -1380,10 +1380,10 @@
       "Logins": 188,
       "BlockBreak": 51704,
       "BlockPlace": 14528,
-      "Chat": 110,
+      "Chat": 1,
       "Kicks": 2,
       "Death": 36,
-      "KilledBy": 1
+      "KilledBy": 16
     }
   },
   "d41152f84e14e6bc906c671b779b785e57db9c8b": {
@@ -1438,7 +1438,7 @@
         "STONE_BUTTON": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 11
@@ -1454,7 +1454,7 @@
       "BlockBreak": 53903,
       "BlockPlace": 35480,
       "CraftedItems": 51,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 11,
       "Kicks": 2
     }
@@ -1554,7 +1554,7 @@
         "IRON_BLOCK": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 55
       }
     },
     "killed": {
@@ -1571,7 +1571,7 @@
       "Death": 63,
       "CraftedItems": 313,
       "BlockPlace": 18692,
-      "KilledBy": 1
+      "KilledBy": 55
     }
   },
   "10b6f847f92028ef85d82844bfd9659f55f80592": {
@@ -1707,13 +1707,13 @@
         "NoInfo": 228
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Death": {
         "count": 15
       },
       "Chat": {
-        "count": 30
+        "count": 1
       }
     },
     "killed": {
@@ -1742,9 +1742,9 @@
       "BlockPlace": 15219,
       "Kicks": 11,
       "Logins": 228,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "Death": 15,
-      "Chat": 30
+      "Chat": 1
     }
   },
   "07d8c7093d0df2bdd382f7bdf2e131ccdb38b293": {
@@ -1755,7 +1755,7 @@
         "NoInfo": 55
       },
       "Chat": {
-        "count": 55
+        "count": 1
       },
       "Death": {
         "count": 18
@@ -1825,7 +1825,7 @@
         "GLOWSTONE": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -1835,13 +1835,13 @@
     "summary": {
       "Killed": 3,
       "Logins": 206,
-      "Chat": 55,
+      "Chat": 1,
       "Death": 18,
       "Kicks": 3,
       "BlockBreak": 14057,
       "CraftedItems": 45,
       "BlockPlace": 8172,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "ada81ae3094b30f0d200ffd1e75fd8a841a5b7d2": {
@@ -1950,7 +1950,7 @@
         "NoInfo": 39
       },
       "KilledBy": {
-        "count": 1
+        "count": 89
       }
     },
     "killed": {
@@ -1995,7 +1995,7 @@
       "Death": 205,
       "BlockBreak": 18950,
       "Logins": 160,
-      "KilledBy": 1
+      "KilledBy": 89
     }
   },
   "8d38cc4f1c2231bb11a3dd341cd0336fb598dd8c": {
@@ -2085,7 +2085,7 @@
         "count": 10
       },
       "KilledBy": {
-        "count": 5
+        "count": 18
       }
     },
     "killed": {
@@ -2101,7 +2101,7 @@
       "BlockBreak": 71247,
       "CraftedItems": 212,
       "Kicks": 10,
-      "KilledBy": 5
+      "KilledBy": 18
     }
   },
   "87280d7fd37e6907ed0f569d3702510800201434": {
@@ -2198,13 +2198,13 @@
         "REDSTONE_TORCH_ON": 2
       },
       "Chat": {
-        "count": 120
+        "count": 1
       },
       "Death": {
         "count": 76
       },
       "KilledBy": {
-        "count": 1
+        "count": 35
       },
       "Kicks": {
         "count": 8
@@ -2268,9 +2268,9 @@
       "BlockPlace": 8477,
       "Logins": 150,
       "CraftedItems": 285,
-      "Chat": 120,
+      "Chat": 1,
       "Death": 76,
-      "KilledBy": 1,
+      "KilledBy": 35,
       "Kicks": 8
     }
   },
@@ -2381,7 +2381,7 @@
         "count": 28
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Kicks": {
         "count": 3
@@ -2399,7 +2399,7 @@
       "CraftedItems": 227,
       "BlockPlace": 7046,
       "Death": 28,
-      "KilledBy": 1,
+      "KilledBy": 6,
       "Kicks": 3
     }
   },
@@ -2556,7 +2556,7 @@
         "NoInfo": 42
       },
       "Chat": {
-        "count": 40
+        "count": 1
       },
       "CraftedItems": {
         "IRON_CHESTPLATE": 2,
@@ -2598,7 +2598,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -2607,11 +2607,11 @@
       "BlockPlace": 4450,
       "BlockBreak": 65359,
       "Logins": 166,
-      "Chat": 40,
+      "Chat": 1,
       "CraftedItems": 203,
       "Death": 5,
       "Kicks": 5,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "d2c51c66be0abd5a6e873a9e668cec5e9ba7e38e": {
@@ -2693,10 +2693,10 @@
         "STONE": 60
       },
       "Chat": {
-        "count": 38
+        "count": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 45
       },
       "Kicks": {
         "count": 2
@@ -2715,8 +2715,8 @@
       "Logins": 132,
       "BlockBreak": 8256,
       "BlockPlace": 4318,
-      "Chat": 38,
-      "KilledBy": 1,
+      "Chat": 1,
+      "KilledBy": 45,
       "Kicks": 2
     }
   },
@@ -2835,7 +2835,7 @@
         "NoInfo": 75
       },
       "KilledBy": {
-        "count": 1
+        "count": 148
       },
       "Death": {
         "count": 207
@@ -2864,7 +2864,7 @@
       "CraftedItems": 1001,
       "BlockPlace": 3643,
       "Logins": 161,
-      "KilledBy": 1,
+      "KilledBy": 148,
       "Death": 207,
       "Kicks": 2
     }
@@ -2880,7 +2880,7 @@
         "count": 31
       },
       "KilledBy": {
-        "count": 1
+        "count": 20
       },
       "BlockBreak": {
         "LOG": 387,
@@ -2987,7 +2987,7 @@
       "Killed": 0,
       "Logins": 89,
       "Death": 31,
-      "KilledBy": 1,
+      "KilledBy": 20,
       "BlockBreak": 10868,
       "CraftedItems": 354,
       "BlockPlace": 4541,
@@ -3089,13 +3089,13 @@
         "JUKEBOX": 1
       },
       "Chat": {
-        "count": 108
+        "count": 1
       },
       "Death": {
         "count": 15
       },
       "KilledBy": {
-        "count": 1
+        "count": 12
       },
       "Kicks": {
         "count": 7
@@ -3147,9 +3147,9 @@
       "BlockPlace": 13259,
       "Logins": 139,
       "CraftedItems": 211,
-      "Chat": 108,
+      "Chat": 1,
       "Death": 15,
-      "KilledBy": 1,
+      "KilledBy": 12,
       "Kicks": 7
     }
   },
@@ -3234,7 +3234,7 @@
         "count": 12
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       }
     },
     "killed": {
@@ -3285,7 +3285,7 @@
       "Logins": 132,
       "Kicks": 2,
       "Death": 12,
-      "KilledBy": 1
+      "KilledBy": 4
     }
   },
   "805bf070abbb95fd9de5fd94d3d828daf4d3c85b": {
@@ -3548,7 +3548,7 @@
         "SUGAR": 31
       },
       "Chat": {
-        "count": 6
+        "count": 1
       },
       "Kicks": {
         "count": 19
@@ -3561,7 +3561,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -3615,11 +3615,11 @@
       "BlockBreak": 36540,
       "BlockPlace": 5733,
       "CraftedItems": 261,
-      "Chat": 6,
+      "Chat": 1,
       "Kicks": 19,
       "Logins": 282,
       "Death": 8,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "8c051cb7be0efa404c2a50b87f01be21735c88a2": {
@@ -3712,13 +3712,13 @@
         "NoInfo": 41
       },
       "Chat": {
-        "count": 34
+        "count": 1
       },
       "Death": {
         "count": 17
       },
       "KilledBy": {
-        "count": 3
+        "count": 11
       },
       "Kicks": {
         "count": 2
@@ -3738,9 +3738,9 @@
       "BlockPlace": 15848,
       "CraftedItems": 170,
       "Logins": 68,
-      "Chat": 34,
+      "Chat": 1,
       "Death": 17,
-      "KilledBy": 3,
+      "KilledBy": 11,
       "Kicks": 2
     }
   },
@@ -3788,7 +3788,7 @@
         "GOLD_ORE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 240
       },
       "Death": {
         "count": 275
@@ -3897,7 +3897,7 @@
       "BlockBreak": 7311,
       "Logins": 110,
       "BlockPlace": 3436,
-      "KilledBy": 1,
+      "KilledBy": 240,
       "Death": 275,
       "CraftedItems": 184,
       "Kicks": 3
@@ -3942,7 +3942,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "WOOD": 96,
@@ -3988,7 +3988,7 @@
       "BlockBreak": 7140,
       "BlockPlace": 3010,
       "Death": 7,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 434
     }
   },
@@ -4097,13 +4097,13 @@
         "NoInfo": 4
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "Death": {
         "count": 33
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       }
     },
     "killed": {
@@ -4115,9 +4115,9 @@
       "BlockPlace": 3797,
       "CraftedItems": 263,
       "Logins": 30,
-      "Chat": 3,
+      "Chat": 1,
       "Death": 33,
-      "KilledBy": 1
+      "KilledBy": 6
     }
   },
   "d485b5df32a89641517120ef395e34a6adc3cb49": {
@@ -4209,7 +4209,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       }
     },
     "killed": {
@@ -4223,7 +4223,7 @@
       "Logins": 62,
       "Death": 10,
       "Kicks": 2,
-      "KilledBy": 2
+      "KilledBy": 6
     }
   },
   "cfcfa63edd4e90933d4458a4a2fbc95c443366c9": {
@@ -4322,7 +4322,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Kicks": {
         "count": 3
@@ -4338,7 +4338,7 @@
       "BlockBreak": 10036,
       "CraftedItems": 185,
       "Death": 6,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Kicks": 3
     }
   },
@@ -4416,7 +4416,7 @@
         "NoInfo": 50
       },
       "KilledBy": {
-        "count": 1
+        "count": 71
       },
       "BlockBreak": {
         "OTHER": 1675,
@@ -4471,7 +4471,7 @@
       "CraftedItems": 501,
       "Death": 86,
       "Logins": 83,
-      "KilledBy": 1,
+      "KilledBy": 71,
       "BlockBreak": 5979,
       "Kicks": 3
     }
@@ -4587,7 +4587,7 @@
         "count": 161
       },
       "KilledBy": {
-        "count": 7
+        "count": 122
       },
       "Kicks": {
         "count": 4
@@ -4625,7 +4625,7 @@
       "Logins": 99,
       "CraftedItems": 208,
       "Death": 161,
-      "KilledBy": 7,
+      "KilledBy": 122,
       "Kicks": 4
     }
   },
@@ -4670,7 +4670,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "WOOD": 324,
@@ -4699,7 +4699,7 @@
       "BlockBreak": 24657,
       "Logins": 43,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 1214
     }
   },
@@ -4810,7 +4810,7 @@
         "count": 30
       },
       "KilledBy": {
-        "count": 1
+        "count": 24
       },
       "Kicks": {
         "count": 3
@@ -4843,7 +4843,7 @@
       "BlockPlace": 2911,
       "Logins": 90,
       "Death": 30,
-      "KilledBy": 1,
+      "KilledBy": 24,
       "Kicks": 3
     }
   },
@@ -4924,7 +4924,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {
@@ -4937,7 +4937,7 @@
       "BlockBreak": 8347,
       "CraftedItems": 277,
       "Death": 8,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "e5de96bf418fbd900718888c4dce1190c2dc8224": {
@@ -5008,7 +5008,7 @@
         "WOOD_BUTTON": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 66
       },
       "Kicks": {
         "count": 6
@@ -5030,7 +5030,7 @@
       "Death": 94,
       "Logins": 180,
       "CraftedItems": 122,
-      "KilledBy": 2,
+      "KilledBy": 66,
       "Kicks": 6
     }
   },
@@ -5192,7 +5192,7 @@
         "FLINT_AND_STEEL": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -5213,7 +5213,7 @@
       "Logins": 56,
       "BlockPlace": 6450,
       "CraftedItems": 186,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -5235,7 +5235,7 @@
         "SAND": 3
       },
       "Chat": {
-        "count": 59
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 3027,
@@ -5294,7 +5294,7 @@
         "GLOWSTONE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Kicks": {
         "count": 2
@@ -5315,12 +5315,12 @@
     "summary": {
       "Killed": 22,
       "BlockPlace": 8654,
-      "Chat": 59,
+      "Chat": 1,
       "BlockBreak": 25605,
       "Logins": 73,
       "Death": 11,
       "CraftedItems": 90,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Kicks": 2
     }
   },
@@ -5395,7 +5395,7 @@
         "DIAMOND_SPADE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 16
       },
       "Death": {
         "count": 48
@@ -5416,7 +5416,7 @@
       "Logins": 57,
       "BlockPlace": 2577,
       "CraftedItems": 290,
-      "KilledBy": 1,
+      "KilledBy": 16,
       "Death": 48,
       "Kicks": 3
     }
@@ -5509,10 +5509,10 @@
         "NoInfo": 26
       },
       "Chat": {
-        "count": 36
+        "count": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 22
       },
       "Death": {
         "count": 22
@@ -5538,8 +5538,8 @@
       "CraftedItems": 135,
       "BlockPlace": 5701,
       "Logins": 40,
-      "Chat": 36,
-      "KilledBy": 2,
+      "Chat": 1,
+      "KilledBy": 22,
       "Death": 22,
       "Kicks": 2
     }
@@ -5621,10 +5621,10 @@
         "count": 27
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 19
       },
       "Kicks": {
         "count": 3
@@ -5646,8 +5646,8 @@
       "CraftedItems": 115,
       "Logins": 71,
       "Death": 27,
-      "Chat": 2,
-      "KilledBy": 2,
+      "Chat": 1,
+      "KilledBy": 19,
       "Kicks": 3
     }
   },
@@ -5674,7 +5674,7 @@
         "DIAMOND_ORE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 48
       },
       "CraftedItems": {
         "STONE_PICKAXE": 4,
@@ -5724,7 +5724,7 @@
         "NoInfo": 125
       },
       "Chat": {
-        "count": 44
+        "count": 1
       },
       "Kicks": {
         "count": 7
@@ -5747,12 +5747,12 @@
     "summary": {
       "Killed": 19,
       "BlockBreak": 3218,
-      "KilledBy": 1,
+      "KilledBy": 48,
       "CraftedItems": 53,
       "BlockPlace": 882,
       "Death": 111,
       "Logins": 125,
-      "Chat": 44,
+      "Chat": 1,
       "Kicks": 7
     }
   },
@@ -5912,10 +5912,10 @@
         "BOW": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 51
       },
       "Chat": {
-        "count": 21
+        "count": 5
       }
     },
     "killed": {
@@ -5934,8 +5934,8 @@
       "Death": 73,
       "BlockPlace": 1521,
       "CraftedItems": 210,
-      "KilledBy": 1,
-      "Chat": 21
+      "KilledBy": 51,
+      "Chat": 5
     }
   },
   "8c65e1afe282d1570e83002027c41c9bb6f839dc": {
@@ -6020,7 +6020,7 @@
         "GLOWSTONE": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 4
@@ -6033,7 +6033,7 @@
       "Logins": 54,
       "BlockBreak": 25185,
       "BlockPlace": 3533,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 4
     }
   },
@@ -6058,7 +6058,7 @@
         "GLOWSTONE": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 7
       },
       "Death": {
         "count": 10
@@ -6115,7 +6115,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 6067,
-      "KilledBy": 1,
+      "KilledBy": 7,
       "Death": 10,
       "Logins": 14,
       "BlockPlace": 3213,
@@ -6195,10 +6195,10 @@
         "count": 16
       },
       "KilledBy": {
-        "count": 1
+        "count": 10
       },
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "Kicks": {
         "count": 3
@@ -6218,8 +6218,8 @@
       "BlockPlace": 2708,
       "CraftedItems": 82,
       "Death": 16,
-      "KilledBy": 1,
-      "Chat": 5,
+      "KilledBy": 10,
+      "Chat": 1,
       "Kicks": 3
     }
   },
@@ -6295,10 +6295,10 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -6309,8 +6309,8 @@
       "Logins": 16,
       "BlockPlace": 3563,
       "Death": 6,
-      "KilledBy": 1,
-      "Chat": 4
+      "KilledBy": 3,
+      "Chat": 2
     }
   },
   "b950a70c76837ab76a7eac70442e2e69b5e0c41a": {
@@ -6347,7 +6347,7 @@
         "GLOWSTONE": 10
       },
       "Chat": {
-        "count": 536
+        "count": 1
       },
       "Death": {
         "count": 12
@@ -6380,7 +6380,7 @@
         "FENCE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       }
     },
     "killed": {
@@ -6400,11 +6400,11 @@
       "Killed": 12,
       "BlockBreak": 1937,
       "BlockPlace": 2314,
-      "Chat": 536,
+      "Chat": 1,
       "Death": 12,
       "Logins": 53,
       "CraftedItems": 49,
-      "KilledBy": 1
+      "KilledBy": 6
     }
   },
   "97114793d8ed8100a848b330b7a6b900006f64af": {
@@ -6456,7 +6456,7 @@
         "WOOD_PICKAXE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 10
@@ -6474,7 +6474,7 @@
       "BlockBreak": 8021,
       "BlockPlace": 2622,
       "CraftedItems": 41,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 10,
       "Kicks": 4
     }
@@ -6573,7 +6573,7 @@
     "playtime": 324,
     "actions": {
       "Chat": {
-        "count": 14
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 19,
@@ -6664,7 +6664,7 @@
         "count": 12
       },
       "KilledBy": {
-        "count": 1
+        "count": 10
       },
       "Kicks": {
         "count": 2
@@ -6679,13 +6679,13 @@
     },
     "summary": {
       "Killed": 15,
-      "Chat": 14,
+      "Chat": 1,
       "Logins": 47,
       "BlockBreak": 3053,
       "CraftedItems": 175,
       "BlockPlace": 2016,
       "Death": 12,
-      "KilledBy": 1,
+      "KilledBy": 10,
       "Kicks": 2
     }
   },
@@ -6752,7 +6752,7 @@
         "IRON_BOOTS": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 12
@@ -6766,7 +6766,7 @@
       "BlockBreak": 5788,
       "BlockPlace": 354,
       "CraftedItems": 111,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 12
     }
   },
@@ -6842,7 +6842,7 @@
         "count": 36
       },
       "KilledBy": {
-        "count": 1
+        "count": 26
       },
       "Kicks": {
         "count": 2
@@ -6860,7 +6860,7 @@
       "CraftedItems": 304,
       "Logins": 65,
       "Death": 36,
-      "KilledBy": 1,
+      "KilledBy": 26,
       "Kicks": 2
     }
   },
@@ -6933,7 +6933,7 @@
         "count": 38
       },
       "KilledBy": {
-        "count": 1
+        "count": 34
       }
     },
     "killed": {
@@ -6951,7 +6951,7 @@
       "CraftedItems": 129,
       "Logins": 70,
       "Death": 38,
-      "KilledBy": 1
+      "KilledBy": 34
     }
   },
   "4b64147d9e56c8bce686919a580310e395c9138e": {
@@ -7059,7 +7059,7 @@
         "SAND": 9
       },
       "Chat": {
-        "count": 66
+        "count": 3
       },
       "CraftedItems": {
         "MELON_SEEDS": 2,
@@ -7081,7 +7081,7 @@
         "count": 26
       },
       "KilledBy": {
-        "count": 1
+        "count": 12
       }
     },
     "killed": {
@@ -7094,10 +7094,10 @@
       "Logins": 106,
       "BlockBreak": 2301,
       "BlockPlace": 1932,
-      "Chat": 66,
+      "Chat": 3,
       "CraftedItems": 28,
       "Death": 26,
-      "KilledBy": 1
+      "KilledBy": 12
     }
   },
   "ac768feddaa40c90aa9ad72f9960daa62eea5f46": {
@@ -7152,7 +7152,7 @@
         "NoInfo": 27
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 30
@@ -7165,7 +7165,7 @@
       "BlockPlace": 3324,
       "CraftedItems": 33,
       "Logins": 29,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 30
     }
   },
@@ -7236,7 +7236,7 @@
         "count": 47
       },
       "KilledBy": {
-        "count": 2
+        "count": 37
       },
       "Kicks": {
         "count": 3
@@ -7302,7 +7302,7 @@
       "CraftedItems": 57,
       "Logins": 83,
       "Death": 47,
-      "KilledBy": 2,
+      "KilledBy": 37,
       "Kicks": 3
     }
   },
@@ -7381,13 +7381,13 @@
         "IRON_BLOCK": 3
       },
       "Chat": {
-        "count": 23
+        "count": 1
       },
       "Death": {
         "count": 7
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       }
     },
     "killed": {
@@ -7400,9 +7400,9 @@
       "CraftedItems": 104,
       "Logins": 70,
       "BlockPlace": 3454,
-      "Chat": 23,
+      "Chat": 1,
       "Death": 7,
-      "KilledBy": 2
+      "KilledBy": 6
     }
   },
   "734e50e7c902b5202704e7bdacc623074053b74e": {
@@ -7412,7 +7412,7 @@
         "count": 170
       },
       "KilledBy": {
-        "count": 1
+        "count": 132
       },
       "BlockBreak": {
         "LOG": 58,
@@ -7478,7 +7478,7 @@
         "count": 5
       },
       "Chat": {
-        "count": 12
+        "count": 1
       }
     },
     "killed": {
@@ -7493,13 +7493,13 @@
     "summary": {
       "Killed": 8,
       "Death": 170,
-      "KilledBy": 1,
+      "KilledBy": 132,
       "BlockBreak": 1503,
       "BlockPlace": 624,
       "CraftedItems": 67,
       "Logins": 61,
       "Kicks": 5,
-      "Chat": 12
+      "Chat": 1
     }
   },
   "416884791d1f303a7f162c216ba54a67ad4bc138": {
@@ -7564,10 +7564,10 @@
         "LOG": 13
       },
       "Chat": {
-        "count": 22
+        "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 27
       },
       "Death": {
         "count": 37
@@ -7584,8 +7584,8 @@
       "CraftedItems": 141,
       "BlockPlace": 1060,
       "BlockBreak": 2729,
-      "Chat": 22,
-      "KilledBy": 1,
+      "Chat": 2,
+      "KilledBy": 27,
       "Death": 37
     }
   },
@@ -7646,10 +7646,10 @@
         "count": 11
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       }
     },
     "killed": {
@@ -7662,8 +7662,8 @@
       "BlockPlace": 964,
       "CraftedItems": 49,
       "Death": 11,
-      "Chat": 7,
-      "KilledBy": 1
+      "Chat": 1,
+      "KilledBy": 4
     }
   },
   "4014bab7023d1640fe8e3fdb47802fa0c295c75e": {
@@ -7733,10 +7733,10 @@
         "FLINT_AND_STEEL": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 10
       },
       "Chat": {
-        "count": 36
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 22,
@@ -7762,8 +7762,8 @@
       "BlockPlace": 3935,
       "BlockBreak": 6183,
       "CraftedItems": 104,
-      "KilledBy": 1,
-      "Chat": 36,
+      "KilledBy": 10,
+      "Chat": 1,
       "Logins": 43,
       "Death": 17
     }
@@ -7827,7 +7827,7 @@
         "WOOD_PICKAXE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 35
       },
       "BlockPlace": {
         "OTHER": 1151,
@@ -7870,7 +7870,7 @@
       "Killed": 20,
       "BlockBreak": 3245,
       "CraftedItems": 80,
-      "KilledBy": 1,
+      "KilledBy": 35,
       "BlockPlace": 1425,
       "Death": 61,
       "Logins": 52,
@@ -7961,7 +7961,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 2
+        "count": 7
       }
     },
     "killed": {
@@ -7976,7 +7976,7 @@
       "BlockBreak": 2953,
       "BlockPlace": 1677,
       "Death": 8,
-      "KilledBy": 2
+      "KilledBy": 7
     }
   },
   "395230e25e4c2ba0a7c3259acd00df86a871c2f0": {
@@ -8040,7 +8040,7 @@
         "NoInfo": 16
       },
       "KilledBy": {
-        "count": 1
+        "count": 43
       },
       "Kicks": {
         "count": 2
@@ -8061,7 +8061,7 @@
       "BlockPlace": 1633,
       "Death": 45,
       "Logins": 16,
-      "KilledBy": 1,
+      "KilledBy": 43,
       "Kicks": 2
     }
   },
@@ -8127,7 +8127,7 @@
         "NoInfo": 33
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       }
     },
     "killed": {},
@@ -8138,7 +8138,7 @@
       "CraftedItems": 58,
       "Death": 30,
       "Logins": 50,
-      "KilledBy": 1
+      "KilledBy": 11
     }
   },
   "2381abb213a635b1ff5ede69e00534575d8e8666": {
@@ -8199,7 +8199,7 @@
         "count": 12
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -8210,7 +8210,7 @@
       "BlockPlace": 2206,
       "BlockBreak": 102046,
       "Death": 12,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "8d24ac01f8db4dca19260649f030baa9574b8238": {
@@ -8276,7 +8276,7 @@
         "LOG": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 31
       },
       "Death": {
         "count": 46
@@ -8301,7 +8301,7 @@
       "BlockBreak": 2202,
       "CraftedItems": 31,
       "BlockPlace": 767,
-      "KilledBy": 1,
+      "KilledBy": 31,
       "Death": 46,
       "Kicks": 3
     }
@@ -8349,7 +8349,7 @@
         "NoInfo": 45
       },
       "Chat": {
-        "count": 30
+        "count": 5
       },
       "CraftedItems": {
         "WOOD": 14,
@@ -8395,7 +8395,7 @@
         "FENCE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Kicks": {
         "count": 3
@@ -8412,9 +8412,9 @@
       "Death": 36,
       "BlockPlace": 1383,
       "Logins": 45,
-      "Chat": 30,
+      "Chat": 5,
       "CraftedItems": 113,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "Kicks": 3
     }
   },
@@ -8486,7 +8486,7 @@
         "count": 44
       },
       "KilledBy": {
-        "count": 1
+        "count": 24
       }
     },
     "killed": {
@@ -8504,7 +8504,7 @@
       "Logins": 29,
       "CraftedItems": 148,
       "Death": 44,
-      "KilledBy": 1
+      "KilledBy": 24
     }
   },
   "8371514c15569912602e45b987ef67268811e8cb": {
@@ -8581,7 +8581,7 @@
         "DIAMOND_ORE": 27
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Kicks": {
         "count": 2
@@ -8595,7 +8595,7 @@
       "BlockBreak": 3087,
       "Death": 19,
       "BlockPlace": 1152,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Kicks": 2
     }
   },
@@ -8743,7 +8743,7 @@
         "GOLD_ORE": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 7
       },
       "Death": {
         "count": 9
@@ -8761,7 +8761,7 @@
       "BlockPlace": 1109,
       "Logins": 55,
       "BlockBreak": 4049,
-      "KilledBy": 1,
+      "KilledBy": 7,
       "Death": 9,
       "Kicks": 2
     }
@@ -8832,10 +8832,10 @@
         "count": 129
       },
       "KilledBy": {
-        "count": 1
+        "count": 117
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {
@@ -8871,8 +8871,8 @@
       "CraftedItems": 84,
       "Logins": 24,
       "Death": 129,
-      "KilledBy": 1,
-      "Chat": 2
+      "KilledBy": 117,
+      "Chat": 1
     }
   },
   "08bba033db34436242e3b6ce2d0d3fee3975e238": {
@@ -8936,7 +8936,7 @@
         "COBBLESTONE": 42
       },
       "Chat": {
-        "count": 20
+        "count": 1
       }
     },
     "killed": {
@@ -8950,7 +8950,7 @@
       "Death": 3,
       "CraftedItems": 100,
       "BlockBreak": 3078,
-      "Chat": 20
+      "Chat": 1
     }
   },
   "ac159555ab532de24cf43e1856957df2c7f7edb5": {
@@ -8965,7 +8965,7 @@
         "SMOOTH_BRICK": 119
       },
       "Chat": {
-        "count": 7
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 1269,
@@ -9011,7 +9011,7 @@
     "summary": {
       "Killed": 1,
       "BlockPlace": 1136,
-      "Chat": 7,
+      "Chat": 1,
       "BlockBreak": 2694,
       "Logins": 19,
       "CraftedItems": 67
@@ -9060,7 +9060,7 @@
         "IRON_SPADE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 63
       },
       "Kicks": {
         "count": 6
@@ -9081,7 +9081,7 @@
       "Death": 81,
       "Logins": 131,
       "CraftedItems": 20,
-      "KilledBy": 1,
+      "KilledBy": 63,
       "Kicks": 6
     }
   },
@@ -9162,10 +9162,10 @@
         "count": 16
       },
       "KilledBy": {
-        "count": 1
+        "count": 13
       },
       "Chat": {
-        "count": 11
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -9183,8 +9183,8 @@
       "BlockBreak": 2341,
       "BlockPlace": 478,
       "Death": 16,
-      "KilledBy": 1,
-      "Chat": 11,
+      "KilledBy": 13,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -9255,7 +9255,7 @@
         "NoInfo": 33
       },
       "KilledBy": {
-        "count": 1
+        "count": 20
       },
       "Death": {
         "count": 39
@@ -9272,7 +9272,7 @@
       "BlockPlace": 767,
       "CraftedItems": 142,
       "Logins": 40,
-      "KilledBy": 1,
+      "KilledBy": 20,
       "Death": 39
     }
   },
@@ -9324,10 +9324,10 @@
         "GLOWSTONE": 1
       },
       "Chat": {
-        "count": 26
+        "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 35
       },
       "Kicks": {
         "count": 2
@@ -9345,8 +9345,8 @@
       "BlockPlace": 897,
       "BlockBreak": 1428,
       "CraftedItems": 334,
-      "Chat": 26,
-      "KilledBy": 1,
+      "Chat": 2,
+      "KilledBy": 35,
       "Kicks": 2
     }
   },
@@ -9397,7 +9397,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {},
@@ -9408,7 +9408,7 @@
       "BlockPlace": 1248,
       "CraftedItems": 72,
       "Death": 4,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "74ef6c8983de6fe081770a6eaae0f2be00cf4322": {
@@ -9536,7 +9536,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "LOG": 6,
@@ -9554,7 +9554,7 @@
       "BlockBreak": 2648,
       "CraftedItems": 66,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 1136
     }
   },
@@ -9569,7 +9569,7 @@
         "NoInfo": 14
       },
       "KilledBy": {
-        "count": 1
+        "count": 16
       },
       "BlockPlace": {
         "COBBLESTONE": 151,
@@ -9637,7 +9637,7 @@
       "Killed": 3,
       "Death": 30,
       "Logins": 23,
-      "KilledBy": 1,
+      "KilledBy": 16,
       "BlockPlace": 641,
       "BlockBreak": 2541,
       "CraftedItems": 187
@@ -9713,7 +9713,7 @@
         "count": 24
       },
       "KilledBy": {
-        "count": 1
+        "count": 16
       },
       "Kicks": {
         "count": 3
@@ -9733,7 +9733,7 @@
       "BlockBreak": 2753,
       "CraftedItems": 68,
       "Death": 24,
-      "KilledBy": 1,
+      "KilledBy": 16,
       "Kicks": 3
     }
   },
@@ -9783,7 +9783,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -9794,7 +9794,7 @@
       "BlockPlace": 361,
       "CraftedItems": 257,
       "Death": 7,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "073a9dae0bb2b1b34d74adf7ea78cd8f0cd5fbb5": {
@@ -10247,7 +10247,7 @@
         "count": 20
       },
       "KilledBy": {
-        "count": 2
+        "count": 5
       }
     },
     "killed": {
@@ -10262,7 +10262,7 @@
       "BlockPlace": 1153,
       "Logins": 18,
       "Death": 20,
-      "KilledBy": 2
+      "KilledBy": 5
     }
   },
   "f92fce3283ce3eb0a05613ddf5246cacf1387cce": {
@@ -10379,13 +10379,13 @@
         "LOG": 3
       },
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "Death": {
         "count": 7
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -10395,9 +10395,9 @@
       "BlockBreak": 964,
       "CraftedItems": 17,
       "BlockPlace": 440,
-      "Chat": 5,
+      "Chat": 1,
       "Death": 7,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "090e760f06978f0b1b429fafff4365590fae4974": {
@@ -10453,7 +10453,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Logins": {
         "America/Chicago": 22,
@@ -10470,7 +10470,7 @@
       "CraftedItems": 56,
       "BlockPlace": 560,
       "Death": 5,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Logins": 30,
       "Kicks": 2
     }
@@ -10533,7 +10533,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       }
     },
     "killed": {},
@@ -10544,7 +10544,7 @@
       "CraftedItems": 64,
       "Logins": 20,
       "Death": 7,
-      "KilledBy": 1
+      "KilledBy": 6
     }
   },
   "26366aec6f42ac79ffe5166a0c123a6049a55906": {
@@ -10581,7 +10581,7 @@
         "count": 29
       },
       "KilledBy": {
-        "count": 1
+        "count": 19
       },
       "CraftedItems": {
         "WOOD_DOOR": 2,
@@ -10618,7 +10618,7 @@
       "BlockBreak": 1141,
       "BlockPlace": 767,
       "Death": 29,
-      "KilledBy": 1,
+      "KilledBy": 19,
       "CraftedItems": 256
     }
   },
@@ -10673,10 +10673,10 @@
         "NoInfo": 30
       },
       "KilledBy": {
-        "count": 1
+        "count": 79
       },
       "Chat": {
-        "count": 6
+        "count": 3
       }
     },
     "killed": {
@@ -10709,8 +10709,8 @@
       "BlockBreak": 885,
       "Death": 88,
       "Logins": 50,
-      "KilledBy": 1,
-      "Chat": 6
+      "KilledBy": 79,
+      "Chat": 3
     }
   },
   "e6ac2ea522f125b7911db92db8ec084df7716f5d": {
@@ -10751,10 +10751,10 @@
         "STONE": 107
       },
       "KilledBy": {
-        "count": 1
+        "count": 42
       },
       "Chat": {
-        "count": 61
+        "count": 1
       },
       "Death": {
         "count": 62
@@ -10832,8 +10832,8 @@
       "Logins": 59,
       "BlockBreak": 1754,
       "BlockPlace": 707,
-      "KilledBy": 1,
-      "Chat": 61,
+      "KilledBy": 42,
+      "Chat": 1,
       "Death": 62,
       "CraftedItems": 37,
       "Kicks": 3
@@ -10894,7 +10894,7 @@
         "count": 48
       },
       "KilledBy": {
-        "count": 1
+        "count": 14
       },
       "Kicks": {
         "count": 2
@@ -10918,7 +10918,7 @@
       "BlockPlace": 401,
       "CraftedItems": 40,
       "Death": 48,
-      "KilledBy": 1,
+      "KilledBy": 14,
       "Kicks": 2
     }
   },
@@ -10933,7 +10933,7 @@
         "NoInfo": 109
       },
       "Chat": {
-        "count": 14
+        "count": 7
       },
       "BlockBreak": {
         "OTHER": 24,
@@ -10968,7 +10968,7 @@
         "SAND": 13
       },
       "KilledBy": {
-        "count": 2
+        "count": 16
       },
       "Death": {
         "count": 19
@@ -10991,11 +10991,11 @@
       "Killed": 24,
       "Kicks": 5,
       "Logins": 141,
-      "Chat": 14,
+      "Chat": 7,
       "BlockBreak": 680,
       "CraftedItems": 13,
       "BlockPlace": 242,
-      "KilledBy": 2,
+      "KilledBy": 16,
       "Death": 19
     }
   },
@@ -11124,13 +11124,13 @@
         "IRON_HELMET": 1
       },
       "Chat": {
-        "count": 83
+        "count": 1
       },
       "Death": {
         "count": 52
       },
       "KilledBy": {
-        "count": 3
+        "count": 43
       }
     },
     "killed": {
@@ -11160,9 +11160,9 @@
       "Logins": 27,
       "BlockPlace": 232,
       "CraftedItems": 16,
-      "Chat": 83,
+      "Chat": 1,
       "Death": 52,
-      "KilledBy": 3
+      "KilledBy": 43
     }
   },
   "080c3058a1ee8392428f23e79425aacb5bebb545": {
@@ -11182,7 +11182,7 @@
         "NoInfo": 39
       },
       "Chat": {
-        "count": 321
+        "count": 1
       },
       "BlockPlace": {
         "DIRT": 13,
@@ -11194,7 +11194,7 @@
         "count": 21
       },
       "KilledBy": {
-        "count": 2
+        "count": 20
       },
       "CraftedItems": {
         "STONE_SWORD": 2,
@@ -11230,10 +11230,10 @@
       "Killed": 24,
       "BlockBreak": 208,
       "Logins": 54,
-      "Chat": 321,
+      "Chat": 1,
       "BlockPlace": 61,
       "Death": 21,
-      "KilledBy": 2,
+      "KilledBy": 20,
       "CraftedItems": 20
     }
   },
@@ -11285,7 +11285,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Kicks": {
         "count": 2
@@ -11301,7 +11301,7 @@
       "BlockPlace": 416,
       "CraftedItems": 59,
       "Death": 5,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Kicks": 2
     }
   },
@@ -11440,7 +11440,7 @@
         "DIAMOND_ORE": 10
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 25,
@@ -11459,7 +11459,7 @@
       "BlockPlace": 627,
       "CraftedItems": 99,
       "BlockBreak": 2048,
-      "Chat": 3,
+      "Chat": 1,
       "Logins": 27,
       "Death": 6
     }
@@ -11595,7 +11595,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -11608,7 +11608,7 @@
       "BlockPlace": 675,
       "CraftedItems": 45,
       "Death": 8,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "b25a854cedf9f9ac071e2d279a1e12d2cc5d544c": {
@@ -11811,7 +11811,7 @@
         "count": 39
       },
       "KilledBy": {
-        "count": 2
+        "count": 25
       },
       "Kicks": {
         "count": 5
@@ -11828,7 +11828,7 @@
       "BlockPlace": 463,
       "Logins": 43,
       "Death": 39,
-      "KilledBy": 2,
+      "KilledBy": 25,
       "Kicks": 5
     }
   },
@@ -11926,7 +11926,7 @@
         "SAND": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 23
       },
       "CraftedItems": {
         "STICK": 5,
@@ -11952,7 +11952,7 @@
       "BlockBreak": 335,
       "Death": 54,
       "BlockPlace": 91,
-      "KilledBy": 1,
+      "KilledBy": 23,
       "CraftedItems": 17
     }
   },
@@ -12016,7 +12016,7 @@
         "count": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -12030,7 +12030,7 @@
       "CraftedItems": 59,
       "Logins": 27,
       "Death": 11,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "1389b2270f21e97b551e0e66f22090379a431044": {
@@ -12113,7 +12113,7 @@
         "count": 46
       },
       "KilledBy": {
-        "count": 1
+        "count": 24
       },
       "CraftedItems": {
         "WOOD": 23,
@@ -12145,7 +12145,7 @@
       "BlockBreak": 908,
       "BlockPlace": 285,
       "Death": 46,
-      "KilledBy": 1,
+      "KilledBy": 24,
       "CraftedItems": 57
     }
   },
@@ -12203,7 +12203,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {
@@ -12216,7 +12216,7 @@
       "BlockPlace": 520,
       "CraftedItems": 70,
       "Death": 5,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "5e38a9bfd735f9d110aece46f5f25951100f6bb3": {
@@ -12285,7 +12285,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -12299,7 +12299,7 @@
       "BlockPlace": 881,
       "CraftedItems": 112,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2
     }
   },
@@ -12311,7 +12311,7 @@
         "NoInfo": 30
       },
       "Chat": {
-        "count": 15
+        "count": 1
       },
       "BlockBreak": {
         "DIRT": 58,
@@ -12365,7 +12365,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 2
+        "count": 14
       }
     },
     "killed": {
@@ -12388,13 +12388,13 @@
     "summary": {
       "Killed": 22,
       "Logins": 35,
-      "Chat": 15,
+      "Chat": 1,
       "BlockBreak": 1754,
       "BlockPlace": 463,
       "CraftedItems": 59,
       "Death": 16,
       "Kicks": 8,
-      "KilledBy": 2
+      "KilledBy": 14
     }
   },
   "5eb10f26b06a41d6aa09098a2f445afc6755812d": {
@@ -12408,7 +12408,7 @@
         "count": 10
       },
       "KilledBy": {
-        "count": 1
+        "count": 8
       },
       "BlockBreak": {
         "OTHER": 385,
@@ -12453,7 +12453,7 @@
       "Killed": 0,
       "Logins": 8,
       "Death": 10,
-      "KilledBy": 1,
+      "KilledBy": 8,
       "BlockBreak": 1311,
       "CraftedItems": 35,
       "BlockPlace": 421
@@ -12635,7 +12635,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -12650,7 +12650,7 @@
       "BlockPlace": 497,
       "CraftedItems": 43,
       "Death": 8,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "e62909bf293aa5587d79098a289aa17dc068d5ec": {
@@ -12758,10 +12758,10 @@
         "count": 2
       },
       "Chat": {
-        "count": 13
+        "count": 4
       },
       "KilledBy": {
-        "count": 5
+        "count": 10
       }
     },
     "killed": {
@@ -12775,8 +12775,8 @@
       "CraftedItems": 28,
       "Death": 15,
       "Kicks": 2,
-      "Chat": 13,
-      "KilledBy": 5
+      "Chat": 4,
+      "KilledBy": 10
     }
   },
   "334b0e8a0fee9c3523ac745e491c44cdc6198d6f": {
@@ -12804,7 +12804,7 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "CraftedItems": {
         "WOOD": 4,
@@ -12834,7 +12834,7 @@
       "Logins": 60,
       "BlockBreak": 557,
       "Death": 8,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "CraftedItems": 22,
       "BlockPlace": 177
     }
@@ -12891,7 +12891,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 16
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -12905,7 +12905,7 @@
       "BlockBreak": 744,
       "CraftedItems": 48,
       "Death": 2,
-      "Chat": 16,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -12936,7 +12936,7 @@
         "LOG": 15
       },
       "KilledBy": {
-        "count": 1
+        "count": 20
       },
       "CraftedItems": {
         "STONE_PICKAXE": 15,
@@ -12960,7 +12960,7 @@
       "Logins": 9,
       "BlockPlace": 228,
       "BlockBreak": 1205,
-      "KilledBy": 1,
+      "KilledBy": 20,
       "CraftedItems": 88,
       "Death": 41
     }
@@ -13012,7 +13012,7 @@
         "WOOD_SPADE": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 7
       },
       "Death": {
         "count": 10
@@ -13029,7 +13029,7 @@
         "America/Chicago": 11
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {
@@ -13040,11 +13040,11 @@
       "Killed": 3,
       "BlockBreak": 1285,
       "CraftedItems": 66,
-      "KilledBy": 2,
+      "KilledBy": 7,
       "Death": 10,
       "BlockPlace": 666,
       "Logins": 11,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "771813f0f5b0663e2eedd4b2ee7a586eab309683": {
@@ -13111,10 +13111,10 @@
         "SMOOTH_BRICK": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Chat": {
-        "count": 4
+        "count": 1
       }
     },
     "killed": {
@@ -13129,8 +13129,8 @@
       "BlockBreak": 1222,
       "CraftedItems": 87,
       "BlockPlace": 740,
-      "KilledBy": 1,
-      "Chat": 4
+      "KilledBy": 11,
+      "Chat": 1
     }
   },
   "b684c8d565c32b0f8cdea8d5e0f5e09acc4d2ce4": {
@@ -13188,7 +13188,7 @@
         "WOOD_AXE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 11
@@ -13201,7 +13201,7 @@
       "BlockBreak": 1437,
       "BlockPlace": 539,
       "CraftedItems": 114,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 11
     }
   },
@@ -13212,7 +13212,7 @@
         "NoInfo": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "BlockBreak": {
         "GLOWING_REDSTONE_ORE": 93,
@@ -13258,7 +13258,7 @@
         "DIAMOND_ORE": 21
       },
       "Chat": {
-        "count": 8
+        "count": 2
       }
     },
     "killed": {
@@ -13267,12 +13267,12 @@
     "summary": {
       "Killed": 1,
       "Logins": 11,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "BlockBreak": 6006,
       "CraftedItems": 45,
       "Death": 6,
       "BlockPlace": 341,
-      "Chat": 8
+      "Chat": 2
     }
   },
   "8b81eddd08e2e9d77e621a1c8fbbae6e08a13d02": {
@@ -13292,7 +13292,7 @@
         "FIREWORK": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 27
       },
       "BlockBreak": {
         "OTHER": 344,
@@ -13330,7 +13330,7 @@
     "summary": {
       "Killed": 9,
       "CraftedItems": 145,
-      "KilledBy": 1,
+      "KilledBy": 27,
       "BlockBreak": 471,
       "BlockPlace": 235,
       "Death": 42,
@@ -13387,10 +13387,10 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -13401,8 +13401,8 @@
       "BlockPlace": 958,
       "CraftedItems": 165,
       "Death": 8,
-      "KilledBy": 1,
-      "Chat": 2
+      "KilledBy": 3,
+      "Chat": 1
     }
   },
   "7f487bbe63b9efa8477c0a5727f7860231297cf2": {
@@ -13452,10 +13452,10 @@
         "NoInfo": 23
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Chat": {
-        "count": 13
+        "count": 1
       }
     },
     "killed": {
@@ -13475,8 +13475,8 @@
       "CraftedItems": 25,
       "Death": 16,
       "Logins": 27,
-      "KilledBy": 1,
-      "Chat": 13
+      "KilledBy": 6,
+      "Chat": 1
     }
   },
   "b9fae5bee41548e4028d63de1acf31acd0a2ac28": {
@@ -13652,10 +13652,10 @@
         "count": 35
       },
       "KilledBy": {
-        "count": 2
+        "count": 8
       },
       "Chat": {
-        "count": 6
+        "count": 3
       }
     },
     "killed": {
@@ -13668,8 +13668,8 @@
       "BlockPlace": 350,
       "CraftedItems": 33,
       "Death": 35,
-      "KilledBy": 2,
-      "Chat": 6
+      "KilledBy": 8,
+      "Chat": 3
     }
   },
   "bc8a331969f4ec7cf1c6336d38b287fb6349570e": {
@@ -13724,7 +13724,7 @@
         "SIGN": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {
@@ -13739,7 +13739,7 @@
       "Death": 16,
       "BlockPlace": 306,
       "CraftedItems": 46,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "fd40546830ee56abaf62e99fb9ea6434eff76bc4": {
@@ -13856,7 +13856,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 8
+        "count": 17
       }
     },
     "killed": {
@@ -13871,7 +13871,7 @@
       "CraftedItems": 38,
       "Death": 35,
       "Kicks": 2,
-      "KilledBy": 8
+      "KilledBy": 17
     }
   },
   "586bfa5d21bd2e2823d9b8707d88304b6e344fe7": {
@@ -13909,7 +13909,7 @@
         "WOOD": 12
       },
       "KilledBy": {
-        "count": 1
+        "count": 9
       },
       "Death": {
         "count": 12
@@ -13922,7 +13922,7 @@
       "BlockBreak": 407,
       "BlockPlace": 230,
       "CraftedItems": 30,
-      "KilledBy": 1,
+      "KilledBy": 9,
       "Death": 12
     }
   },
@@ -13951,7 +13951,7 @@
         "NoInfo": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 44
       },
       "Death": {
         "count": 65
@@ -13988,7 +13988,7 @@
       "BlockBreak": 152,
       "BlockPlace": 195,
       "Logins": 30,
-      "KilledBy": 1,
+      "KilledBy": 44,
       "Death": 65,
       "Kicks": 2,
       "CraftedItems": 108
@@ -14082,7 +14082,7 @@
         "count": 23
       },
       "KilledBy": {
-        "count": 1
+        "count": 18
       },
       "BlockBreak": {
         "OTHER": 35,
@@ -14107,7 +14107,7 @@
       "BlockPlace": 92,
       "Logins": 70,
       "Death": 23,
-      "KilledBy": 1,
+      "KilledBy": 18,
       "BlockBreak": 92,
       "CraftedItems": 12
     }
@@ -14132,7 +14132,7 @@
         "GLOWSTONE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "America/Chicago": 15,
@@ -14166,7 +14166,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 985,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 18,
       "Death": 3,
       "BlockPlace": 288,
@@ -14177,7 +14177,7 @@
     "playtime": 86,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 17,
@@ -14218,19 +14218,19 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 5
+        "count": 10
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 63,
       "BlockPlace": 210,
       "BlockBreak": 348,
       "CraftedItems": 16,
       "Death": 9,
-      "KilledBy": 5
+      "KilledBy": 10
     }
   },
   "78f3f3f64f543a2c331481466aa9b65a9a71ea18": {
@@ -14325,7 +14325,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 13
@@ -14357,7 +14357,7 @@
       "Killed": 0,
       "BlockBreak": 923,
       "Death": 7,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 13,
       "CraftedItems": 87,
       "BlockPlace": 274
@@ -14398,13 +14398,13 @@
         "IRON_LEGGINGS": 1
       },
       "Chat": {
-        "count": 11
+        "count": 2
       },
       "Kicks": {
         "count": 2
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       },
       "Death": {
         "count": 4
@@ -14419,9 +14419,9 @@
       "Logins": 74,
       "BlockPlace": 174,
       "CraftedItems": 12,
-      "Chat": 11,
+      "Chat": 2,
       "Kicks": 2,
-      "KilledBy": 2,
+      "KilledBy": 4,
       "Death": 4
     }
   },
@@ -14463,10 +14463,10 @@
         "count": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Chat": {
-        "count": 8
+        "count": 1
       }
     },
     "killed": {
@@ -14483,8 +14483,8 @@
       "BlockPlace": 1795,
       "BlockBreak": 327,
       "Death": 8,
-      "KilledBy": 1,
-      "Chat": 8
+      "KilledBy": 6,
+      "Chat": 1
     }
   },
   "c3c184230882fd41c4ba6d5d80aa70367c86802a": {
@@ -14528,7 +14528,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -14543,7 +14543,7 @@
       "BlockPlace": 453,
       "CraftedItems": 44,
       "Death": 5,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "daf248e94a2cd90e04ef9a813484b9a768f95377": {
@@ -14578,7 +14578,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "CraftedItems": {
         "WOOD": 6,
@@ -14596,7 +14596,7 @@
       "BlockBreak": 530,
       "BlockPlace": 1360,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "CraftedItems": 7
     }
   },
@@ -14622,7 +14622,7 @@
         "COBBLESTONE": 83
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 11
@@ -14644,7 +14644,7 @@
       "Logins": 13,
       "BlockBreak": 405,
       "BlockPlace": 487,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 11,
       "CraftedItems": 6
     }
@@ -14761,7 +14761,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Death": {
         "count": 15
@@ -14777,7 +14777,7 @@
         "LAPIS_BLOCK": 1
       },
       "Chat": {
-        "count": 11
+        "count": 1
       },
       "BlockPlace": {
         "SMOOTH_BRICK": 9,
@@ -14802,10 +14802,10 @@
       "Killed": 7,
       "Logins": 35,
       "Kicks": 6,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "Death": 15,
       "BlockBreak": 175,
-      "Chat": 11,
+      "Chat": 1,
       "BlockPlace": 165,
       "CraftedItems": 5
     }
@@ -14860,7 +14860,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -14873,7 +14873,7 @@
       "CraftedItems": 50,
       "Logins": 5,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "26ad447b554c96610c51d0d5338e28ef01784a75": {
@@ -14932,7 +14932,7 @@
         "count": 2
       },
       "Chat": {
-        "count": 15
+        "count": 2
       }
     },
     "killed": {
@@ -14946,7 +14946,7 @@
       "BlockPlace": 228,
       "BlockBreak": 2589,
       "Kicks": 2,
-      "Chat": 15
+      "Chat": 2
     }
   },
   "963a5e9332d5ba322464324b0d7fb1cb2a39a699": {
@@ -15107,7 +15107,7 @@
         "BOAT": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 13
       }
     },
     "killed": {
@@ -15123,7 +15123,7 @@
       "Logins": 8,
       "Death": 17,
       "CraftedItems": 34,
-      "KilledBy": 1
+      "KilledBy": 13
     }
   },
   "d8896cc7534f3845aaeda607f8121234a4c57e98": {
@@ -15170,7 +15170,7 @@
         "DIAMOND_PICKAXE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 7
@@ -15183,7 +15183,7 @@
       "Logins": 12,
       "BlockPlace": 475,
       "CraftedItems": 40,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 7
     }
   },
@@ -15232,7 +15232,7 @@
         "count": 13
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       }
     },
     "killed": {},
@@ -15243,7 +15243,7 @@
       "BlockPlace": 106,
       "BlockBreak": 1246,
       "Death": 13,
-      "KilledBy": 1
+      "KilledBy": 4
     }
   },
   "56a3e4ac3711ceae7aab83b66dd0c55f98e208a2": {
@@ -15289,7 +15289,7 @@
         "NoInfo": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 12
       },
       "Death": {
         "count": 20
@@ -15306,7 +15306,7 @@
       "BlockPlace": 837,
       "CraftedItems": 34,
       "Logins": 11,
-      "KilledBy": 1,
+      "KilledBy": 12,
       "Death": 20
     }
   },
@@ -15421,7 +15421,7 @@
         "NoInfo": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {},
@@ -15432,7 +15432,7 @@
       "BlockPlace": 106,
       "Death": 11,
       "Logins": 9,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "9dcad505e997a33f209229a14a03713a03a9766f": {
@@ -15472,7 +15472,7 @@
         "STONE": 33
       },
       "KilledBy": {
-        "count": 5
+        "count": 58
       },
       "Death": {
         "count": 61
@@ -15492,7 +15492,7 @@
       "BlockBreak": 620,
       "CraftedItems": 14,
       "BlockPlace": 201,
-      "KilledBy": 5,
+      "KilledBy": 58,
       "Death": 61,
       "Kicks": 2
     }
@@ -15524,7 +15524,7 @@
         "BREAD": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Death": {
         "count": 14
@@ -15543,7 +15543,7 @@
       "Logins": 16,
       "BlockBreak": 377,
       "CraftedItems": 10,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "Death": 14,
       "BlockPlace": 117
     }
@@ -15567,7 +15567,7 @@
         "GRASS": 16
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 6
@@ -15598,7 +15598,7 @@
       "Killed": 3,
       "Logins": 20,
       "BlockBreak": 1035,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 6,
       "BlockPlace": 333,
       "CraftedItems": 10
@@ -15641,7 +15641,7 @@
         "GLASS": 12
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Death": {
         "count": 9
@@ -15657,7 +15657,7 @@
       "BlockBreak": 801,
       "CraftedItems": 20,
       "BlockPlace": 406,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Death": 9
     }
   },
@@ -15742,7 +15742,7 @@
         "STONE_SWORD": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 38
       },
       "Death": {
         "count": 44
@@ -15757,7 +15757,7 @@
       "BlockBreak": 230,
       "BlockPlace": 140,
       "CraftedItems": 6,
-      "KilledBy": 1,
+      "KilledBy": 38,
       "Death": 44
     }
   },
@@ -15846,7 +15846,7 @@
         "GLASS": 1
       },
       "KilledBy": {
-        "count": 5
+        "count": 50
       }
     },
     "killed": {
@@ -15861,7 +15861,7 @@
       "BlockBreak": 417,
       "Death": 56,
       "BlockPlace": 265,
-      "KilledBy": 5
+      "KilledBy": 50
     }
   },
   "5bd510a6634c40f9c276e198234e1e85c2818c82": {
@@ -15892,10 +15892,10 @@
         "count": 45
       },
       "KilledBy": {
-        "count": 3
+        "count": 34
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "CraftedItems": {
         "STICK": 2,
@@ -15911,8 +15911,8 @@
       "BlockBreak": 179,
       "BlockPlace": 111,
       "Death": 45,
-      "KilledBy": 3,
-      "Chat": 2,
+      "KilledBy": 34,
+      "Chat": 1,
       "CraftedItems": 4
     }
   },
@@ -15944,7 +15944,7 @@
         "COBBLESTONE": 118
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 11
@@ -15970,7 +15970,7 @@
       "Logins": 14,
       "CraftedItems": 101,
       "BlockPlace": 226,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 11,
       "BlockBreak": 746
     }
@@ -16019,7 +16019,7 @@
         "NoInfo": 10
       },
       "KilledBy": {
-        "count": 1
+        "count": 24
       },
       "Kicks": {
         "count": 2
@@ -16040,7 +16040,7 @@
       "BlockPlace": 271,
       "Death": 38,
       "Logins": 16,
-      "KilledBy": 1,
+      "KilledBy": 24,
       "Kicks": 2
     }
   },
@@ -16055,7 +16055,7 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "BlockBreak": {
         "GRASS": 25,
@@ -16091,7 +16091,7 @@
         "STONE_SPADE": 1
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {
@@ -16101,11 +16101,11 @@
       "Killed": 1,
       "Logins": 28,
       "Death": 9,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "BlockBreak": 277,
       "BlockPlace": 339,
       "CraftedItems": 36,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "6f3907e37e7aa14063cb1bcfda3b80a583c3308c": {
@@ -16136,7 +16136,7 @@
         "count": 19
       },
       "KilledBy": {
-        "count": 2
+        "count": 9
       },
       "CraftedItems": {
         "STICK": 4,
@@ -16153,7 +16153,7 @@
       "BlockPlace": 282,
       "Logins": 12,
       "Death": 19,
-      "KilledBy": 2,
+      "KilledBy": 9,
       "CraftedItems": 27
     }
   },
@@ -16189,7 +16189,7 @@
         "count": 12
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -16200,7 +16200,7 @@
       "CraftedItems": 2,
       "Logins": 20,
       "Death": 12,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "8e046a69922f2f2e2d58ea34af240bb255b1e40e": {
@@ -16341,7 +16341,7 @@
         "SMOOTH_BRICK": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Death": {
         "count": 12
@@ -16369,7 +16369,7 @@
       "Killed": 0,
       "BlockPlace": 267,
       "BlockBreak": 665,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Death": 12,
       "Logins": 9,
       "CraftedItems": 18
@@ -16411,7 +16411,7 @@
         "STICK": 1
       },
       "Chat": {
-        "count": 8
+        "count": 3
       },
       "Death": {
         "count": 2
@@ -16424,7 +16424,7 @@
       "BlockPlace": 259,
       "BlockBreak": 709,
       "CraftedItems": 45,
-      "Chat": 8,
+      "Chat": 3,
       "Death": 2
     }
   },
@@ -16454,7 +16454,7 @@
         "COBBLESTONE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 11
@@ -16479,7 +16479,7 @@
       "Logins": 28,
       "BlockPlace": 282,
       "BlockBreak": 621,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 11,
       "CraftedItems": 100
     }
@@ -16495,7 +16495,7 @@
         "count": 25
       },
       "KilledBy": {
-        "count": 1
+        "count": 17
       },
       "BlockPlace": {
         "OTHER": 60,
@@ -16542,7 +16542,7 @@
       "Killed": 6,
       "Logins": 27,
       "Death": 25,
-      "KilledBy": 1,
+      "KilledBy": 17,
       "BlockPlace": 77,
       "CraftedItems": 39,
       "BlockBreak": 94,
@@ -16579,7 +16579,7 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 4
+        "count": 9
       },
       "CraftedItems": {
         "IRON_CHESTPLATE": 2,
@@ -16596,7 +16596,7 @@
       "Logins": 16,
       "BlockPlace": 195,
       "Death": 9,
-      "KilledBy": 4,
+      "KilledBy": 9,
       "CraftedItems": 6
     }
   },
@@ -16699,7 +16699,7 @@
         "STONE_SWORD": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 23
       },
       "Kicks": {
         "count": 2
@@ -16719,7 +16719,7 @@
       "Death": 27,
       "Logins": 23,
       "CraftedItems": 16,
-      "KilledBy": 1,
+      "KilledBy": 23,
       "Kicks": 2
     }
   },
@@ -16833,7 +16833,7 @@
         "count": 12
       },
       "KilledBy": {
-        "count": 3
+        "count": 6
       }
     },
     "killed": {
@@ -16846,7 +16846,7 @@
       "Logins": 17,
       "BlockPlace": 87,
       "Death": 12,
-      "KilledBy": 3
+      "KilledBy": 6
     }
   },
   "e88e7dffab144e22b65bb52d342afe2479926027": {
@@ -16878,7 +16878,7 @@
         "DIRT": 12
       },
       "KilledBy": {
-        "count": 2
+        "count": 8
       }
     },
     "killed": {
@@ -16891,7 +16891,7 @@
       "Logins": 19,
       "Death": 16,
       "BlockPlace": 83,
-      "KilledBy": 2
+      "KilledBy": 8
     }
   },
   "8a99fc4c648cea04289504aea6bbdfcd4422355a": {
@@ -16996,7 +16996,7 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       }
     },
     "killed": {
@@ -17009,7 +17009,7 @@
       "Logins": 6,
       "CraftedItems": 23,
       "Death": 9,
-      "KilledBy": 2
+      "KilledBy": 6
     }
   },
   "0f221c286152dbc2858c447b461288bac6781722": {
@@ -17031,7 +17031,7 @@
         "NoInfo": 13
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "CraftedItems": {
         "WORKBENCH": 4,
@@ -17064,7 +17064,7 @@
       "Killed": 0,
       "BlockBreak": 626,
       "Logins": 13,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "CraftedItems": 278,
       "BlockPlace": 155,
       "Death": 7
@@ -17367,7 +17367,7 @@
         "CHEST": 2
       },
       "Chat": {
-        "count": 7
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -17383,7 +17383,7 @@
       "BlockPlace": 240,
       "Logins": 7,
       "CraftedItems": 29,
-      "Chat": 7,
+      "Chat": 2,
       "Kicks": 2
     }
   },
@@ -17540,7 +17540,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -17552,7 +17552,7 @@
       "Logins": 5,
       "BlockPlace": 157,
       "Death": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "5e3c2738e07da5d89baea53ae8327b38230b8dd7": {
@@ -17593,7 +17593,7 @@
         "count": 10
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       }
     },
     "killed": {
@@ -17606,7 +17606,7 @@
       "BlockBreak": 249,
       "CraftedItems": 25,
       "Death": 10,
-      "KilledBy": 1
+      "KilledBy": 5
     }
   },
   "4501c18bc2e234de35e2e584dbcb9aa66919c3d4": {
@@ -17629,7 +17629,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "FURNACE": 2,
@@ -17656,7 +17656,7 @@
       "Logins": 11,
       "BlockBreak": 189,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 72,
       "BlockPlace": 323
     }
@@ -17701,10 +17701,10 @@
         "COBBLESTONE": 56
       },
       "KilledBy": {
-        "count": 1
+        "count": 14
       },
       "Chat": {
-        "count": 46
+        "count": 19
       }
     },
     "killed": {
@@ -17717,8 +17717,8 @@
       "Death": 18,
       "Logins": 15,
       "BlockPlace": 186,
-      "KilledBy": 1,
-      "Chat": 46
+      "KilledBy": 14,
+      "Chat": 19
     }
   },
   "1e9609028d40eafd0476de0070d6c9811241766f": {
@@ -17815,7 +17815,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -17826,7 +17826,7 @@
       "Logins": 8,
       "CraftedItems": 86,
       "Death": 5,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "63d4dbacf33ad3972e135814056d8e0e93810b0a": {
@@ -17836,7 +17836,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Logins": {
         "NoInfo": 8
@@ -17883,7 +17883,7 @@
     "summary": {
       "Killed": 1,
       "Death": 7,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Logins": 8,
       "BlockBreak": 551,
       "CraftedItems": 22,
@@ -17946,7 +17946,7 @@
         "NoInfo": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 22
       },
       "Death": {
         "count": 30
@@ -17991,7 +17991,7 @@
     "summary": {
       "Killed": 8,
       "Logins": 14,
-      "KilledBy": 1,
+      "KilledBy": 22,
       "Death": 30,
       "BlockBreak": 120,
       "BlockPlace": 54,
@@ -18144,7 +18144,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       }
     },
     "killed": {
@@ -18160,7 +18160,7 @@
       "Death": 5,
       "CraftedItems": 17,
       "Kicks": 2,
-      "KilledBy": 1
+      "KilledBy": 4
     }
   },
   "1e0b1dfab244cde65cc70118a374988707e0340f": {
@@ -18250,7 +18250,7 @@
         "count": 14
       },
       "KilledBy": {
-        "count": 5
+        "count": 11
       }
     },
     "killed": {},
@@ -18261,7 +18261,7 @@
       "CraftedItems": 55,
       "BlockPlace": 179,
       "Death": 14,
-      "KilledBy": 5
+      "KilledBy": 11
     }
   },
   "d26d61d072961b711abfea557adc4186636481a2": {
@@ -18375,7 +18375,7 @@
         "STONE": 172
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Death": {
         "count": 4
@@ -18388,7 +18388,7 @@
       "BlockBreak": 1164,
       "CraftedItems": 38,
       "BlockPlace": 548,
-      "Chat": 2,
+      "Chat": 1,
       "Death": 4
     }
   },
@@ -18411,7 +18411,7 @@
         "NoInfo": 12
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       },
       "Death": {
         "count": 10
@@ -18425,7 +18425,7 @@
       "BlockBreak": 59,
       "BlockPlace": 533,
       "Logins": 25,
-      "KilledBy": 2,
+      "KilledBy": 6,
       "Death": 10
     }
   },
@@ -18561,7 +18561,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -18572,7 +18572,7 @@
       "BlockPlace": 133,
       "CraftedItems": 21,
       "Death": 7,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "85ff276403a2c85ae296ab534983b44399321f8b": {
@@ -18600,10 +18600,10 @@
         "DIRT": 7
       },
       "Chat": {
-        "count": 15
+        "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -18618,8 +18618,8 @@
       "BlockPlace": 116,
       "Logins": 24,
       "BlockBreak": 211,
-      "Chat": 15,
-      "KilledBy": 1,
+      "Chat": 3,
+      "KilledBy": 2,
       "Death": 4,
       "Kicks": 2
     }
@@ -18663,7 +18663,7 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 3
+        "count": 6
       }
     },
     "killed": {
@@ -18676,7 +18676,7 @@
       "BlockPlace": 469,
       "CraftedItems": 17,
       "Death": 9,
-      "KilledBy": 3
+      "KilledBy": 6
     }
   },
   "a9c0e9dac5aa4cc4950a0553587ca9850784aa25": {
@@ -18707,7 +18707,7 @@
         "WOOD_DOOR": 1
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "SAND": 20,
@@ -18724,7 +18724,7 @@
       "Logins": 15,
       "BlockBreak": 818,
       "CraftedItems": 276,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 242,
       "Death": 4
     }
@@ -18900,7 +18900,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "CHEST": 2,
@@ -18927,7 +18927,7 @@
       "BlockPlace": 182,
       "Logins": 28,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 16,
       "Kicks": 4
     }
@@ -18973,7 +18973,7 @@
         "NoInfo": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {
@@ -18987,7 +18987,7 @@
       "Death": 9,
       "BlockBreak": 289,
       "Logins": 18,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "2541d55c6c287c3f9277f4c7dfad0519785e1396": {
@@ -19071,7 +19071,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 5
+        "count": 15
       },
       "Death": {
         "count": 18
@@ -19087,7 +19087,7 @@
       "CraftedItems": 2,
       "Logins": 10,
       "Kicks": 2,
-      "KilledBy": 5,
+      "KilledBy": 15,
       "Death": 18
     }
   },
@@ -19113,7 +19113,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "BlockPlace": {
         "OTHER": 34,
@@ -19142,7 +19142,7 @@
       "BlockBreak": 261,
       "Logins": 9,
       "Death": 6,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "BlockPlace": 210,
       "CraftedItems": 21
     }
@@ -19188,10 +19188,10 @@
         "COBBLESTONE": 21
       },
       "Chat": {
-        "count": 32
+        "count": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       },
       "Death": {
         "count": 6
@@ -19207,8 +19207,8 @@
       "Kicks": 5,
       "Logins": 22,
       "BlockPlace": 27,
-      "Chat": 32,
-      "KilledBy": 2,
+      "Chat": 1,
+      "KilledBy": 4,
       "Death": 6
     }
   },
@@ -19273,7 +19273,7 @@
         "NoInfo": 17
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockBreak": {
         "GRASS": 4,
@@ -19293,7 +19293,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -19302,19 +19302,19 @@
     "summary": {
       "Killed": 1,
       "Logins": 19,
-      "Chat": 3,
+      "Chat": 1,
       "BlockBreak": 103,
       "CraftedItems": 3,
       "BlockPlace": 135,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "ff863f6fddc97613da7f9127645dd6027e626e56": {
     "playtime": 39,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 16
       },
       "BlockPlace": {
         "DIRT": 67,
@@ -19366,7 +19366,7 @@
     },
     "summary": {
       "Killed": 8,
-      "KilledBy": 1,
+      "KilledBy": 16,
       "BlockPlace": 180,
       "BlockBreak": 237,
       "Logins": 14,
@@ -19460,10 +19460,10 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Chat": {
-        "count": 8
+        "count": 2
       }
     },
     "killed": {
@@ -19476,8 +19476,8 @@
       "Logins": 11,
       "BlockPlace": 107,
       "Death": 4,
-      "KilledBy": 1,
-      "Chat": 8
+      "KilledBy": 4,
+      "Chat": 2
     }
   },
   "583044297a0260647395ef351bcc3fa0853af1bb": {
@@ -19562,7 +19562,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -19576,7 +19576,7 @@
       "BlockPlace": 210,
       "Logins": 13,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "bde45b61474eb33c0bd3fb7b6426f9fec27df4bb": {
@@ -19605,7 +19605,7 @@
         "DIRT": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Death": {
         "count": 10
@@ -19625,7 +19625,7 @@
       "Logins": 16,
       "BlockBreak": 129,
       "BlockPlace": 57,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Death": 10,
       "CraftedItems": 29
     }
@@ -19666,10 +19666,10 @@
         "DIRT": 2
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 4
@@ -19685,8 +19685,8 @@
       "CraftedItems": 15,
       "Logins": 14,
       "BlockBreak": 152,
-      "Chat": 3,
-      "KilledBy": 1,
+      "Chat": 1,
+      "KilledBy": 4,
       "Death": 4
     }
   },
@@ -19724,7 +19724,7 @@
         "DIAMOND_SWORD": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -19734,7 +19734,7 @@
       "BlockPlace": 152,
       "BlockBreak": 626,
       "CraftedItems": 15,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "9076712a33a8d194c9d7a9369c4ac511822e7d2c": {
@@ -19910,7 +19910,7 @@
         "WORKBENCH": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 5
       }
     },
     "killed": {},
@@ -19921,7 +19921,7 @@
       "Logins": 11,
       "BlockPlace": 18,
       "CraftedItems": 56,
-      "KilledBy": 2
+      "KilledBy": 5
     }
   },
   "60d5bc6b45e24cd84af5e7594a1bbdc908cbc332": {
@@ -19976,7 +19976,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockBreak": {
         "COBBLESTONE": 4,
@@ -20013,7 +20013,7 @@
       "Killed": 0,
       "Logins": 20,
       "Death": 5,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockBreak": 231,
       "BlockPlace": 154,
       "CraftedItems": 9,
@@ -20050,10 +20050,10 @@
         "MELON_SEEDS": 1
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "OTHER": 150,
@@ -20074,8 +20074,8 @@
       "Killed": 1,
       "BlockBreak": 1003,
       "CraftedItems": 12,
-      "Chat": 3,
-      "KilledBy": 1,
+      "Chat": 1,
+      "KilledBy": 2,
       "BlockPlace": 249,
       "Death": 2,
       "Logins": 2
@@ -20287,13 +20287,13 @@
         "FURNACE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {
@@ -20305,9 +20305,9 @@
       "BlockPlace": 104,
       "Logins": 12,
       "CraftedItems": 7,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 3,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "514bfe426b4f9dbf8ba11c6166bb6ec9b90d9054": {
@@ -20576,7 +20576,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -20589,7 +20589,7 @@
       "BlockPlace": 4,
       "Logins": 11,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "f28d02e604dfcb146d66d6055cad85b013821c85": {
@@ -20622,7 +20622,7 @@
         "GRAVEL": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -20636,7 +20636,7 @@
       "CraftedItems": 3,
       "BlockPlace": 114,
       "BlockBreak": 316,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2
     }
   },
@@ -20668,7 +20668,7 @@
         "STONE_SWORD": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 12
       },
       "Death": {
         "count": 14
@@ -20693,7 +20693,7 @@
       "BlockPlace": 238,
       "Logins": 4,
       "CraftedItems": 21,
-      "KilledBy": 1,
+      "KilledBy": 12,
       "Death": 14,
       "BlockBreak": 359
     }
@@ -20721,7 +20721,7 @@
         "DIRT": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Death": {
         "count": 6
@@ -20736,7 +20736,7 @@
       "Logins": 7,
       "BlockBreak": 191,
       "BlockPlace": 205,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Death": 6,
       "CraftedItems": 2
     }
@@ -20839,7 +20839,7 @@
         "WOOD_BUTTON": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -20851,7 +20851,7 @@
       "BlockBreak": 699,
       "BlockPlace": 163,
       "CraftedItems": 36,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -20942,7 +20942,7 @@
         "THIN_GLASS": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       },
       "Death": {
         "count": 4
@@ -20957,7 +20957,7 @@
       "CraftedItems": 19,
       "BlockPlace": 280,
       "BlockBreak": 322,
-      "KilledBy": 2,
+      "KilledBy": 4,
       "Death": 4
     }
   },
@@ -20992,7 +20992,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -21005,7 +21005,7 @@
       "BlockPlace": 179,
       "CraftedItems": 7,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "699363a160c666e004572c0baf62d35f1f85dcde": {
@@ -21158,7 +21158,7 @@
         "NoInfo": 13
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {},
@@ -21169,7 +21169,7 @@
       "Death": 6,
       "BlockPlace": 41,
       "Logins": 13,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "8340accc5d7e1bb7a62014b876037cc7642df540": {
@@ -21213,7 +21213,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {},
@@ -21224,7 +21224,7 @@
       "BlockBreak": 185,
       "CraftedItems": 10,
       "Death": 4,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "a7f7b81692e10cbce830dfaaa24a38f6e59eef4c": {
@@ -21311,7 +21311,7 @@
         "STEP": 73
       },
       "Chat": {
-        "count": 11
+        "count": 1
       },
       "Death": {
         "count": 2
@@ -21324,7 +21324,7 @@
       "BlockPlace": 69,
       "Logins": 15,
       "CraftedItems": 95,
-      "Chat": 11,
+      "Chat": 1,
       "Death": 2
     }
   },
@@ -21353,7 +21353,7 @@
         "count": 13
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "COBBLESTONE": 4,
@@ -21382,7 +21382,7 @@
       "BlockBreak": 332,
       "Logins": 10,
       "Death": 13,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 77,
       "CraftedItems": 14,
       "Kicks": 2
@@ -21477,7 +21477,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -21491,7 +21491,7 @@
       "Kicks": 2,
       "BlockPlace": 137,
       "Death": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "cc5b83f89157ebfe1ea6d36593175d4e31eb9e91": {
@@ -21519,7 +21519,7 @@
         "COBBLESTONE": 29
       },
       "KilledBy": {
-        "count": 5
+        "count": 20
       },
       "Death": {
         "count": 20
@@ -21539,7 +21539,7 @@
       "Logins": 13,
       "CraftedItems": 9,
       "BlockPlace": 29,
-      "KilledBy": 5,
+      "KilledBy": 20,
       "Death": 20,
       "Kicks": 2
     }
@@ -21554,7 +21554,7 @@
         "America/Chicago": 17
       },
       "Chat": {
-        "count": 16
+        "count": 2
       },
       "BlockBreak": {
         "COBBLESTONE": 4,
@@ -21574,7 +21574,7 @@
       "Killed": 0,
       "Kicks": 4,
       "Logins": 17,
-      "Chat": 16,
+      "Chat": 2,
       "BlockBreak": 63,
       "BlockPlace": 31,
       "CraftedItems": 2
@@ -21763,7 +21763,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       }
     },
     "killed": {
@@ -21777,7 +21777,7 @@
       "Logins": 8,
       "BlockPlace": 51,
       "Death": 6,
-      "KilledBy": 1
+      "KilledBy": 4
     }
   },
   "0664c6b3c55d0d83851183db30df353a46ec0fd5": {
@@ -21787,7 +21787,7 @@
         "NoInfo": 26
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Death": {
         "count": 7
@@ -21809,7 +21809,7 @@
     "summary": {
       "Killed": 1,
       "Logins": 26,
-      "KilledBy": 1,
+      "KilledBy": 6,
       "Death": 7,
       "BlockPlace": 3,
       "BlockBreak": 4,
@@ -22118,7 +22118,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -22130,7 +22130,7 @@
       "CraftedItems": 18,
       "Death": 6,
       "Kicks": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "ba77d1100593ebfbc112998c85eb032179c7183c": {
@@ -22255,7 +22255,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -22266,7 +22266,7 @@
       "BlockPlace": 51,
       "CraftedItems": 43,
       "Death": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "7fb3d4fb6cebb44f5995b2e6ceb5972309c91f6f": {
@@ -22276,7 +22276,7 @@
         "NoInfo": 11
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "LOG": 2,
@@ -22299,7 +22299,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 11,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 1063,
       "Death": 4,
       "BlockPlace": 19
@@ -22329,7 +22329,7 @@
         "OTHER": 59
       },
       "KilledBy": {
-        "count": 1
+        "count": 10
       },
       "CraftedItems": {
         "INK_SACK": 6,
@@ -22339,7 +22339,7 @@
         "STICK": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {
@@ -22351,9 +22351,9 @@
       "Death": 14,
       "BlockPlace": 58,
       "BlockBreak": 146,
-      "KilledBy": 1,
+      "KilledBy": 10,
       "CraftedItems": 16,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "4ad8954466624ed7401057d609377ccec68e4a23": {
@@ -22628,14 +22628,14 @@
         "NoInfo": 11
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 27,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "97cbc1d8029ed519e5026c6a430294b95329f5c0": {
@@ -22663,7 +22663,7 @@
         "DIRT": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "CraftedItems": {
         "WOOD": 6
@@ -22679,7 +22679,7 @@
       "Death": 13,
       "BlockBreak": 52,
       "BlockPlace": 9,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "CraftedItems": 6
     }
   },
@@ -22691,7 +22691,7 @@
         "NoInfo": 16
       },
       "KilledBy": {
-        "count": 1
+        "count": 8
       },
       "Death": {
         "count": 10
@@ -22714,7 +22714,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 19,
-      "KilledBy": 1,
+      "KilledBy": 8,
       "Death": 10,
       "BlockPlace": 57,
       "BlockBreak": 14
@@ -22731,7 +22731,7 @@
         "NoInfo": 6
       },
       "KilledBy": {
-        "count": 1
+        "count": 8
       },
       "CraftedItems": {
         "WOOD_PICKAXE": 2,
@@ -22762,7 +22762,7 @@
       "Killed": 1,
       "Death": 11,
       "Logins": 11,
-      "KilledBy": 1,
+      "KilledBy": 8,
       "CraftedItems": 27,
       "BlockBreak": 73,
       "BlockPlace": 10
@@ -22782,7 +22782,7 @@
         "STONE": 26
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       },
       "Death": {
         "count": 30
@@ -22809,7 +22809,7 @@
     "summary": {
       "Killed": 1,
       "BlockBreak": 136,
-      "KilledBy": 2,
+      "KilledBy": 6,
       "Death": 30,
       "Logins": 6,
       "CraftedItems": 11,
@@ -22847,7 +22847,7 @@
         "SMOOTH_BRICK": 1
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -22860,7 +22860,7 @@
       "Logins": 13,
       "CraftedItems": 10,
       "BlockPlace": 49,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "2b4cadcf39d33548a7054ccadca1a31c6e3ce253": {
@@ -22955,7 +22955,7 @@
         "NoInfo": 8
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 23,
@@ -22973,7 +22973,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Death": {
         "count": 12
@@ -22985,11 +22985,11 @@
     "summary": {
       "Killed": 1,
       "Logins": 12,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 48,
       "BlockPlace": 44,
       "Kicks": 2,
-      "KilledBy": 1,
+      "KilledBy": 6,
       "Death": 12
     }
   },
@@ -23172,7 +23172,7 @@
         "DIRT": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -23187,7 +23187,7 @@
       "BlockBreak": 457,
       "CraftedItems": 37,
       "BlockPlace": 138,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2,
       "Death": 2
     }
@@ -23269,7 +23269,7 @@
         "NoInfo": 2
       },
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "BlockBreak": {
         "DIAMOND_ORE": 6,
@@ -23304,7 +23304,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -23312,12 +23312,12 @@
       "Killed": 0,
       "Kicks": 2,
       "Logins": 10,
-      "Chat": 4,
+      "Chat": 1,
       "BlockBreak": 344,
       "BlockPlace": 46,
       "CraftedItems": 12,
       "Death": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "2cd299dbe3fac8ef5f237770c6e096803022f8dd": {
@@ -23408,7 +23408,7 @@
         "America/Chicago": 2
       },
       "KilledBy": {
-        "count": 5
+        "count": 27
       },
       "Death": {
         "count": 38
@@ -23429,7 +23429,7 @@
       "Killed": 6,
       "BlockPlace": 17,
       "Logins": 2,
-      "KilledBy": 5,
+      "KilledBy": 27,
       "Death": 38,
       "BlockBreak": 15
     }
@@ -23556,7 +23556,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -23566,7 +23566,7 @@
       "CraftedItems": 10,
       "BlockPlace": 50,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "634d5fe5e321e3397b528a4bc758127193e59984": {
@@ -23610,7 +23610,7 @@
         "America/Chicago": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -23622,7 +23622,7 @@
       "BlockPlace": 33,
       "BlockBreak": 167,
       "Logins": 3,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4
     }
   },
@@ -23765,7 +23765,7 @@
         "IRON_SWORD": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -23778,7 +23778,7 @@
       "BlockPlace": 85,
       "Death": 9,
       "CraftedItems": 31,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "7f1c3051885834d526ede9844d5a6ed024d31919": {
@@ -23804,7 +23804,7 @@
         "ARROW": 1
       },
       "Chat": {
-        "count": 6
+        "count": 3
       }
     },
     "killed": {},
@@ -23814,7 +23814,7 @@
       "BlockPlace": 101,
       "Logins": 8,
       "CraftedItems": 3,
-      "Chat": 6
+      "Chat": 3
     }
   },
   "13fc1772e3e78f29899b2008b310dbf0df22aaa2": {
@@ -23961,7 +23961,7 @@
         "GLASS": 7
       },
       "Chat": {
-        "count": 5
+        "count": 1
       }
     },
     "killed": {
@@ -23976,7 +23976,7 @@
       "CraftedItems": 16,
       "BlockBreak": 191,
       "BlockPlace": 249,
-      "Chat": 5
+      "Chat": 1
     }
   },
   "f11e2167c85063d15f131f2fa61e207b01675486": {
@@ -24040,7 +24040,7 @@
         "LOG": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "BlockPlace": {
         "OTHER": 10,
@@ -24053,7 +24053,7 @@
       "Logins": 14,
       "Death": 17,
       "BlockBreak": 8,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "BlockPlace": 12
     }
   },
@@ -24479,7 +24479,7 @@
         "GLASS": 36
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -24489,7 +24489,7 @@
       "CraftedItems": 58,
       "BlockBreak": 172,
       "BlockPlace": 133,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "dc5473f7d4ac33cd3b308707e6f076ad0d80b683": {
@@ -24611,7 +24611,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 6
@@ -24626,7 +24626,7 @@
       "BlockPlace": 9,
       "CraftedItems": 14,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 6
     }
   },
@@ -24724,7 +24724,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "TORCH": 8
@@ -24748,7 +24748,7 @@
       "Killed": 0,
       "Logins": 5,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 8,
       "BlockBreak": 171,
       "BlockPlace": 42
@@ -24840,7 +24840,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockBreak": {
         "LOG": 82,
@@ -24863,7 +24863,7 @@
       "Killed": 0,
       "Logins": 11,
       "Death": 3,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockBreak": 132,
       "BlockPlace": 42,
       "CraftedItems": 38,
@@ -24874,7 +24874,7 @@
     "playtime": 17,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Logins": {
         "America/Chicago": 5,
@@ -24894,7 +24894,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Logins": 10,
       "Death": 10,
       "BlockBreak": 28,
@@ -24974,7 +24974,7 @@
         "COBBLESTONE": 25
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -24989,7 +24989,7 @@
       "CraftedItems": 15,
       "BlockBreak": 173,
       "BlockPlace": 45,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4,
       "Logins": 11
     }
@@ -25119,7 +25119,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -25129,7 +25129,7 @@
       "Logins": 6,
       "BlockPlace": 85,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "da754bec96c404da9f3f652090cf5fb335135afb": {
@@ -25146,7 +25146,7 @@
         "GRASS": 4
       },
       "KilledBy": {
-        "count": 4
+        "count": 14
       }
     },
     "killed": {},
@@ -25155,7 +25155,7 @@
       "Logins": 10,
       "Death": 22,
       "BlockBreak": 4,
-      "KilledBy": 4
+      "KilledBy": 14
     }
   },
   "64e443bdf39c4974c03847e8b5e5c1e9b0176c24": {
@@ -25396,7 +25396,7 @@
         "America/Chicago": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "COBBLESTONE": 8,
@@ -25412,7 +25412,7 @@
       "BlockBreak": 148,
       "Death": 4,
       "Logins": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 42,
       "CraftedItems": 4
     }
@@ -25589,7 +25589,7 @@
         "SAND": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 12
@@ -25604,7 +25604,7 @@
       "CraftedItems": 12,
       "Logins": 7,
       "BlockPlace": 31,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 12
     }
   },
@@ -25627,7 +25627,7 @@
         "DIRT": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 6
@@ -25639,7 +25639,7 @@
       "BlockBreak": 202,
       "Logins": 8,
       "BlockPlace": 277,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 6
     }
   },
@@ -25867,10 +25867,10 @@
         "count": 10
       },
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -25881,8 +25881,8 @@
       "CraftedItems": 6,
       "Logins": 9,
       "Death": 10,
-      "KilledBy": 1,
-      "Chat": 2
+      "KilledBy": 6,
+      "Chat": 1
     }
   },
   "2273df8bf99d949992713927c925218a33b39ef9": {
@@ -25991,7 +25991,7 @@
         "NoInfo": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -26006,7 +26006,7 @@
       "Killed": 0,
       "BlockBreak": 140,
       "Logins": 9,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "BlockPlace": 38
     }
@@ -26123,7 +26123,7 @@
         "count": 10
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -26134,7 +26134,7 @@
       "CraftedItems": 4,
       "Logins": 9,
       "Death": 10,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "fa8a6f5e821d75d9130b1c7d871744d70a5489e6": {
@@ -26225,7 +26225,7 @@
         "MELON_SEEDS": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Death": {
         "count": 6
@@ -26237,7 +26237,7 @@
       "BlockBreak": 74,
       "BlockPlace": 37,
       "CraftedItems": 4,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Death": 6
     }
   },
@@ -26258,7 +26258,7 @@
         "DIRT": 33
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -26274,7 +26274,7 @@
       "Logins": 5,
       "BlockBreak": 90,
       "BlockPlace": 80,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -26339,7 +26339,7 @@
         "NoInfo": 4
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -26349,7 +26349,7 @@
       "BlockPlace": 424,
       "BlockBreak": 539,
       "Logins": 4,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "b84e75de019ce03da31f5efc6c51a11a5e1994e9": {
@@ -26530,7 +26530,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -26542,7 +26542,7 @@
       "Logins": 5,
       "BlockBreak": 72,
       "Death": 5,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "f49bcdfa78edb2bf5452c7821c5ca54e19bcfa2b": {
@@ -26610,7 +26610,7 @@
         "IRON_PICKAXE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 3
@@ -26626,7 +26626,7 @@
       "Logins": 3,
       "BlockPlace": 2,
       "CraftedItems": 8,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 3,
       "Kicks": 2
     }
@@ -26802,7 +26802,7 @@
         "count": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "WOOD_PICKAXE": 2,
@@ -26819,7 +26819,7 @@
       "BlockBreak": 129,
       "Logins": 4,
       "Death": 9,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 3,
       "BlockPlace": 11
     }
@@ -26847,7 +26847,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -26858,7 +26858,7 @@
       "BlockPlace": 7,
       "CraftedItems": 3,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "9bda04c285303e9a0effdc992117b0f41adfb1be": {
@@ -27016,7 +27016,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -27029,7 +27029,7 @@
       "BlockPlace": 27,
       "CraftedItems": 9,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "c2bc388258252f02d24e8cef17fc797ff08647c8": {
@@ -27154,7 +27154,7 @@
         "COBBLESTONE": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "CraftedItems": {
         "WOOD_HOE": 126,
@@ -27170,7 +27170,7 @@
       "Death": 4,
       "Logins": 2,
       "BlockPlace": 15,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "CraftedItems": 127
     }
   },
@@ -27194,7 +27194,7 @@
         "OTHER": 3
       },
       "KilledBy": {
-        "count": 3
+        "count": 12
       },
       "Death": {
         "count": 18
@@ -27211,7 +27211,7 @@
       "BlockBreak": 68,
       "Kicks": 4,
       "BlockPlace": 7,
-      "KilledBy": 3,
+      "KilledBy": 12,
       "Death": 18
     }
   },
@@ -27236,7 +27236,7 @@
         "GRASS": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -27246,7 +27246,7 @@
       "Death": 7,
       "Logins": 5,
       "BlockBreak": 65,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "1df5f1dc893a128cfb61f9ccb9b4bb523ae980be": {
@@ -27344,7 +27344,7 @@
         "NoInfo": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 11
       },
       "Death": {
         "count": 16
@@ -27357,7 +27357,7 @@
     "summary": {
       "Killed": 2,
       "Logins": 4,
-      "KilledBy": 1,
+      "KilledBy": 11,
       "Death": 16
     }
   },
@@ -27380,7 +27380,7 @@
         "DIRT": 10
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "CraftedItems": {
         "WOOD": 4
@@ -27392,7 +27392,7 @@
       "Logins": 6,
       "BlockBreak": 71,
       "BlockPlace": 10,
-      "Chat": 2,
+      "Chat": 1,
       "CraftedItems": 4
     }
   },
@@ -27434,7 +27434,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Logins": {
         "NoInfo": 3
@@ -27458,7 +27458,7 @@
     "summary": {
       "Killed": 0,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Logins": 3,
       "BlockBreak": 162,
       "BlockPlace": 56,
@@ -27532,7 +27532,7 @@
         "NoInfo": 1
       },
       "Chat": {
-        "count": 6
+        "count": 3
       }
     },
     "killed": {},
@@ -27540,7 +27540,7 @@
       "Killed": 0,
       "Death": 7,
       "Logins": 11,
-      "Chat": 6
+      "Chat": 3
     }
   },
   "30bcc4a47b351183cfcaa20fc46e043ad21532d6": {
@@ -27568,7 +27568,7 @@
         "OTHER": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       }
     },
     "killed": {},
@@ -27579,7 +27579,7 @@
       "CraftedItems": 7,
       "BlockPlace": 12,
       "BlockBreak": 35,
-      "KilledBy": 1
+      "KilledBy": 3
     }
   },
   "aabc0de95b25cc3f9604d39fc43e9457ddcf0338": {
@@ -27745,7 +27745,7 @@
         "WORKBENCH": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 10
       },
       "Death": {
         "count": 20
@@ -27757,7 +27757,7 @@
       "BlockBreak": 41,
       "BlockPlace": 14,
       "CraftedItems": 2,
-      "KilledBy": 1,
+      "KilledBy": 10,
       "Death": 20
     }
   },
@@ -27873,7 +27873,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "DIRT": 4,
@@ -27888,7 +27888,7 @@
       "Killed": 0,
       "BlockBreak": 56,
       "Death": 3,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 17,
       "Logins": 2
     }
@@ -28201,7 +28201,7 @@
         "BREAD": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 5
@@ -28214,7 +28214,7 @@
       "Logins": 8,
       "BlockPlace": 11,
       "CraftedItems": 2,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 5
     }
   },
@@ -28391,13 +28391,13 @@
     "playtime": 11,
     "actions": {
       "Chat": {
-        "count": 16
+        "count": 1
       },
       "Death": {
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 5
       },
       "Kicks": {
         "count": 2
@@ -28409,9 +28409,9 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 16,
+      "Chat": 1,
       "Death": 5,
-      "KilledBy": 1,
+      "KilledBy": 5,
       "Kicks": 2,
       "Logins": 6
     }
@@ -28441,7 +28441,7 @@
         "count": 16
       },
       "KilledBy": {
-        "count": 6
+        "count": 16
       },
       "CraftedItems": {
         "WOOD_AXE": 2,
@@ -28454,7 +28454,7 @@
       "BlockBreak": 133,
       "BlockPlace": 51,
       "Death": 16,
-      "KilledBy": 6,
+      "KilledBy": 16,
       "CraftedItems": 3
     }
   },
@@ -28638,7 +28638,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -28648,7 +28648,7 @@
       "Kicks": 6,
       "Logins": 9,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "c27689e601b60afca272f159b8810d37ad310e31": {
@@ -28921,7 +28921,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -28936,7 +28936,7 @@
       "BlockPlace": 6,
       "BlockBreak": 49,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2
     }
   },
@@ -29365,7 +29365,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -29376,7 +29376,7 @@
       "Killed": 0,
       "Logins": 10,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2
     }
   },
@@ -29759,7 +29759,7 @@
         "OTHER": 10
       },
       "KilledBy": {
-        "count": 2
+        "count": 6
       },
       "Death": {
         "count": 8
@@ -29774,7 +29774,7 @@
       "CraftedItems": 5,
       "Logins": 4,
       "BlockPlace": 15,
-      "KilledBy": 2,
+      "KilledBy": 6,
       "Death": 8
     }
   },
@@ -29869,7 +29869,7 @@
         "COBBLESTONE": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 4
@@ -29885,7 +29885,7 @@
       "Killed": 2,
       "BlockBreak": 15,
       "BlockPlace": 7,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 4,
       "Logins": 2
     }
@@ -29894,7 +29894,7 @@
     "playtime": 9,
     "actions": {
       "KilledBy": {
-        "count": 2
+        "count": 8
       },
       "Death": {
         "count": 8
@@ -29912,7 +29912,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 2,
+      "KilledBy": 8,
       "Death": 8,
       "BlockBreak": 8,
       "CraftedItems": 2,
@@ -30065,7 +30065,7 @@
     "playtime": 9,
     "actions": {
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "CraftedItems": {
         "LADDER": 2,
@@ -30091,7 +30091,7 @@
     },
     "summary": {
       "Killed": 11,
-      "Chat": 3,
+      "Chat": 1,
       "CraftedItems": 5,
       "Logins": 7,
       "BlockBreak": 71
@@ -30136,7 +30136,7 @@
         "OTHER": 1
       },
       "KilledBy": {
-        "count": 3
+        "count": 6
       }
     },
     "killed": {},
@@ -30146,7 +30146,7 @@
       "Death": 7,
       "Logins": 10,
       "BlockPlace": 9,
-      "KilledBy": 3
+      "KilledBy": 6
     }
   },
   "98d51764ba2a2463b332d627a702af6cd22c97aa": {
@@ -30167,7 +30167,7 @@
         "count": 7
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "OTHER": 20,
@@ -30182,7 +30182,7 @@
       "Logins": 6,
       "BlockBreak": 35,
       "Death": 7,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 147
     }
   },
@@ -30202,7 +30202,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -30211,7 +30211,7 @@
       "BlockBreak": 110,
       "Logins": 3,
       "Death": 6,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "02369a1f69a7309e261292221573a1f188b3162a": {
@@ -30293,7 +30293,7 @@
         "America/Chicago": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -30304,7 +30304,7 @@
       "CraftedItems": 7,
       "Death": 2,
       "Logins": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "4a0832467d7fb4697fe0fcbd4b3066f643dd6f54": {
@@ -30350,7 +30350,7 @@
         "WOOD": 4
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 2
@@ -30362,7 +30362,7 @@
       "Logins": 8,
       "BlockBreak": 26,
       "CraftedItems": 7,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 2
     }
   },
@@ -30482,7 +30482,7 @@
         "WORKBENCH": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "OTHER": 14,
@@ -30496,7 +30496,7 @@
       "BlockBreak": 58,
       "Death": 2,
       "CraftedItems": 6,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 17
     }
   },
@@ -30679,7 +30679,7 @@
         "GRAVEL": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -30690,7 +30690,7 @@
       "Killed": 0,
       "Logins": 8,
       "BlockBreak": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -30747,7 +30747,7 @@
         "WOOD_BUTTON": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -30760,7 +30760,7 @@
       "BlockBreak": 38,
       "BlockPlace": 20,
       "CraftedItems": 7,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -30777,7 +30777,7 @@
         "OTHER": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "CraftedItems": {
         "STICK": 2
@@ -30789,7 +30789,7 @@
       "Logins": 8,
       "Death": 10,
       "BlockBreak": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "CraftedItems": 2
     }
   },
@@ -30911,7 +30911,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "OTHER": 4
@@ -30926,7 +30926,7 @@
       "BlockBreak": 69,
       "CraftedItems": 5,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 4,
       "Death": 2
     }
@@ -31039,7 +31039,7 @@
         "NoInfo": 7
       },
       "Chat": {
-        "count": 4
+        "count": 2
       }
     },
     "killed": {},
@@ -31048,7 +31048,7 @@
       "BlockPlace": 2,
       "BlockBreak": 14,
       "Logins": 7,
-      "Chat": 4
+      "Chat": 2
     }
   },
   "6ac6847fd6d7dab34c1c37951ecf1102b426309b": {
@@ -31086,7 +31086,7 @@
         "OTHER": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -31105,7 +31105,7 @@
       "Killed": 0,
       "Logins": 8,
       "BlockBreak": 18,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "CraftedItems": 9,
       "BlockPlace": 46
@@ -31283,7 +31283,7 @@
         "NoInfo": 6
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       },
       "Death": {
         "count": 6
@@ -31293,7 +31293,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 6,
-      "KilledBy": 2,
+      "KilledBy": 4,
       "Death": 6
     }
   },
@@ -31615,7 +31615,7 @@
         "America/Chicago": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "BlockPlace": {
         "OTHER": 8
@@ -31628,7 +31628,7 @@
       "CraftedItems": 5,
       "Death": 3,
       "Logins": 5,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "BlockPlace": 8
     }
   },
@@ -31800,7 +31800,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {
@@ -31813,7 +31813,7 @@
       "BlockBreak": 13,
       "CraftedItems": 3,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "f637f2a7017efaeea94515033f6076edda374f45": {
@@ -31823,7 +31823,7 @@
         "America/Chicago": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -31851,7 +31851,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 5,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4,
       "BlockBreak": 24,
       "CraftedItems": 13,
@@ -31865,7 +31865,7 @@
         "NoInfo": 11
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockBreak": {
         "GLASS": 4,
@@ -31880,7 +31880,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 11,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockBreak": 9,
       "Death": 2
     }
@@ -31951,7 +31951,7 @@
         "GRAVEL": 7
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -31959,7 +31959,7 @@
       "Killed": 0,
       "Logins": 3,
       "BlockBreak": 87,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "cf7a9f28b804da41b68e111d640eef49e54e9232": {
@@ -32059,7 +32059,7 @@
         "America/Chicago": 9
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -32069,7 +32069,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 9,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -32238,7 +32238,7 @@
     "playtime": 6,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -32258,7 +32258,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2,
       "Death": 2,
       "BlockPlace": 5,
@@ -32273,7 +32273,7 @@
         "NoInfo": 1
       },
       "Chat": {
-        "count": 3
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 56
@@ -32286,7 +32286,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 5,
-      "Chat": 3,
+      "Chat": 1,
       "BlockPlace": 56,
       "BlockBreak": 108
     }
@@ -32452,7 +32452,7 @@
         "COBBLESTONE": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "DIRT": 22
@@ -32465,7 +32465,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 23,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 22,
       "Death": 10
     }
@@ -32888,7 +32888,7 @@
         "STONE": 21
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "OTHER": 4
@@ -32901,7 +32901,7 @@
       "CraftedItems": 4,
       "Death": 2,
       "BlockBreak": 39,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 4
     }
   },
@@ -33023,7 +33023,7 @@
         "DIRT": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 10
@@ -33035,7 +33035,7 @@
       "Logins": 4,
       "BlockBreak": 4,
       "BlockPlace": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 10
     }
   },
@@ -33310,7 +33310,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -33320,7 +33320,7 @@
       "Logins": 4,
       "CraftedItems": 2,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "50f2a0053d46977480a965ae303cfbf6ae8ecc60": {
@@ -33378,7 +33378,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "BlockPlace": {
         "OTHER": 8
@@ -33394,7 +33394,7 @@
       "CraftedItems": 8,
       "BlockBreak": 16,
       "Death": 4,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "BlockPlace": 8
     }
   },
@@ -33556,7 +33556,7 @@
         "count": 6
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {
@@ -33569,7 +33569,7 @@
       "BlockBreak": 80,
       "BlockPlace": 20,
       "Death": 6,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "ab98ec78d841a8be9a3c3fe19cb74716aaf0ce0d": {
@@ -33744,7 +33744,7 @@
         "WOOD": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -33756,7 +33756,7 @@
       "BlockBreak": 157,
       "BlockPlace": 4,
       "CraftedItems": 9,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4
     }
   },
@@ -33826,7 +33826,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "America/Chicago": 2,
@@ -33845,7 +33845,7 @@
     "summary": {
       "Killed": 0,
       "Death": 3,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 3,
       "BlockBreak": 34
     }
@@ -34052,7 +34052,7 @@
         "America/Chicago": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -34061,7 +34061,7 @@
       "BlockBreak": 15,
       "Death": 5,
       "Logins": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "c4e9d479bf3b35329fc3ed0988708014df9cc268": {
@@ -34082,7 +34082,7 @@
     "playtime": 5,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 6
       },
       "Logins": {
         "NoInfo": 3
@@ -34094,17 +34094,17 @@
         "OTHER": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 6,
       "Logins": 3,
       "Death": 8,
       "BlockBreak": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "7097395bccf7d86ff89eab411e7651574f35aa7c": {
@@ -34184,7 +34184,7 @@
         "OTHER": 35
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -34201,7 +34201,7 @@
       "Killed": 1,
       "Logins": 4,
       "BlockPlace": 78,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4,
       "BlockBreak": 125
     }
@@ -34252,7 +34252,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 10
@@ -34263,7 +34263,7 @@
       "Killed": 0,
       "BlockBreak": 11,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 10
     }
   },
@@ -34609,7 +34609,7 @@
         "CHEST": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 6
@@ -34628,7 +34628,7 @@
       "Killed": 0,
       "Death": 2,
       "CraftedItems": 14,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 6,
       "BlockPlace": 12,
       "BlockBreak": 30
@@ -34649,7 +34649,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 7
@@ -34661,7 +34661,7 @@
         "count": 4
       },
       "Chat": {
-        "count": 10
+        "count": 4
       }
     },
     "killed": {},
@@ -34669,11 +34669,11 @@
       "Killed": 0,
       "CraftedItems": 8,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 7,
       "BlockBreak": 18,
       "Kicks": 4,
-      "Chat": 10
+      "Chat": 4
     }
   },
   "437f9c50a7ee1b0fd00734b290c056e3bcd592ff": {
@@ -34761,7 +34761,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -34772,7 +34772,7 @@
       "Killed": 0,
       "Logins": 6,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2
     }
   },
@@ -34788,7 +34788,7 @@
         "NoInfo": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 12
@@ -34804,7 +34804,7 @@
       "Killed": 0,
       "BlockBreak": 4,
       "Logins": 5,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 12,
       "CraftedItems": 4
     }
@@ -35197,7 +35197,7 @@
         "America/Chicago": 4
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "OTHER": 4
@@ -35210,7 +35210,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 4,
       "BlockPlace": 8
     }
@@ -35254,7 +35254,7 @@
         "NoInfo": 3
       },
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockBreak": {
         "SAND": 17,
@@ -35269,7 +35269,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 7,
-      "Chat": 2,
+      "Chat": 1,
       "BlockBreak": 26,
       "BlockPlace": 6
     }
@@ -35422,7 +35422,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -35435,7 +35435,7 @@
       "BlockBreak": 65,
       "BlockPlace": 7,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2
     }
   },
@@ -35521,7 +35521,7 @@
         "IRON_LEGGINGS": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 4
       },
       "Logins": {
         "America/Chicago": 2,
@@ -35541,7 +35541,7 @@
     "summary": {
       "Killed": 5,
       "CraftedItems": 6,
-      "KilledBy": 1,
+      "KilledBy": 4,
       "Logins": 3,
       "Death": 8,
       "BlockBreak": 14
@@ -35629,7 +35629,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -35647,7 +35647,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "BlockPlace": 2,
       "BlockBreak": 15
@@ -35821,14 +35821,14 @@
         "America/Chicago": 2
       },
       "Chat": {
-        "count": 8
+        "count": 4
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "Chat": 8
+      "Chat": 4
     }
   },
   "f423d7aa9fd84113c541176cde32b92d4abf46a6": {
@@ -36184,7 +36184,7 @@
         "OTHER": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -36199,7 +36199,7 @@
     "summary": {
       "Killed": 1,
       "BlockBreak": 37,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2,
       "Death": 2
     }
@@ -36335,7 +36335,7 @@
     "playtime": 4,
     "actions": {
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Logins": {
         "NoInfo": 5
@@ -36347,7 +36347,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 4,
+      "Chat": 1,
       "Logins": 5,
       "BlockBreak": 24
     }
@@ -36548,7 +36548,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -36558,7 +36558,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -36648,7 +36648,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -36656,7 +36656,7 @@
       "Killed": 0,
       "Logins": 4,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "b57d4684a72431442143b9fa100d68060844da4d": {
@@ -36672,7 +36672,7 @@
         "America/Chicago": 3
       },
       "Chat": {
-        "count": 3
+        "count": 1
       }
     },
     "killed": {},
@@ -36681,7 +36681,7 @@
       "BlockBreak": 2,
       "Death": 2,
       "Logins": 3,
-      "Chat": 3
+      "Chat": 1
     }
   },
   "eb640987d88320f524a89a004abdfd254eb5a1ab": {
@@ -36868,7 +36868,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -36877,7 +36877,7 @@
       "BlockBreak": 17,
       "Logins": 4,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "5a9388cb683edc7b4a0a499f995bdb7b39538b6b": {
@@ -37234,7 +37234,7 @@
         "WOOD_BUTTON": 1
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -37249,7 +37249,7 @@
       "Logins": 2,
       "BlockBreak": 6,
       "CraftedItems": 20,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "BlockPlace": 4
     }
@@ -37258,7 +37258,7 @@
     "playtime": 4,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "BlockPlace": {
         "OTHER": 43
@@ -37273,7 +37273,7 @@
     },
     "summary": {
       "Killed": 2,
-      "Chat": 2,
+      "Chat": 1,
       "BlockPlace": 43,
       "Logins": 2
     }
@@ -37398,7 +37398,7 @@
         "COBBLESTONE": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -37410,7 +37410,7 @@
       "Logins": 3,
       "BlockBreak": 38,
       "BlockPlace": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4
     }
   },
@@ -37534,7 +37534,7 @@
         "OTHER": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 4
@@ -37548,7 +37548,7 @@
       "Killed": 0,
       "CraftedItems": 15,
       "BlockBreak": 9,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 4,
       "Logins": 2
     }
@@ -38011,7 +38011,7 @@
         "America/Chicago": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -38019,7 +38019,7 @@
       "Killed": 0,
       "BlockBreak": 11,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "bc7ed037c838b02292f811e29550ac992783cdf9": {
@@ -38524,7 +38524,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -38532,7 +38532,7 @@
       "Killed": 0,
       "Logins": 4,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "33bc59fdb67d5acbd38078f0c64bf83d7b227280": {
@@ -38595,7 +38595,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockBreak": {
         "OTHER": 12
@@ -38611,7 +38611,7 @@
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockBreak": 12,
       "Logins": 4,
       "Kicks": 2
@@ -38835,7 +38835,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -38844,7 +38844,7 @@
       "BlockBreak": 4,
       "Logins": 2,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "e644f0dc827aaa3fd82074403da87e5c65d79b54": {
@@ -38865,7 +38865,7 @@
     "playtime": 3,
     "actions": {
       "KilledBy": {
-        "count": 2
+        "count": 5
       },
       "Logins": {
         "NoInfo": 2
@@ -38884,7 +38884,7 @@
     },
     "summary": {
       "Killed": 3,
-      "KilledBy": 2,
+      "KilledBy": 5,
       "Logins": 2,
       "BlockBreak": 13,
       "Death": 6
@@ -38905,7 +38905,7 @@
         "COBBLESTONE": 13
       },
       "Chat": {
-        "count": 5
+        "count": 2
       }
     },
     "killed": {},
@@ -38913,7 +38913,7 @@
       "Killed": 0,
       "BlockBreak": 11,
       "BlockPlace": 15,
-      "Chat": 5
+      "Chat": 2
     }
   },
   "2f10a5ae223774e34ab32dfb0532858fc1f4aed9": {
@@ -39113,7 +39113,7 @@
         "count": 5
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -39123,7 +39123,7 @@
       "Logins": 3,
       "BlockPlace": 6,
       "Death": 5,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "fd53e0baf53e16165b5fef5b240695d0fb326a09": {
@@ -39383,7 +39383,7 @@
         "LOG": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockPlace": {
         "COBBLESTONE": 46,
@@ -39402,7 +39402,7 @@
     "summary": {
       "Killed": 1,
       "BlockBreak": 15,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockPlace": 47,
       "Logins": 2,
       "Death": 8
@@ -39437,7 +39437,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 3
@@ -39447,7 +39447,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 3
     }
   },
@@ -39475,18 +39475,18 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Chat": {
-        "count": 5
+        "count": 1
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
-      "Chat": 5
+      "KilledBy": 2,
+      "Chat": 1
     }
   },
   "e764f14dac693afab26b1e61b5051c77045b5733": {
@@ -39560,7 +39560,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -39569,7 +39569,7 @@
       "Logins": 2,
       "BlockBreak": 108,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "9d7bb75fc4b68123eb1f34b24e9a9d93c688bb61": {
@@ -39738,7 +39738,7 @@
     "playtime": 3,
     "actions": {
       "Chat": {
-        "count": 4
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 4,
@@ -39748,7 +39748,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 4,
+      "Chat": 1,
       "Logins": 5
     }
   },
@@ -39975,7 +39975,7 @@
         "NoInfo": 2
       },
       "Chat": {
-        "count": 5
+        "count": 1
       },
       "Death": {
         "count": 2
@@ -39986,7 +39986,7 @@
       "Killed": 0,
       "BlockBreak": 12,
       "Logins": 2,
-      "Chat": 5,
+      "Chat": 1,
       "Death": 2
     }
   },
@@ -40098,7 +40098,7 @@
         "count": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -40106,7 +40106,7 @@
       "Killed": 0,
       "Logins": 3,
       "Death": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "0c35a94453a21aa5cd1aa51f9597aff8789978f8": {
@@ -40605,7 +40605,7 @@
     "playtime": 3,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -40631,7 +40631,7 @@
     },
     "summary": {
       "Killed": 1,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "CraftedItems": 3,
       "BlockPlace": 12,
@@ -40722,7 +40722,7 @@
         "NoInfo": 4
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -40734,7 +40734,7 @@
     "summary": {
       "Killed": 1,
       "Logins": 4,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -41186,7 +41186,7 @@
         "NoInfo": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -41195,7 +41195,7 @@
       "BlockBreak": 3,
       "BlockPlace": 2,
       "Logins": 2,
-      "Chat": 2
+      "Chat": 1
     }
   },
   "6bacae53270a109f80d793e3606e6781f8b0643b": {
@@ -41512,7 +41512,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 3
@@ -41522,7 +41522,7 @@
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 3
     }
   },
@@ -41935,7 +41935,7 @@
         "count": 4
       },
       "KilledBy": {
-        "count": 2
+        "count": 4
       }
     },
     "killed": {},
@@ -41944,7 +41944,7 @@
       "BlockBreak": 11,
       "Logins": 2,
       "Death": 4,
-      "KilledBy": 2
+      "KilledBy": 4
     }
   },
   "ceb3c625cc65d04b72d7ddcd32620ccd54eb329e": {
@@ -42078,7 +42078,7 @@
     "playtime": 2,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -42090,7 +42090,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2,
       "Logins": 3
     }
@@ -42278,7 +42278,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Kicks": {
         "count": 2
@@ -42290,7 +42290,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Kicks": 2,
       "Logins": 4
     }
@@ -42422,7 +42422,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 4
@@ -42432,7 +42432,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 4
     }
   },
@@ -42530,7 +42530,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "America/Chicago": 4
@@ -42540,7 +42540,7 @@
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 4
     }
   },
@@ -42913,7 +42913,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -42924,7 +42924,7 @@
       "Killed": 0,
       "BlockBreak": 15,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2
     }
   },
@@ -43186,7 +43186,7 @@
         "America/Chicago": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -43196,7 +43196,7 @@
       "Death": 2,
       "Kicks": 2,
       "Logins": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "efb30da0c55ce7e031a04ba839882ce0b2c79949": {
@@ -43412,10 +43412,10 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Chat": {
-        "count": 2
+        "count": 1
       }
     },
     "killed": {},
@@ -43423,8 +43423,8 @@
       "Killed": 0,
       "Logins": 3,
       "Death": 2,
-      "KilledBy": 1,
-      "Chat": 2
+      "KilledBy": 2,
+      "Chat": 1
     }
   },
   "5bbf8f6d94c07dc1102ce07ffb2b55083c1574ec": {
@@ -43660,7 +43660,7 @@
         "DIRT": 8
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -43671,7 +43671,7 @@
       "Killed": 0,
       "BlockBreak": 46,
       "BlockPlace": 8,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -44316,7 +44316,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "BlockBreak": {
         "STONE": 2,
@@ -44330,7 +44330,7 @@
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "BlockBreak": 3,
       "Logins": 2
     }
@@ -44493,7 +44493,7 @@
     "playtime": 2,
     "actions": {
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -44505,7 +44505,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 4,
+      "Chat": 2,
       "Kicks": 2,
       "Logins": 4
     }
@@ -44758,7 +44758,7 @@
         "NoInfo": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -44766,7 +44766,7 @@
       "Killed": 0,
       "Death": 2,
       "Logins": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "1ec6617e33899d3bf9cae5a6bb8b6d09b66007cd": {
@@ -44799,7 +44799,7 @@
         "OTHER": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -44812,7 +44812,7 @@
     "summary": {
       "Killed": 0,
       "BlockBreak": 5,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2,
       "Death": 2
     }
@@ -44987,7 +44987,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -44997,7 +44997,7 @@
     "summary": {
       "Killed": 0,
       "Logins": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -45439,7 +45439,7 @@
     "playtime": 2,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 3
       },
       "Death": {
         "count": 3
@@ -45454,7 +45454,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 3,
       "Death": 3,
       "Logins": 2,
       "BlockBreak": 2
@@ -45542,7 +45542,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -45551,7 +45551,7 @@
       "BlockBreak": 9,
       "Logins": 3,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "2ec4e8ca994806bcdce558fdf7fb2d200d43640a": {
@@ -45695,7 +45695,7 @@
         "NoInfo": 3
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -45703,7 +45703,7 @@
       "Killed": 0,
       "Death": 3,
       "Logins": 3,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "6e3c5ef52e1964af447db306c4c9c75e16151ea0": {
@@ -46271,7 +46271,7 @@
         "DIRT": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Kicks": {
         "count": 2
@@ -46285,7 +46285,7 @@
       "Killed": 0,
       "BlockBreak": 5,
       "BlockPlace": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Kicks": 2,
       "Death": 2
     }
@@ -47345,7 +47345,7 @@
     "playtime": 1,
     "actions": {
       "Chat": {
-        "count": 2
+        "count": 1
       },
       "Logins": {
         "America/Chicago": 2
@@ -47354,7 +47354,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 2,
+      "Chat": 1,
       "Logins": 2
     }
   },
@@ -47404,14 +47404,14 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "d92099be634ef086e4db1e609df114052ed733dd": {
@@ -47649,7 +47649,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -47657,14 +47657,14 @@
       "Killed": 0,
       "Death": 2,
       "Logins": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "a270e711d9e990aa2e556ee937b1603c48a8de0a": {
     "playtime": 1,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -47673,7 +47673,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -47998,7 +47998,7 @@
     "playtime": 1,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -48007,7 +48007,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -48700,7 +48700,7 @@
     "playtime": 1,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -48709,7 +48709,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -48823,7 +48823,7 @@
     "playtime": 1,
     "actions": {
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Death": {
         "count": 2
@@ -48832,7 +48832,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Death": 2
     }
   },
@@ -50812,7 +50812,7 @@
         "America/Chicago": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -50820,7 +50820,7 @@
       "Killed": 0,
       "Death": 2,
       "Logins": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "902e0e156904dfecc619f0cde2e9a669d621b307": {
@@ -50856,14 +50856,14 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "31bb35590c11599241574cfd5860badd6f27f5f1": {
@@ -53772,7 +53772,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -53780,7 +53780,7 @@
       "Killed": 0,
       "Logins": 2,
       "Death": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "20de905fca961ac699f50f10af76309c87b7d48d": {
@@ -54361,7 +54361,7 @@
         "count": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -54371,7 +54371,7 @@
     "summary": {
       "Killed": 0,
       "Death": 2,
-      "KilledBy": 1,
+      "KilledBy": 2,
       "Logins": 2
     }
   },
@@ -55325,7 +55325,7 @@
     "playtime": 1,
     "actions": {
       "Chat": {
-        "count": 4
+        "count": 2
       },
       "Logins": {
         "NoInfo": 2
@@ -55334,7 +55334,7 @@
     "killed": {},
     "summary": {
       "Killed": 0,
-      "Chat": 4,
+      "Chat": 2,
       "Logins": 2
     }
   },
@@ -57030,7 +57030,7 @@
         "NoInfo": 2
       },
       "KilledBy": {
-        "count": 1
+        "count": 2
       }
     },
     "killed": {},
@@ -57038,7 +57038,7 @@
       "Killed": 0,
       "Death": 2,
       "Logins": 2,
-      "KilledBy": 1
+      "KilledBy": 2
     }
   },
   "ab9a0bed135c76ee0075a7ae6a76e9e6a776aa64": {

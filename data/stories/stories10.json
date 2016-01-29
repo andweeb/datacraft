@@ -1,0 +1,1764 @@
+{
+  "7cf6b3b5dbbecc83800633a8304b1ebda655aace": {
+    "41580": [
+      {
+        "stop_t": "41584",
+        "action": "Chat",
+        "player_b": "82b57e870c9178d39ccf0d904793698f2870d1f1"
+      }
+    ],
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "Chat",
+        "player_b": "a9961f21165515d44318bfa4fc4c8f6f4c7c7232"
+      }
+    ],
+    "41820": [
+      {
+        "stop_t": "41821",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      },
+      {
+        "stop_t": "41821",
+        "action": "Chat",
+        "player_b": "f12f87337c79d73a3ef13b8ea1a158e87b90ffb5"
+      }
+    ],
+    "43020": [
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "cbca967d86ed26071a450b6f5d1b0c0c41de2c80"
+      },
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "e6576e11a8b55a0e36cd64207921352c556d7987"
+      }
+    ],
+    "48960": [
+      {
+        "stop_t": "48963",
+        "action": "Chat",
+        "player_b": "ad08eb6c0d068f742dc9533156d40d7bf2fdf368"
+      }
+    ]
+  },
+  "82af578f7a1420afd84f1153263c0c83a9765bfb": {
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "616b988b89e406089f2f8b8b35930301b1873325": {
+    "40320": [
+      {
+        "stop_t": "40328",
+        "action": "Chat",
+        "player_b": "c2dbbd779dd0db5cec4f61a87b0c381dd4904d0d"
+      },
+      {
+        "stop_t": "40325",
+        "action": "Chat",
+        "player_b": "897e57ecce24ebee4a01172f2977fd6bfd30a491"
+      },
+      {
+        "stop_t": "40321",
+        "action": "Chat",
+        "player_b": "5a615a44b08fe408d5f82548187407fb1bb95efb"
+      },
+      {
+        "stop_t": "40321",
+        "action": "Chat",
+        "player_b": "969ebe3348e5b0b099211b933e2112e1a3a04734"
+      },
+      {
+        "stop_t": "40321",
+        "action": "Chat",
+        "player_b": "d2efb2b5cb2c5b93bdcef8c2a475e8f11ac8a201"
+      }
+    ],
+    "41700": [
+      {
+        "stop_t": "41703",
+        "action": "Chat",
+        "player_b": "fcf012b780358c229877cc87c9abf8229ca326b0"
+      },
+      {
+        "stop_t": "41702",
+        "action": "Chat",
+        "player_b": "48da93c2dc4d4dcba42f076c6845d3b900d09b27"
+      }
+    ]
+  },
+  "5a615a44b08fe408d5f82548187407fb1bb95efb": {
+    "40320": [
+      {
+        "stop_t": "40328",
+        "action": "Chat",
+        "player_b": "42fd069aee764a5c2c973f9bb52ecf962d49e31b"
+      },
+      {
+        "stop_t": "40321",
+        "action": "Chat",
+        "player_b": "5942423bc45a823a9081be377cdb00aae9e6dedf"
+      },
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ]
+  },
+  "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc": {
+    "40320": [
+      {
+        "stop_t": "40322",
+        "action": "Chat",
+        "player_b": "42fd069aee764a5c2c973f9bb52ecf962d49e31b"
+      }
+    ],
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "Chat",
+        "player_b": "4a01dd50a5e8ececcbe2317c2926ac38d5c80a10"
+      },
+      {
+        "stop_t": "40381",
+        "action": "Chat",
+        "player_b": "c2dbbd779dd0db5cec4f61a87b0c381dd4904d0d"
+      }
+    ],
+    "41640": [
+      {
+        "stop_t": "41644",
+        "action": "Chat",
+        "player_b": "fcf012b780358c229877cc87c9abf8229ca326b0"
+      },
+      {
+        "stop_t": "41641",
+        "action": "Chat",
+        "player_b": "007298ccefbd9460ec6afa8b9f7b6c4a421c70e5"
+      }
+    ],
+    "41880": [
+      {
+        "stop_t": "41890",
+        "action": "Chat",
+        "player_b": "ad08eb6c0d068f742dc9533156d40d7bf2fdf368"
+      }
+    ],
+    "42960": [
+      {
+        "stop_t": "42961",
+        "action": "Chat",
+        "player_b": "7282ac37a75770ab3352879128ad92deee54900f"
+      },
+      {
+        "stop_t": "42961",
+        "action": "Chat",
+        "player_b": "f84a3d5a8e4d8548a5d91580dcdab6c38f0b34dc"
+      }
+    ],
+    "44040": [
+      {
+        "stop_t": "44041",
+        "action": "Chat",
+        "player_b": "1cf4e8fd74eeeff50ba5ab9b39e09c82051d1426"
+      }
+    ]
+  },
+  "154bf7d64cfaf3f244776ace8366d674663bebbd": {
+    "45540": [
+      {
+        "stop_t": "45541",
+        "action": "KilledBy",
+        "player_b": "6b6a78b654f35f6fd3d24368eb3f9cb382dd383b"
+      }
+    ]
+  },
+  "de8d00d53ca34d4f25b712d9cf282b93f98b6255": {
+    "41640": [
+      {
+        "stop_t": "41643",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      },
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ],
+    "45840": [
+      {
+        "stop_t": "45841",
+        "action": "KilledBy",
+        "player_b": "6b6a78b654f35f6fd3d24368eb3f9cb382dd383b"
+      }
+    ]
+  },
+  "b5ca08df4da7835cc3d3220ad3dcc7b1e3fa7825": {
+    "40320": [
+      {
+        "stop_t": "40323",
+        "action": "KilledBy",
+        "player_b": "5a615a44b08fe408d5f82548187407fb1bb95efb"
+      },
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "a00da0597317774f479dc38842fffc55e4fab667"
+      }
+    ],
+    "41520": [
+      {
+        "stop_t": "41521",
+        "action": "KilledBy",
+        "player_b": "6bab249f61f42140c365230b4d2dc3f8df7716a5"
+      }
+    ],
+    "41580": [
+      {
+        "stop_t": "41581",
+        "action": "KilledBy",
+        "player_b": "19b8e098a5440247c2a7203815fbaf3412a3a3c4"
+      }
+    ],
+    "44100": [
+      {
+        "stop_t": "44101",
+        "action": "KilledBy",
+        "player_b": "f0f49bd5c80672fda49835c9280eee653270a547"
+      }
+    ],
+    "44160": [
+      {
+        "stop_t": "44161",
+        "action": "Chat",
+        "player_b": "1e41de92ad7fe2802231827aa5e40a41f5ea708b"
+      },
+      {
+        "stop_t": "44162",
+        "action": "KilledBy",
+        "player_b": "dc48e565d74ce90e1f75576119854dbf3ec0b900"
+      },
+      {
+        "stop_t": "44163",
+        "action": "KilledBy",
+        "player_b": "f0f49bd5c80672fda49835c9280eee653270a547"
+      }
+    ],
+    "44220": [
+      {
+        "stop_t": "44222",
+        "action": "KilledBy",
+        "player_b": "744ccae40933811a97c047cdd229a28c9cbbf18c"
+      }
+    ]
+  },
+  "f54be117507b677e4962ad0dd15fb2b0052c6784": {},
+  "f53edcd6c088419205effd8b669603ef791da91e": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      }
+    ],
+    "44100": [
+      {
+        "stop_t": "44101",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ]
+  },
+  "964a573485c420827bbb29ddfd9b243c5528a1ee": {
+    "41700": [
+      {
+        "stop_t": "41701",
+        "action": "KilledBy",
+        "player_b": "616b988b89e406089f2f8b8b35930301b1873325"
+      }
+    ],
+    "44160": [
+      {
+        "stop_t": "44161",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "44161",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ]
+  },
+  "5ae781995377fcb4d6052cd9cd537da886f14e14": {
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ]
+  },
+  "323b2345336df856738386ae17d31fa18e394816": {
+    "40320": [
+      {
+        "stop_t": "40325",
+        "action": "Chat",
+        "player_b": "42fd069aee764a5c2c973f9bb52ecf962d49e31b"
+      }
+    ],
+    "41940": [
+      {
+        "stop_t": "41941",
+        "action": "Chat",
+        "player_b": "ad08eb6c0d068f742dc9533156d40d7bf2fdf368"
+      }
+    ],
+    "49140": [
+      {
+        "stop_t": "49141",
+        "action": "Chat",
+        "player_b": "ad08eb6c0d068f742dc9533156d40d7bf2fdf368"
+      }
+    ],
+    "49200": [
+      {
+        "stop_t": "49201",
+        "action": "Chat",
+        "player_b": "ad08eb6c0d068f742dc9533156d40d7bf2fdf368"
+      }
+    ]
+  },
+  "bece7fe741fa43df2cbc5b034ec58f7ba3691358": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      }
+    ]
+  },
+  "10409d11e717c03c28ad1c4cfe8ecb90de0d7f7a": {
+    "40320": [
+      {
+        "stop_t": "40323",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "43140": [
+      {
+        "stop_t": "43141",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "20f28e2b90d8763721ea193696017f6a10d30e3d": {},
+  "39a5bbb86c7f21bc29c295d1f571ed63ed8854ee": {
+    "40320": [
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "5a615a44b08fe408d5f82548187407fb1bb95efb"
+      }
+    ]
+  },
+  "4732c5c9a500fc24c58aae3656cbe0ed8edd6edc": {},
+  "614d8baf455d406f73507596babcd0dffedc79f3": {},
+  "7a270200a8dedc216cad2c40c17c97f208dc1d87": {},
+  "9228a0d3fea1fc4d2aab481d9d4436b3125fdbc4": {
+    "40320": [
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "a00da0597317774f479dc38842fffc55e4fab667": {
+    "41700": [
+      {
+        "stop_t": "41703",
+        "action": "KilledBy",
+        "player_b": "bb0e65aa43fb093d55730df7dbbfd4792e8e77e1"
+      }
+    ]
+  },
+  "a3ca7d96036ef41364c547c32a39b2918e4eaadd": {
+    "40320": [
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "41580": [
+      {
+        "stop_t": "41582",
+        "action": "KilledBy",
+        "player_b": "19b8e098a5440247c2a7203815fbaf3412a3a3c4"
+      }
+    ],
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "9353f336241b9ac81933de3093937d8d4c392fc6"
+      }
+    ],
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ]
+  },
+  "b27d560b1d2c74a6435ed0da78b2031d94503df6": {},
+  "bb2697c1f74fccb4cb9a07b6923b087717d89a88": {},
+  "bc691f7859619d220500ad6b0ce80e20d47d96a8": {},
+  "d07245ad90f5e02828267851597f19c96c7d9a7c": {
+    "40440": [
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "21a647f9e90b7dd70bb263cd9b52894712e4d7ce"
+      },
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "a807b53d0d04528fe32188358f6c051904eff33b"
+      },
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "fb4dcee8e38012b527cc5b9c132aaa1885831f78"
+      },
+      {
+        "stop_t": "40449",
+        "action": "Chat",
+        "player_b": "08571f3e7a503a3eaecbc944215765aeed009dea"
+      }
+    ],
+    "41880": [
+      {
+        "stop_t": "41891",
+        "action": "Chat",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      },
+      {
+        "stop_t": "41881",
+        "action": "Chat",
+        "player_b": "969ebe3348e5b0b099211b933e2112e1a3a04734"
+      },
+      {
+        "stop_t": "41884",
+        "action": "Chat",
+        "player_b": "40aeed4bb277500588dbef0b9152bc8bfbafb2aa"
+      }
+    ],
+    "41940": [
+      {
+        "stop_t": "41941",
+        "action": "Chat",
+        "player_b": "323b2345336df856738386ae17d31fa18e394816"
+      },
+      {
+        "stop_t": "41945",
+        "action": "Chat",
+        "player_b": "40aeed4bb277500588dbef0b9152bc8bfbafb2aa"
+      }
+    ],
+    "42000": [
+      {
+        "stop_t": "42001",
+        "action": "Chat",
+        "player_b": "897e57ecce24ebee4a01172f2977fd6bfd30a491"
+      }
+    ],
+    "43500": [
+      {
+        "stop_t": "43501",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "44640": [
+      {
+        "stop_t": "44641",
+        "action": "Chat",
+        "player_b": "2b1409b37a0ee207ef0e26726b19df66be3f0124"
+      },
+      {
+        "stop_t": "44641",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      },
+      {
+        "stop_t": "44641",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ],
+    "45660": [
+      {
+        "stop_t": "45661",
+        "action": "Chat",
+        "player_b": "3546c998da638bd5f87ec39d5619b5165c385cc8"
+      },
+      {
+        "stop_t": "45661",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      },
+      {
+        "stop_t": "45662",
+        "action": "Chat",
+        "player_b": "08571f3e7a503a3eaecbc944215765aeed009dea"
+      },
+      {
+        "stop_t": "45662",
+        "action": "Chat",
+        "player_b": "1e258ffcf8ae272a9b5cdc2fe8ae3d6cf4ec345b"
+      },
+      {
+        "stop_t": "45663",
+        "action": "Chat",
+        "player_b": "6f20e51ff135c2627a67419f6226ef35aef20622"
+      }
+    ],
+    "45780": [
+      {
+        "stop_t": "45781",
+        "action": "Chat",
+        "player_b": "02825089704082a03fe192ef3c7055cc1507ed24"
+      },
+      {
+        "stop_t": "45785",
+        "action": "Chat",
+        "player_b": "26a53b0aeef8c981e570d9b4b2797e41a2dc6380"
+      }
+    ],
+    "48960": [
+      {
+        "stop_t": "48964",
+        "action": "Chat",
+        "player_b": "f65aa21a1d4254ecd2c8e6768215a7c281f127ca"
+      },
+      {
+        "stop_t": "48961",
+        "action": "Chat",
+        "player_b": "7cf6b3b5dbbecc83800633a8304b1ebda655aace"
+      },
+      {
+        "stop_t": "48961",
+        "action": "Chat",
+        "player_b": "969ebe3348e5b0b099211b933e2112e1a3a04734"
+      },
+      {
+        "stop_t": "48962",
+        "action": "Chat",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ],
+    "49020": [
+      {
+        "stop_t": "49021",
+        "action": "Chat",
+        "player_b": "7cf6b3b5dbbecc83800633a8304b1ebda655aace"
+      },
+      {
+        "stop_t": "49021",
+        "action": "Chat",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ],
+    "49140": [
+      {
+        "stop_t": "49141",
+        "action": "Chat",
+        "player_b": "897e57ecce24ebee4a01172f2977fd6bfd30a491"
+      }
+    ],
+    "49200": [
+      {
+        "stop_t": "49202",
+        "action": "Chat",
+        "player_b": "897e57ecce24ebee4a01172f2977fd6bfd30a491"
+      }
+    ]
+  },
+  "fafe300b2ce059c5f427afc7a0b5d287fcb48347": {
+    "40320": [
+      {
+        "stop_t": "40321",
+        "action": "Chat",
+        "player_b": "616b988b89e406089f2f8b8b35930301b1873325"
+      },
+      {
+        "stop_t": "40321",
+        "action": "KilledBy",
+        "player_b": "616b988b89e406089f2f8b8b35930301b1873325"
+      }
+    ],
+    "40440": [
+      {
+        "stop_t": "40441",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      },
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "6f20e51ff135c2627a67419f6226ef35aef20622"
+      }
+    ]
+  },
+  "14017603e96cc3b02205fb0fbf80f737062e645b": {
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "203114488d7da7b9eb394070b602c8a77209dbb9": {
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "82af578f7a1420afd84f1153263c0c83a9765bfb"
+      }
+    ]
+  },
+  "24e05b15c794e418b6d38e9f912d3272f9f8a86e": {},
+  "2bcc213d8b44e88f76f58740c60191dfcab29aac": {
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      },
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ]
+  },
+  "2ff416d6be1db2dce2b1118cb19b5c6c5110a795": {
+    "41820": [
+      {
+        "stop_t": "41821",
+        "action": "KilledBy",
+        "player_b": "1e258ffcf8ae272a9b5cdc2fe8ae3d6cf4ec345b"
+      }
+    ]
+  },
+  "35dfb7712f83fe1153552d8cea8a52a4d42b7421": {
+    "42900": [
+      {
+        "stop_t": "42901",
+        "action": "Chat",
+        "player_b": "c5d5a141b42975a8fe98307a12fca817014a316c"
+      }
+    ]
+  },
+  "42e15347cab23dfb3d5fb4f8b1ced93e35fc1352": {},
+  "57b8d5958d620c7506a5e7f13069b784099e62ce": {
+    "40380": [
+      {
+        "stop_t": "40381",
+        "action": "Chat",
+        "player_b": "533208183a19a493b2e0e9efb0d440078b1069d3"
+      },
+      {
+        "stop_t": "40381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "40382",
+        "action": "Chat",
+        "player_b": "969ebe3348e5b0b099211b933e2112e1a3a04734"
+      },
+      {
+        "stop_t": "40384",
+        "action": "Chat",
+        "player_b": "4a01dd50a5e8ececcbe2317c2926ac38d5c80a10"
+      }
+    ],
+    "40440": [
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "08571f3e7a503a3eaecbc944215765aeed009dea"
+      }
+    ],
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "Chat",
+        "player_b": "533208183a19a493b2e0e9efb0d440078b1069d3"
+      },
+      {
+        "stop_t": "41642",
+        "action": "Chat",
+        "player_b": "2d5d5fbb99c5771437c3b6ac523133fd78bb4d9b"
+      },
+      {
+        "stop_t": "41643",
+        "action": "Chat",
+        "player_b": "fcf012b780358c229877cc87c9abf8229ca326b0"
+      }
+    ],
+    "43140": [
+      {
+        "stop_t": "43141",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      },
+      {
+        "stop_t": "43382",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      },
+      {
+        "stop_t": "43382",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "80ccfbbb76922304ead94e364f528244017315e6": {},
+  "b1be950d642f41feb8a628341884f2534913c9c1": {},
+  "c167c6cf08f6b0862419f7f6ea699815bd4eaedc": {},
+  "d2de7ec07ed11d9ebc163a05652d251786813473": {},
+  "eec702a32766ddbf07b85088c1f023446da66a37": {
+    "43020": [
+      {
+        "stop_t": "43021",
+        "action": "KilledBy",
+        "player_b": "f53edcd6c088419205effd8b669603ef791da91e"
+      }
+    ]
+  },
+  "653431a6f833e43af86f10e793068d236a32be0d": {},
+  "1e258ffcf8ae272a9b5cdc2fe8ae3d6cf4ec345b": {
+    "40500": [
+      {
+        "stop_t": "40502",
+        "action": "KilledBy",
+        "player_b": "892f3c283c91784f780a4b2691e12316edb345f9"
+      }
+    ],
+    "44640": [
+      {
+        "stop_t": "44641",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ],
+    "45660": [
+      {
+        "stop_t": "45661",
+        "action": "KilledBy",
+        "player_b": "6f20e51ff135c2627a67419f6226ef35aef20622"
+      }
+    ]
+  },
+  "25d4f738c4cf434f142f69ef79213751a9013b5e": {},
+  "3f86eaf93b69f5043411528c4cffa57704a536b4": {},
+  "6b3af5ebbb06b5bf0d1571698c68076c4e0e3983": {
+    "40440": [
+      {
+        "stop_t": "40443",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "6b660d29d68ff9e57cee257d06f6797457c225b0": {},
+  "6f20e51ff135c2627a67419f6226ef35aef20622": {
+    "40440": [
+      {
+        "stop_t": "40443",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "892f3c283c91784f780a4b2691e12316edb345f9": {
+    "40500": [
+      {
+        "stop_t": "40501",
+        "action": "KilledBy",
+        "player_b": "1e258ffcf8ae272a9b5cdc2fe8ae3d6cf4ec345b"
+      }
+    ]
+  },
+  "91c8714d5c889dce85febb28efedf1b9135bfd26": {},
+  "a2fafebada2179e0a865a3a089f0dce0316861de": {
+    "40440": [
+      {
+        "stop_t": "40441",
+        "action": "Chat",
+        "player_b": "25692cd622bca3c5a69cc044af4c71bc5ceb1e95"
+      }
+    ],
+    "43020": [
+      {
+        "stop_t": "43022",
+        "action": "Chat",
+        "player_b": "3e360039e65b9f924798644b101963e03f56057e"
+      }
+    ],
+    "43320": [
+      {
+        "stop_t": "43324",
+        "action": "Chat",
+        "player_b": "3e360039e65b9f924798644b101963e03f56057e"
+      },
+      {
+        "stop_t": "43321",
+        "action": "Chat",
+        "player_b": "45bd1c71bfba39fd88b5fb0f9ad0c8dfc4e6b203"
+      },
+      {
+        "stop_t": "43321",
+        "action": "Chat",
+        "player_b": "7c3ac0e763d9cb3e680d7218db54505d6c262053"
+      }
+    ],
+    "44040": [
+      {
+        "stop_t": "44041",
+        "action": "KilledBy",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ],
+    "44160": [
+      {
+        "stop_t": "44161",
+        "action": "Chat",
+        "player_b": "b5ca08df4da7835cc3d3220ad3dcc7b1e3fa7825"
+      }
+    ],
+    "44820": [
+      {
+        "stop_t": "44821",
+        "action": "Chat",
+        "player_b": "a9ce32ef6910836b4f36c4d847b9d6e2b4eb56f6"
+      }
+    ]
+  },
+  "b48db03e60bc571e3a7ae941f57c9ff391d1ac10": {},
+  "d788e55a9909282ebed272935f2e91f165603d1d": {},
+  "a1ff66c96d789307f82511cfd4851303b222e103": {
+    "44640": [
+      {
+        "stop_t": "44642",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "f6e820e6576dee504c7fdc7c8e781eaacbf20872": {},
+  "2c91505078d981554b7c7b234f53a87fda68066c": {},
+  "e1b1a9b609e9bbc6371a1f1e0e3e8b5f944cdbfb": {},
+  "d7b0ab0803332cc72c81c72c6cd375b5aa68025f": {},
+  "0138eb236f5816e0724cf469b658153cbbec62f6": {
+    "40680": [
+      {
+        "stop_t": "40681",
+        "action": "Chat",
+        "player_b": "22fb02c0085909d18c338010c1ea0b4b387199d1"
+      }
+    ],
+    "44760": [
+      {
+        "stop_t": "44761",
+        "action": "Chat",
+        "player_b": "86bd849c2b00cb0681c75efba097c5ad63596a5b"
+      },
+      {
+        "stop_t": "44761",
+        "action": "Chat",
+        "player_b": "9c3936a108db266eb99418b0eb8be6b0cef51847"
+      }
+    ]
+  },
+  "22fb02c0085909d18c338010c1ea0b4b387199d1": {},
+  "8d18815bfaf3725e6bd92cc7d34fe0440e7384f2": {},
+  "0851630c287a6d4a18b7663731b0f3b19f91e864": {},
+  "dc4b3f95fde1bd2d95091e6b15f0a78f2167287b": {},
+  "19b8e098a5440247c2a7203815fbaf3412a3a3c4": {
+    "41580": [
+      {
+        "stop_t": "41581",
+        "action": "KilledBy",
+        "player_b": "1350f15d99444e9cd1dfc8fa15c534a90a6810f1"
+      },
+      {
+        "stop_t": "41581",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "41581",
+        "action": "KilledBy",
+        "player_b": "bb0e65aa43fb093d55730df7dbbfd4792e8e77e1"
+      }
+    ]
+  },
+  "124ab5ceedf9d567d1c80871cd09830711417ae3": {},
+  "40aeed4bb277500588dbef0b9152bc8bfbafb2aa": {},
+  "921299b1f5435a40d8059f543caaa03694c8b2a1": {},
+  "95d408d08cff4df5ec5c24cf531588c5a32a4919": {},
+  "1283d75bcb08526373d38ba85b965df7121cd375": {},
+  "26a53b0aeef8c981e570d9b4b2797e41a2dc6380": {
+    "44460": [
+      {
+        "stop_t": "44461",
+        "action": "KilledBy",
+        "player_b": "5a615a44b08fe408d5f82548187407fb1bb95efb"
+      }
+    ],
+    "44700": [
+      {
+        "stop_t": "44701",
+        "action": "Chat",
+        "player_b": "0138eb236f5816e0724cf469b658153cbbec62f6"
+      },
+      {
+        "stop_t": "44701",
+        "action": "Chat",
+        "player_b": "9c04b1140df5dfe152a18287391b1136a13ac250"
+      },
+      {
+        "stop_t": "44701",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      },
+      {
+        "stop_t": "44701",
+        "action": "Chat",
+        "player_b": "f06cdbf154852d3705327ed6fc826e5607de0e75"
+      },
+      {
+        "stop_t": "44701",
+        "action": "Chat",
+        "player_b": "f43d84a5bc2599f87efd3c560d793e26d19d94b8"
+      }
+    ],
+    "45780": [
+      {
+        "stop_t": "45783",
+        "action": "Chat",
+        "player_b": "d07245ad90f5e02828267851597f19c96c7d9a7c"
+      }
+    ]
+  },
+  "6bab249f61f42140c365230b4d2dc3f8df7716a5": {},
+  "802cd71a84fe7c25e704f869454cdb1560ceaa58": {},
+  "2b1409b37a0ee207ef0e26726b19df66be3f0124": {},
+  "4315d755d582aec0e6df8eebfb5630d4187cd4e7": {},
+  "82a68fc0fa6cdb1838c12b84c02846c0c256c4be": {},
+  "d23238aaa23d0b891a581f954cbf8be93609f631": {},
+  "0aa8a8efc75268c166a84e783b67b4369772cde4": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      }
+    ]
+  },
+  "b6b5af05867b7f9efcf1022866baca1fade15895": {},
+  "bb0e65aa43fb093d55730df7dbbfd4792e8e77e1": {
+    "41580": [
+      {
+        "stop_t": "41581",
+        "action": "KilledBy",
+        "player_b": "19b8e098a5440247c2a7203815fbaf3412a3a3c4"
+      },
+      {
+        "stop_t": "41581",
+        "action": "Chat",
+        "player_b": "2ddc63e7086d2527c532ed634729f05504c41fe7"
+      },
+      {
+        "stop_t": "41582",
+        "action": "Chat",
+        "player_b": "7cf6b3b5dbbecc83800633a8304b1ebda655aace"
+      }
+    ],
+    "41700": [
+      {
+        "stop_t": "41701",
+        "action": "KilledBy",
+        "player_b": "744ccae40933811a97c047cdd229a28c9cbbf18c"
+      },
+      {
+        "stop_t": "41701",
+        "action": "KilledBy",
+        "player_b": "a00da0597317774f479dc38842fffc55e4fab667"
+      }
+    ],
+    "48720": [
+      {
+        "stop_t": "48721",
+        "action": "Chat",
+        "player_b": "5a4b45a95f6b0859514796abe763c5b2942732a1"
+      }
+    ]
+  },
+  "eaa4b6150bef96052a24b33633707dd7af7f41f9": {},
+  "ee082225750100487390b3cb02d2e0bc2efd0bfe": {},
+  "2abd2e01d3ab993713598f7cb8c8ccca25c88778": {},
+  "aa41bba02ff2afe4d4cc3525312aaaf99d22cd52": {},
+  "6a1d1dca84ca39a0d86c2d9b2d1c7af5a472f3ab": {},
+  "1350f15d99444e9cd1dfc8fa15c534a90a6810f1": {},
+  "2d03fb2853cf500289c639e1cdb066a35f204d57": {},
+  "3e360039e65b9f924798644b101963e03f56057e": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "Chat",
+        "player_b": "30d81d5d7f6316a749634a2bd84c61c692ee5724"
+      }
+    ],
+    "43020": [
+      {
+        "stop_t": "43025",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "25692cd622bca3c5a69cc044af4c71bc5ceb1e95"
+      },
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "99a050939f896a72360982f97aee6c31e3bc0b56"
+      },
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      },
+      {
+        "stop_t": "43021",
+        "action": "KilledBy",
+        "player_b": "de8d00d53ca34d4f25b712d9cf282b93f98b6255"
+      },
+      {
+        "stop_t": "43021",
+        "action": "KilledBy",
+        "player_b": "e4b4b648df022188bc2477f33bb0aa3a1433f171"
+      }
+    ],
+    "43320": [
+      {
+        "stop_t": "43322",
+        "action": "Chat",
+        "player_b": "1e41de92ad7fe2802231827aa5e40a41f5ea708b"
+      }
+    ],
+    "43380": [
+      {
+        "stop_t": "43382",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "43383",
+        "action": "Chat",
+        "player_b": "4a01dd50a5e8ececcbe2317c2926ac38d5c80a10"
+      },
+      {
+        "stop_t": "43385",
+        "action": "Chat",
+        "player_b": "1e41de92ad7fe2802231827aa5e40a41f5ea708b"
+      }
+    ],
+    "44040": [
+      {
+        "stop_t": "44041",
+        "action": "Chat",
+        "player_b": "30d81d5d7f6316a749634a2bd84c61c692ee5724"
+      }
+    ],
+    "44100": [
+      {
+        "stop_t": "44101",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      },
+      {
+        "stop_t": "44101",
+        "action": "Chat",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ]
+  },
+  "5379148ac25418cd762040d611bcbedd3c26a21e": {
+    "41580": [
+      {
+        "stop_t": "41583",
+        "action": "KilledBy",
+        "player_b": "19b8e098a5440247c2a7203815fbaf3412a3a3c4"
+      }
+    ],
+    "43080": [
+      {
+        "stop_t": "43081",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "6deffd611e08f987817189c55af24547412a1949": {},
+  "80be426324b909f56edde35c486396dfde0fd68d": {
+    "41580": [
+      {
+        "stop_t": "41581",
+        "action": "Chat",
+        "player_b": "4258f20a332c8f6ded33883e28506a0c46388149"
+      }
+    ],
+    "48900": [
+      {
+        "stop_t": "48901",
+        "action": "Chat",
+        "player_b": "8d37f6ffb2853dfd01f3e10ef78ef2d318ed79fc"
+      }
+    ]
+  },
+  "8e29327d495163d68ca9f585618ca0b3c494e4de": {},
+  "9f7a9abfed3ff50a0f154195f8c6feba5a760600": {},
+  "c4e47920cc6ec0f7e295e7f41b93f12f249253e5": {
+    "44280": [
+      {
+        "stop_t": "44281",
+        "action": "KilledBy",
+        "player_b": "c3bd15188efefc238810e8a58819cb899ec218c0"
+      }
+    ]
+  },
+  "d1b5b2bcb080dfedd22c2e57bcf0c5708589c0f4": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      }
+    ]
+  },
+  "0211677d0b0e71c93e6e235b30e2baaa9c318d10": {},
+  "744ccae40933811a97c047cdd229a28c9cbbf18c": {
+    "44220": [
+      {
+        "stop_t": "44221",
+        "action": "KilledBy",
+        "player_b": "b5ca08df4da7835cc3d3220ad3dcc7b1e3fa7825"
+      }
+    ]
+  },
+  "71144f1816aaa1037f578d196a86338fd8965f69": {},
+  "733f6b40467c6dfef9ce46a61f1e42b434384ce2": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "57b8d5958d620c7506a5e7f13069b784099e62ce"
+      }
+    ]
+  },
+  "9353f336241b9ac81933de3093937d8d4c392fc6": {},
+  "a54a8728936c8d7903b59ffe97b53814f647575c": {},
+  "a893579023ea89dd44aff1d1f8281b76d7049d4b": {},
+  "e968b4485a0e891175ea3671a294bfe805e3f9a7": {},
+  "ef6aa4b53c73ee6fdf5d4136ef4963c75bf813ec": {
+    "41640": [
+      {
+        "stop_t": "41641",
+        "action": "KilledBy",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ]
+  },
+  "f726d790dcb3b34db0b0f66bd25c784d1c874f87": {},
+  "f96d0e3968caafdcdbcaf9d8682f1a25acd040e6": {},
+  "c16cfd0d45cec0e4e282b14f71c0efc7f0ef1cc6": {
+    "41700": [
+      {
+        "stop_t": "41701",
+        "action": "Chat",
+        "player_b": "d788e55a9909282ebed272935f2e91f165603d1d"
+      }
+    ],
+    "44640": [
+      {
+        "stop_t": "44641",
+        "action": "KilledBy",
+        "player_b": "1e258ffcf8ae272a9b5cdc2fe8ae3d6cf4ec345b"
+      }
+    ]
+  },
+  "bf9add7f9ff6fa0f8cefa1cf112aad563ece44e8": {},
+  "e07e66787f35da7159becb292bd42eeadf352f88": {},
+  "05d24bf39bf38ccc85d9fef4c4d0a4591979dbcc": {},
+  "3f7fe2a73e305bcf4fa3abceb412469098ae2277": {},
+  "476ff84d2d6115cdbc22522713e1a2d741a8f85c": {},
+  "8cf8008d65824dba747d2d0619dbc60fc13c007b": {},
+  "eeff11a74129bcb876b44da0a312fa4707ea13d2": {},
+  "f0eabbba024a622f935865fc8baa31db3b4a56b5": {},
+  "fba303125420c9db0c965e1a07fe5003330ddff3": {},
+  "25eeac8326333f884f49e44758adfb525ad63ae2": {},
+  "c18466ddf466ba500228f45e38073a317746fe9a": {},
+  "c5d5a141b42975a8fe98307a12fca817014a316c": {
+    "41820": [
+      {
+        "stop_t": "41821",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      }
+    ],
+    "41880": [
+      {
+        "stop_t": "41881",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      }
+    ],
+    "41940": [
+      {
+        "stop_t": "41941",
+        "action": "Chat",
+        "player_b": "f65aa21a1d4254ecd2c8e6768215a7c281f127ca"
+      }
+    ],
+    "42900": [
+      {
+        "stop_t": "42901",
+        "action": "Chat",
+        "player_b": "755abed323614f51b3298ae2c162fe1cb4cb9f65"
+      },
+      {
+        "stop_t": "42901",
+        "action": "Chat",
+        "player_b": "0d86f921e6d42d89ec402b56dbc745d05b51f8ef"
+      }
+    ],
+    "42960": [
+      {
+        "stop_t": "42961",
+        "action": "Chat",
+        "player_b": "f5fcd3d0f96ac2fff51ae6d235133ba1b1033189"
+      }
+    ],
+    "43020": [
+      {
+        "stop_t": "43025",
+        "action": "Chat",
+        "player_b": "f65aa21a1d4254ecd2c8e6768215a7c281f127ca"
+      },
+      {
+        "stop_t": "43021",
+        "action": "Chat",
+        "player_b": "533f4e3dbe4ee9845765edd447ac08cb93475edc"
+      }
+    ],
+    "43140": [
+      {
+        "stop_t": "43141",
+        "action": "Chat",
+        "player_b": "4a01dd50a5e8ececcbe2317c2926ac38d5c80a10"
+      }
+    ]
+  },
+  "f182a251d13eb0bdf2d6568eac6e6deeea31d2c0": {},
+  "497d56be8fc63624f589821073e0bf517b5d9b2d": {},
+  "3d4e68847510da2bff8e6bb2994d03b51a974f1d": {},
+  "b5a04720ab182623d2e5bf7c041a80ef29d571dd": {},
+  "b10d835c491df6332656df7d85320b8c2b2e4273": {},
+  "63cfc09b4dcef25536b170c19e0bcca8756aeb73": {},
+  "85bd01b26887c34cb5402cc9c1d5533e99966f74": {},
+  "9fb907d5ebc91b46a0e6f2a75ec29e2c4e93b4ad": {
+    "43020": [
+      {
+        "stop_t": "43021",
+        "action": "KilledBy",
+        "player_b": "e4b4b648df022188bc2477f33bb0aa3a1433f171"
+      }
+    ]
+  },
+  "83081057972af831e5344e840bc0e1cde3ca592d": {},
+  "b7627e2165aa93965b14ab2c1254d2bd67f58d6d": {},
+  "d01d3ff4ccd23b88e401f5612b6221f172cfb047": {},
+  "e1b7e157a57579ac28c939dee4794f1f56f54913": {},
+  "efeae2675846946c16261f392ad678b30e9d5296": {},
+  "2565778cca5634c36b3648c4ace76bececc69d8d": {},
+  "16d136f42bc2c18a065fa451e029c91a3fff81e6": {},
+  "a9966cbf2079694285fb99999d5a041a124527f4": {},
+  "fec48b271f9968aaf17d69d91ed2070467e55c02": {},
+  "0766d43bd8aeb78170333d1faae790484ab6ab01": {},
+  "6e375c64dfbb00020091865eab0371b01cbc8ae9": {},
+  "180dacd2d3351612ad1be3b263de01e4dade2305": {},
+  "490aa2bbcbfe2f0a9488527ea3f6b116f2c680f7": {},
+  "8cea9b6faca0af85f9a924d4066304208ce9660b": {},
+  "a6ae61615929f892f7b0eed0f26721994c0a6198": {},
+  "5b116e5fbb6278a3679935648def35434fbcb8ea": {},
+  "16c4adba93cd6ec86cf1fb25caecaa63837f9934": {
+    "42960": [
+      {
+        "stop_t": "42961",
+        "action": "Chat",
+        "player_b": "616cdd0925ace1e2650f335c695b2591fd72c121"
+      }
+    ]
+  },
+  "6429519577f80f213f7194b9b511074bb22c82c9": {},
+  "b7933f32ef1b29ff3aa538041eafdfffc6d9c2cd": {},
+  "e4b4b648df022188bc2477f33bb0aa3a1433f171": {
+    "43020": [
+      {
+        "stop_t": "43025",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "2cc54ea7fd605b5ea21d95d7e022a52103bc75ba": {},
+  "8629b28d2b7971705511f267db851ff5c982fef1": {},
+  "c3bd15188efefc238810e8a58819cb899ec218c0": {
+    "44280": [
+      {
+        "stop_t": "44283",
+        "action": "KilledBy",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ],
+    "44460": [
+      {
+        "stop_t": "44461",
+        "action": "KilledBy",
+        "player_b": "d74ca0fac77739166ea50004411bf2e5e5d7fafb"
+      },
+      {
+        "stop_t": "44462",
+        "action": "Chat",
+        "player_b": "0edabdd0334d7afba974eccf35e5cb9ef3eb5052"
+      }
+    ]
+  },
+  "f413957967cd11db8436716cda976ba71ebaa669": {},
+  "15da13ac9c547c204bdab61e30a50211881c1d62": {
+    "44280": [
+      {
+        "stop_t": "44281",
+        "action": "KilledBy",
+        "player_b": "c3bd15188efefc238810e8a58819cb899ec218c0"
+      },
+      {
+        "stop_t": "44282",
+        "action": "KilledBy",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ],
+    "44460": [
+      {
+        "stop_t": "44461",
+        "action": "Chat",
+        "player_b": "c3bd15188efefc238810e8a58819cb899ec218c0"
+      }
+    ],
+    "44520": [
+      {
+        "stop_t": "44521",
+        "action": "Chat",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ]
+  },
+  "2f16412b86f394604fd012060a05e00d4ee6e937": {},
+  "4c67c71f18f8ff7e6fc74ba17aab668087365922": {},
+  "a4336f234fa0517e4492763cf75d25b519b7356c": {},
+  "bb0c3848ccef7d6b11dc99595b1d495e21210b8c": {},
+  "dc48e565d74ce90e1f75576119854dbf3ec0b900": {
+    "44160": [
+      {
+        "stop_t": "44166",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ],
+    "44700": [
+      {
+        "stop_t": "44701",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "44701",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ]
+  },
+  "2d59605f8ccbea7c0f3a4f39408ada1ac3608198": {
+    "43140": [
+      {
+        "stop_t": "43141",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "d41d33384d5f205c09798f8140855a1c5bd38314": {
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "f501c65059de80fd1f238b20754160eb377969a7": {},
+  "51bd02894c7665c73a08f1ca2f9f25de403ab564": {},
+  "6bef9f48fd4d2dde74b07365a128f0dcb36b8a7e": {},
+  "c0deb1cbf2472de86082e41c35d86c3efcccc8c6": {
+    "43320": [
+      {
+        "stop_t": "43321",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "6e4d15652f8942852958eca82189655b806bd023": {},
+  "b0fded57b354e0a946cc3b32b4ef140288132c5b": {
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "294dae857e4428fff59b96ed67fce2b8a76cc3a1": {},
+  "287ac593e8bfbbffbb07f6d27c13a27aee217214": {
+    "43380": [
+      {
+        "stop_t": "43381",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "d74ca0fac77739166ea50004411bf2e5e5d7fafb": {
+    "44280": [
+      {
+        "stop_t": "44283",
+        "action": "KilledBy",
+        "player_b": "c4e47920cc6ec0f7e295e7f41b93f12f249253e5"
+      }
+    ],
+    "44460": [
+      {
+        "stop_t": "44461",
+        "action": "KilledBy",
+        "player_b": "c3bd15188efefc238810e8a58819cb899ec218c0"
+      }
+    ]
+  },
+  "ed00851ae1763a501b004e60b9b04b7bd32e530f": {},
+  "9b947f1c393fe05f3e1ee51a8e0ee9af7f66d340": {
+    "43500": [
+      {
+        "stop_t": "43501",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      }
+    ]
+  },
+  "7a5e48a9779cbee250864e2810ec19859a778b2d": {},
+  "a0cf91a8f522f9388bcf1387ed521468d05c5842": {},
+  "231dc320d958787d62f9e1ac68e439359ce4f168": {},
+  "dcfc41eee6f1872759396b5c59a537ee7af813b8": {},
+  "ff69a4ca2bad5b63fd176177bf42ba5c59ec6c93": {},
+  "2c5e38609693becca2b33c30e4dc3c7d5aa6f084": {},
+  "767a9867282b9d89c969670c6890df8c037ee9e9": {},
+  "b316b4c173dbc85fa989846b280b94566651a983": {},
+  "9777a968dd3f16f378c3d20ea258b4acb54d5a2c": {},
+  "6b6a78b654f35f6fd3d24368eb3f9cb382dd383b": {},
+  "10db744910b6b4b5623da5cabd04cc6bb2d467cd": {},
+  "333f6a5b2b4d36fed396a036b7b754a14fca9bc8": {},
+  "724a935e5f58013de056f8c39bca1cbbc9f8bfe5": {
+    "45720": [
+      {
+        "stop_t": "45721",
+        "action": "KilledBy",
+        "player_b": "9c04b1140df5dfe152a18287391b1136a13ac250"
+      }
+    ]
+  },
+  "bed666608cfb56094d98f59306d6420d5d0f3ff2": {},
+  "9c3936a108db266eb99418b0eb8be6b0cef51847": {},
+  "b6c7c8066b41a2004d1c17cf0794829fa626b992": {},
+  "2a67ea10a96359bab59458ab04a67118ac90f576": {},
+  "374a3aec9777b9a01213bdb26c58114a2ec0b92b": {},
+  "c52faca063a6ce9a19a48defa57939478a4d5be9": {},
+  "f0f49bd5c80672fda49835c9280eee653270a547": {
+    "44160": [
+      {
+        "stop_t": "44162",
+        "action": "KilledBy",
+        "player_b": "5ae781995377fcb4d6052cd9cd537da886f14e14"
+      },
+      {
+        "stop_t": "44164",
+        "action": "KilledBy",
+        "player_b": "a2fafebada2179e0a865a3a089f0dce0316861de"
+      }
+    ],
+    "46200": [
+      {
+        "stop_t": "46201",
+        "action": "KilledBy",
+        "player_b": "5f53b58655117ed03baee314e8ad524bc21d5f66"
+      }
+    ]
+  },
+  "d0709036fdbc17c46c987a9ef4a5c6453ff35c5b": {},
+  "6a42c261fb0744515a192778e795a85837e83d3e": {},
+  "c3ea2dc35911c02c55d2ae8aec65ddad7b3269d0": {},
+  "d6c304b8382702f9ea5b6472a0f69a6d072df74a": {},
+  "7d9bea1c09bb5339d41765ff6ab69f12c18426b2": {},
+  "8ea1e74ab71ff0244929ce0ae3678326771d3c76": {},
+  "9c04b1140df5dfe152a18287391b1136a13ac250": {},
+  "b4c600cbc0fd00f840296bf5ef6d13e18e0fb0be": {},
+  "42a82383c48e9af1658cf51eb9c347ab0340d9c4": {},
+  "004d40bf5a45a8a8ebf1863a0814fa0f7c953e43": {},
+  "0645e1b2fd78e2f4240329fb37da5d761f05468f": {},
+  "16e54325974270ae722254e0ca3694e06843dabb": {},
+  "0ccecb5c86bd08b08515721b0b8f90e31e9c4c36": {},
+  "25626cd554796f76207012af1566a64eca0e49e4": {},
+  "8856e44e7ea1e7dfe4c66a07188bd6b234e9e4af": {},
+  "d02f4c07c580240b5861196872c5364fb5138cc4": {},
+  "d6e70e0cc196f73261163b10e02843003e5289e0": {},
+  "381418f73c3820a65fce83f8ab45257dd72097a1": {},
+  "4250a7ae573b9b6dea2e64d7b5e4434c3bf192cb": {},
+  "8853c9d4977351acc3c05db6886e0a8dff175de6": {},
+  "9c4e5652022b7f3a8201feda3b482fd0ffa1e93d": {},
+  "c79f760f181c2cf6080a198516c01fd45b3d3b1f": {},
+  "e1d9853b79525d9203eade06adb11a36ef488524": {},
+  "fb13238b193e0e620c47c33bf0cc5c045350bbd9": {},
+  "113c97b48cce1c18434070f61c25117336826552": {},
+  "5449002fe94ef5f4d9bea1d01293ef2e9e8867d5": {},
+  "643ef6a4104589c98de6045c1c8f7cd97742c6b4": {},
+  "b42ddf2ac11e2efc7b62148cbb11b4e8aa17a3ba": {},
+  "ce556da6f4c58dea083f1d2ad70a6d3015f4f4fd": {},
+  "df834737553528f41efcaffb70f6c576f36c36ac": {},
+  "3c0491a60ef28cff60614666db7a4104cc4211aa": {},
+  "40f8840c4a3d303ed15df6506b2e6003a5001637": {},
+  "89c7e5cf6b93d6efcff6f27d5bdd42a874adb53f": {},
+  "b51d07b76e6a538c97b6b6b3d311b2b3e78b563a": {},
+  "fc34684749fac70ca7ad723e15e2f077d07eccfa": {},
+  "36b896c7393c5278030ef42aa9e8b05955572e84": {},
+  "680ef61093f4e2cac607725382d0ad894e896bcc": {},
+  "6dc0a1830de9117ad0b49aa3246f192c7b1ca8a5": {},
+  "778d6a2bb37826a80ad7601023106564cc9167aa": {},
+  "794e53fd84cdf1875321dafbaee55a75d958490c": {},
+  "c05a1c723e5bc9d777797177277ba725b3a0ee61": {},
+  "13e8b645c9867402a4ada296672304a50559e7ee": {},
+  "0173e50cb3a3f6b5f40f972ec1bdd24aec3b8820": {},
+  "371d78c9c1253be37ecd3f0494dd351e8f98203d": {},
+  "c2c1612dad3d6123e53e0413f1bd0d1675a83388": {},
+  "f32a04e33479336ea415879aa566bbf450866443": {
+    "44580": [
+      {
+        "stop_t": "44581",
+        "action": "Chat",
+        "player_b": "58e0c8b5f066b1c394e92bc5de1a8724e45ad1e6"
+      }
+    ],
+    "45660": [
+      {
+        "stop_t": "45661",
+        "action": "Chat",
+        "player_b": "be59657e94550c5594924895a70330b9975312cf"
+      }
+    ]
+  },
+  "76d052045fdd8d401e8d5ae41b77f78443c8d61d": {},
+  "d3b3218fc6689fb11ee0315b36d7261cab8559ff": {},
+  "04725ed835df91a2dd9bce5ad8323f7864ca7c03": {},
+  "395b04882cc67bdb2c8ec3b469ad1c36b5bedfed": {},
+  "8820a3d2b3866249698b5f187fd0568f3a30571a": {},
+  "0297d612168fc0748c506bd9e62927ea6d8a1a72": {},
+  "107bf096a8bab447fc63c117c6b4407195c377d6": {},
+  "2fed5917f1665af8e41da6b99f8da8d230565439": {},
+  "616520e15de9d3e8263fcd4b27adc98a92d33b68": {},
+  "6d59e65096ab7286d4593de2f1cae21e1a5ed1a6": {},
+  "173224bf8bca5c09031b6ab8e934043666cd7759": {},
+  "4d822b00e82864b84f48ba2c3a7abe2c5cd0ed2c": {},
+  "5e6b50aafd73af58a40f39bd36b2f96488ca521a": {},
+  "7fee1133909870d956459dbcd609222b11097fde": {},
+  "54f1c76a70755b7a9f72d4ed7f6c549a4c069b4f": {},
+  "793f3b83fa87e870202df00362a21c99d659df13": {},
+  "97acbc30999dc37314901f9aa2fe23c6cb302f56": {},
+  "728d2921c236136201cb77a56c24319e1cb5d89c": {},
+  "299aa742c17057490c5651052eb31c4492acd45d": {},
+  "bc83fa3404694ecb4095708629c3a433b6ead5b7": {},
+  "70c93168eb03e1bd8f93b747d489e192e0060070": {},
+  "624e9fcc505b4b9db2910aa8f5e84feeb6f5ff0e": {},
+  "fad3d68b9309ffb8569e2f4d3f9b9731cbd1ba32": {},
+  "8ef3fcb78de4a3ff8e33c1cbe9f436b9c9d33b39": {},
+  "a95fe25c65e8b1a33a24c0963e54910faeca46da": {},
+  "8b86257a4f6b7d1aff97342f7523ec517d9c8442": {},
+  "0875d148a24355ce2901b199565fea94b1993ef5": {},
+  "21470b51cfa73088e40357e528725f252090ab56": {},
+  "4a02fdd5ddfcaa27f659c78aae15dadf64d08967": {},
+  "afa2ef5e61490e8c1ff0d406abc8f3b6ef5e5e83": {},
+  "2f6d29f34804a1caaf722373d083098abad4dacd": {},
+  "a8055023fa87240fba5ffee7fb99d9096cfb01f9": {},
+  "f5f6c9859cd3bab021a49f01db05a27ea1f2a334": {},
+  "49e9adb7bc20010cddb78f96fb7859612cc6d5eb": {},
+  "a8cd26624409a6dffb2f7407290cde9a39b30298": {},
+  "ccb019333cdc4b248e2cbd3c3094c4402d60dd21": {},
+  "ec8d4fb57ebbbcc70ddb3d5957c59e244e7daf95": {},
+  "0eda7ea8915c71bd10607d0627dc047530f59605": {},
+  "46e534d2857a90c3d4a9b1472f0ec6929a535180": {},
+  "cc2824fba3d30addab9b40575efeea17d64aea1c": {},
+  "2a684503cd2e3e2c09e7daa07182b4caaabfa50b": {},
+  "7592622d06c3f51c46fc047146c4a625bb5b8baa": {},
+  "5f53b58655117ed03baee314e8ad524bc21d5f66": {
+    "46140": [
+      {
+        "stop_t": "46141",
+        "action": "Chat",
+        "player_b": "d69d13dff355e81d491d7a9bcc748c053be44e29"
+      }
+    ],
+    "46200": [
+      {
+        "stop_t": "46203",
+        "action": "KilledBy",
+        "player_b": "f0f49bd5c80672fda49835c9280eee653270a547"
+      }
+    ],
+    "47640": [
+      {
+        "stop_t": "47641",
+        "action": "KilledBy",
+        "player_b": "f0f49bd5c80672fda49835c9280eee653270a547"
+      }
+    ]
+  },
+  "c8218498b940b4eddd1f950751c4dd85e9a6b7f1": {},
+  "22e3414b1d8e17a7846e5e06601c25c69ef9803c": {},
+  "03207166162367c34eb775e4e93ae3ec9c35240a": {},
+  "252cd91e4ebc383611403db008d15a00e278cabe": {},
+  "f4c106852f7340115d67297c41246adda56e927f": {},
+  "962b6b87524b584727b912b98675ba1a8748e69b": {},
+  "9bbf64dd49b63fe82247b5e74cc27239968a3919": {
+    "46500": [
+      {
+        "stop_t": "46501",
+        "action": "KilledBy",
+        "player_b": "f0f49bd5c80672fda49835c9280eee653270a547"
+      }
+    ]
+  },
+  "e88514b84883277ad125699023546b96da8bb0bd": {},
+  "13d301e0459875bb3cd7da46e447232ddef20c08": {},
+  "bac3e099839abc973eba23d9c9a4969659c7b30d": {},
+  "c5c4faa3aba8ca6260824f47fa7b694229e8e9af": {},
+  "befac83ea67b7aa19f8bf183dbd718e382c2b311": {},
+  "7d3b9ca23f4697f20e59ec26be19e9cafdc914f0": {},
+  "a9f73db425c2965bdb5b049b8f4a4ef813c406a4": {},
+  "fae30c16bf74d367de84d08fcdef718e2c11f434": {},
+  "4c5768b1183e9f670d849873b1889cb53f78f810": {},
+  "13565f8880fc8901683010c42ce2f471750ed244": {},
+  "3287f247a6c52ad96438e811bc3601c6b1eb2a83": {},
+  "707e9f498df8c70f1f41cfc2d57676ebe9cdaaaa": {},
+  "27673ca7b9778721a73076477a673a9377545daa": {},
+  "af7dcbb5262599a9a6070c767e091ddc78618ffa": {},
+  "2c0ebdae91070f7bdc63040b07bc3d826f5c5f28": {},
+  "77ff97a4ff14f75e0b00ca5250094065724d936d": {},
+  "9fc303ade60a1261175a08c9e617480c452cd31d": {},
+  "b06f44a267a7bcfad3a691d4825735164c263619": {
+    "47580": [
+      {
+        "stop_t": "47583",
+        "action": "Chat",
+        "player_b": "8a9ecd87690aa308e4bd462ee53866af00a7111f"
+      }
+    ]
+  },
+  "1e8ad1594fc4a4b20a0bdd0780312f193a2fa790": {
+    "47580": [
+      {
+        "stop_t": "47582",
+        "action": "Chat",
+        "player_b": "8a9ecd87690aa308e4bd462ee53866af00a7111f"
+      }
+    ]
+  },
+  "6fe8c7d7acd7d78468413a170fc8c32f8cddd8bb": {},
+  "b882c34837ee1f60793dcea75275320d3f09a62d": {},
+  "d424d924e732067175f48b3dca514a3fe7f3670e": {},
+  "64b74dd2162a1d86767444ba0d3e2e1b31c91e41": {},
+  "89f30a7041e455a76c92204ea845692e141585c6": {},
+  "af4cbea00280e9be7202f09ad6deba31de6e16ec": {},
+  "02ef8d60fa9b9302aafe2d475b2cab728b863bfe": {},
+  "d360827732741de66858cf485a7d4ffa4d5a6b17": {},
+  "bdba331ba07d89d31e5889f02b774667916bebde": {},
+  "cf4cb754b5899169fdc887ad2bdb68a21ab2cbab": {},
+  "7d0071c369b0280695d30fba2aa72365a393b152": {},
+  "91b9945ffaf273d431eb739d2c5e61b2404f66e1": {},
+  "b1062fd94f9a7a99461c6ac45dea5102b754595f": {},
+  "264cc007df25dff0501b972d056b42ca4c5e664c": {},
+  "a930a308bad02fc2d98c0ff3cb1692f76081cf44": {},
+  "12500ec0314b23d843acd27871f9ea3b7aacd964": {},
+  "a5f1f0ddf4f4271ed6917048add2a38e186cc9af": {},
+  "2956a812a65073e5859b7bb4520807746e90103c": {},
+  "4305db0e4d9bf6f90e08e90e823877681323a1cb": {},
+  "25d3c105624e488ac19e69d2c5019e7355e5f97c": {},
+  "ba4873d05181fdabd0630e5a7eb9a6e35532cbbc": {},
+  "924f2f1b3b8be47eabe166a667ae085f3fcfd947": {},
+  "403d10453112a867fe5f3ed630a9864097b290e0": {},
+  "e5eb406d8da4ae09ca3f7a1a6ac0e705a2c91ad0": {},
+  "3d0124f11fc2dbc4a289af5b6c1e26b42a845b17": {}
+}
