@@ -1,9 +1,10 @@
+var interactions = null;
 var playerForce = null;
 var playerCanvas = null;
 
 function drawForceLayout(name, story, color) {
-    console.log('in drawForceLayout()');
-    console.log(story);
+
+    var handles = initSlider();
 
     if(playerCanvas) {
         playerCanvas.transition()
@@ -12,27 +13,7 @@ function drawForceLayout(name, story, color) {
             .remove();
     }
 
-    var nodes = [];
-    nodes.push({
-        x: 350,
-        y: 400,
-        r: 20,
-        name: name,
-        color: color,
-        index: 0,
-        fixed: true
-    },
-    {
-        x: 360,
-        y: 200,
-        r: 10,
-        fixed: false
-    });
-
-    var links = [
-        { source: 0, target: 1 }
-    ];
-
+    interactions = getInteractions(name, story, color);
 
     playerCanvas = d3.select('.canvas')
         .append('svg')
@@ -48,29 +29,82 @@ function drawForceLayout(name, story, color) {
         .style('opacity', 1);
 
     playerForce = d3.layout.force()
-        .nodes(nodes)
-        .links(links)
+        .nodes(interactions.nodes)
+        .links(interactions.links)
         .linkDistance(80)
-        .size([ width/2, height/1.5 ])
-        .charge(-800)
+        .size([ width/2, height/1.2 ])
+        .charge(-100)
         .on("tick", playerTick)
         .start()
 
+    // add the text 
+    d3.select('.node')
+        .append("text")
+        .text(d => d.name);
+
     var link = playerCanvas.selectAll(".link")
-        .data(links)
+        .data(interactions.links)
         .enter().append("line")
         .attr("class", "link");
 
     initCanvas();
-    initSlider();
+}
+
+function randy(min, max) {
+    return Math.floor((Math.random() * max) + min);
+}
+
+// Return the constructed nodes and links arrays
+function getInteractions(name, story, color) {
+    var index = 0;
+    var links = [];
+    var nodes = [];
+    nodes.push({
+        x: 350,
+        y: 400,
+        r: 20,
+        name: name,
+        color: color,
+        index: index,
+    });
+
+    for(var frame in story) {
+        var chapter = story[frame];
+        for(var action in chapter) {
+            // obj contains action / player_b / stop_t
+            index++;
+            var obj = chapter[action];
+
+            console.log(obj.action);
+            nodes.push({
+                x: Math.floor((Math.random() * 400) + 300),
+                y: Math.floor((Math.random() * 500) + 300),
+                r: 10,
+                name: '???',
+                color: (obj.action === 'KilledBy') ? `hsl(100, ${randy(40, 100)}%, 50%)` : `hsl(0, ${randy(40, 100)}%, 50%)`,
+                index: index
+            });
+
+            links.push({
+                source: 0,
+                target: index
+            });
+
+            if(index === 100) {
+                return { nodes: nodes, links: links };
+            }
+        }
+    }
+
+    return { nodes: nodes, links: links };
 }
 
 function playerTick() {
     playerCanvas.selectAll(".link")
-        .attr("x1", function(d) { return d.source.x; })
-        .attr("y1", function(d) { return d.source.y; })
-        .attr("x2", function(d) { return d.target.x; })
-        .attr("y2", function(d) { return d.target.y; });
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y);
 
     var nodes = playerCanvas.selectAll(".node")
         .data(playerForce.nodes(), function(d) {
@@ -95,11 +129,6 @@ function playerTick() {
         .attr("cx", d => d.x)
         .attr("cy", d => d.y);
 
-    // // add the text 
-    // nodes.append("text")
-    //     .attr("x", 12)
-    //     .attr("dy", ".35em")
-    //     .text(function(d) { return d.name; });
 
     nodes
         .exit()

@@ -5,15 +5,6 @@ var playerStats = {};
 var global_ref = [];
 var global_starchart = [];
 
-function servercraft(id) {
-    
-    // d3.json(`data/servers/server${id}players.json`, (error, data) => {
-    //     if(error) throw error;
-    //     console.log(JSON.stringify(data,null,2));
-    // });
-
-}
-
 function initRadarChart() {
     chart = RadarChart.chart();
     var lol = [{
@@ -54,7 +45,7 @@ function randomHSL() {
 
 function constructAxes(data, i) {
     var axes = [];
-    var craftRecord = maxes[i-1].CraftedItems;
+    var craftRecord = (avgs[i-1].CraftedItems + maxes[i-1].CraftedItems)/2;
     if(craftRecord) {
         axes.push({ 
             axis: 'Crafter',
@@ -62,7 +53,7 @@ function constructAxes(data, i) {
         });
     }
 
-    var buildRecord = maxes[i-1].BlockPlace;
+    var buildRecord = (avgs[i-1].BlockPlace + maxes[i-1].BlockPlace)/2;
     if(buildRecord) {
         axes.push({
             axis: 'Builder',
@@ -70,7 +61,7 @@ function constructAxes(data, i) {
         });
     }
 
-    var minerRecord = maxes[i-1].BlockBreak;
+    var minerRecord = (avgs[i-1].BlockBreak + maxes[i-1].BlockBreak)/2;
     if(minerRecord) {
         axes.push({
             axis: 'Miner',
@@ -78,7 +69,7 @@ function constructAxes(data, i) {
         });
     }
 
-    var pvpRecord = maxes[i-1].Killed;
+    var pvpRecord = (avgs[i-1].Killed + maxes[i-1].Killed)/2;
     if(pvpRecord) {
         axes.push({
             axis: 'PvPer',
@@ -86,11 +77,11 @@ function constructAxes(data, i) {
         });
     }
 
-    var socialRecord = maxes[i-1].Chat;
+    var socialRecord = (avgs[i-1].Chat + maxes[i-1].Chat)/2;
     if(socialRecord) {
         axes.push({
             axis: 'Socializer',
-            value: (data.summary.Chat || 0) / socialRecord
+            value: (data.summary.Chat || 0.1) / socialRecord * 10
         });
     }
 
@@ -98,9 +89,6 @@ function constructAxes(data, i) {
 }
 
 function drawStarPlot(name, i, element, dblclick) {
-    console.log(name);
-    console.log(i);
-    console.log(element);
 
     var id = '';
     var hsl = '';

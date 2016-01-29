@@ -24,7 +24,7 @@ function initSlider() {
         .call(d3.slider()
               .axis(true)
               .value([ 10, 25 ])
-              .on("slide", (evt, value) => console.log(evt, value))
+              .on("slide", (evt, value) => value)
         );
 }
 
