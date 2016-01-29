@@ -3,7 +3,7 @@ function startForceLayout(data) {
         .nodes(nodes)
         .size([ width, height ])
         .gravity(0)
-        .charge(0)
+        .charge(-800)
         .on('tick', tick)
         .start();
 

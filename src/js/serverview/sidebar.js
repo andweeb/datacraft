@@ -1,3 +1,5 @@
+var playerForce = null;
+var playerCanvas = null;
 var dblclick_timer = false
 
 function convertPlaytime(seconds) {
@@ -43,19 +45,93 @@ function initServerviewSidebar(id) {
 
 function initCanvas() {
     var newcanvas = document.getElementsByClassName('canvas')[0];
-    newcanvas.style.width = '41vw';
-    newcanvas.style.float = 'left';
     newcanvas.childNodes[0].transform = '';
+    newcanvas.childNodes[0].childNodes[0].style.transform = 'translate(2vw, 20vh)';
 
     d3.select('.svg')
         .attr('width', width/2)
         .attr('transform', '');
 }
 
+function initForceLinkLayout() {
+    console.log('in initForceLinkLayout()');
+    playerCanvas = d3.select('.canvas')
+        .append('svg')
+        .attr('class', 'player-interactions')
+        .attr('width', width/2)
+        .attr('height', height)
+        .style('transform', 'translate(0vw, 2vh)')
+        .style('position', 'absolute');
+
+    playerCanvas.style('opacity', 1e-6)
+        .transition()
+        .duration(1000)
+        .style('opacity', 1);
+
+        // index - the zero-based index of the node within the nodes array.
+        // x - the x-coordinate of the current node position.
+        // y - the y-coordinate of the current node position.
+        // px - the x-coordinate of the previous node position.
+        // py - the y-coordinate of the previous node position.
+        // fixed - a boolean indicating whether node position is locked.
+        // weight - the node weight; the number of associated links.
+
+    playerForce = d3.layout.force()
+        .nodes([{
+            x: 100,
+            y: 100,
+            name: 'Andrew',
+            index: 0,
+        }])
+        .size([ width/2, height/1.5 ])
+        .on("tick", playerTick)
+        .start()
+}
+
+function playerTick() {
+    var nodes = playerCanvas.selectAll(".node")
+        .data(playerForce.nodes(), function(d) {
+            return d.index;
+        });
+
+    nodes
+        .attr("cx", function(d) {
+            return d.x
+        })
+        .attr("cy", function(d) {
+            return d.y
+        });
+
+    nodes
+        .enter()
+        .append("circle")
+        .attr("r", 10)
+        .attr("fill", "Red")
+        .call(playerForce.drag)
+        .attr("class", "node")
+        .attr("cx", function(d) {
+            return d.x
+        })
+        .attr("cy", function(d) {
+            return d.y
+        });
+
+    // // add the text 
+    // nodes.append("text")
+    //     .attr("x", 12)
+    //     .attr("dy", ".35em")
+    //     .text(function(d) { return d.name; });
+
+    nodes
+        .exit()
+        .remove()
+}
+
 function initPlayerList(id) {
     tooltipMouseout();
     initRadarChart();
     initSlider();
+    initForceLinkLayout();
 
     document.getElementsByClassName('info')[0].innerHTML = 'Loading...';
 
