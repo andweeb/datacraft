@@ -6,6 +6,11 @@ var global_ref = [];
 var global_starchart = [];
 
 function initRadarChart() {
+    var starplotTitle = document.createElement('div');
+    starplotTitle.className = 'starplot-title';
+    starplotTitle.innerHTML = 'Player Statistics';
+    document.getElementsByClassName('container')[0].appendChild(starplotTitle);
+
     chart = RadarChart.chart();
     var lol = [{
         axes: [
