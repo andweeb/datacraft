@@ -41,7 +41,7 @@ function rando() {
 }
 
 function randomHSL() {
-    let num = Math.floor((Math.random() * 1000) + 1)
+    var num = Math.floor((Math.random() * 1000) + 1)
     return {
         selection: `hsl(${num}, 78%, 90%)`,
         chart: `hsl(${num}, 78%, 50%)`,
@@ -102,7 +102,7 @@ function drawStarPlot(name, i, element, dblclick) {
     var ref = null;
 
     if(global_ref.length && !dblclick) {
-        for(let i = 0; i < global_ref.length; i++) {
+        for(var i = 0; i < global_ref.length; i++) {
             document.getElementById(global_ref[i].id).style.backgroundColor = 'transparent';
         }
     }
